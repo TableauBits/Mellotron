@@ -14,6 +14,7 @@
 
 ## Checklist
 
-- [ ] Titre
-- [ ] Label
-- [ ] Catégorie
+À être modifié par les reviewers: 
+- [ ] La PR a un bon titre
+- [ ] Les labels sont bien attribués
+- [ ] Les champs de la PR sont correctes
