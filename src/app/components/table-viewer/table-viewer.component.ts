@@ -27,12 +27,9 @@ const ELEMENT_DATA: PeriodicElement[] = [
   templateUrl: './table-viewer.component.html',
   styleUrls: ['./table-viewer.component.scss']
 })
-export class TableViewerComponent implements OnInit {
+export class TableViewerComponent {
 
   constructor() { }
-
-  ngOnInit(): void {
-  }
 
   displayedColumns: string[] = ['position', 'name', 'weight', 'symbol'];
   dataSource = ELEMENT_DATA;
