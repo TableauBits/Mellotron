@@ -1,10 +1,16 @@
 import { Injectable } from '@angular/core';
-import { Song } from 'chelys';
+import { EMPTY_SONG, Song } from 'chelys';
 import { ALL_CONSTITUTIONS_DATA, DataConstitution } from '../constants/constitutions';
 
 export interface DataSong extends Song {
   constitution: string;
   date: string;
+}
+
+export const EMPTY_DATA_SONG: DataSong = {
+  ...EMPTY_SONG,
+  constitution: "",
+  date: ""
 }
 
 @Injectable({

@@ -3,19 +3,13 @@
 // 2. Import the data in JSON in this file
 // 3. Add the imported object in ALL_CONSTITUIONS_DATA
 
+import { Song } from 'chelys';
 import X7 from '../../assets/constitutions/X7.json';
 
 export type DataConstitution = {
   cstName: string;
   date: string;
-  songs: {
-    title: string;
-    url: string;
-    author: string;
-    user: string;
-    id: number;
-    platform: number;
-  }[];
+  songs: Song[];
 }
 
 // Legend :
