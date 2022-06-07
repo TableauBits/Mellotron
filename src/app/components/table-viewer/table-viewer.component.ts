@@ -2,6 +2,7 @@ import { AfterViewInit, Component, ViewChild } from '@angular/core';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatSort } from '@angular/material/sort';
 import { MatTableDataSource } from '@angular/material/table';
+import { DataManagerService } from 'src/app/services/data-manager.service';
 
 export interface User {
   name: string
@@ -31,7 +32,7 @@ export class TableViewerComponent implements AfterViewInit {
   @ViewChild(MatPaginator) paginator!: MatPaginator;
   @ViewChild(MatSort) sort!: MatSort;
 
-  constructor() {
+  constructor(private dataManager: DataManagerService) {
     const users: Song[] = [
       {
         name: 'A',
