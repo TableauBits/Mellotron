@@ -4,6 +4,11 @@
 // 3. Add the imported object in ALL_CONSTITUIONS_DATA
 
 import { Song } from 'chelys';
+import C9 from '../../assets/constitutions/C9.json';
+import X1 from '../../assets/constitutions/X1.json';
+import X2 from '../../assets/constitutions/X2.json';
+import X3 from '../../assets/constitutions/X3.json';
+import X4 from '../../assets/constitutions/X4.json';
 import X7 from '../../assets/constitutions/X7.json';
 
 export type DataConstitution = {
@@ -16,4 +21,7 @@ export type DataConstitution = {
 //  * C ==> Constitution
 //  * X ==> Xenocratie
 
-export const ALL_CONSTITUTIONS_DATA: DataConstitution[] = [X7]
+export const ALL_CONSTITUTIONS_DATA: DataConstitution[] = [
+  C9,
+  X1, X2, X3, X4, X7
+]

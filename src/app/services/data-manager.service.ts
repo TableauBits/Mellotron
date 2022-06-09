@@ -29,11 +29,18 @@ export class DataManagerService {
   }
 
   private init() {
+    // Sort constitutions by date
+    this.constitutions = this.constitutions.sort();
+
+    let i = 0;  // Song counter (also generate unique id)
+
     // Add all the songs in the array
     this.constitutions.forEach((constitution) => {
       this.songs = this.songs.concat(constitution.songs.map((song) => {
+        i++;
         return {
           ...song,
+          id: i,
           constitution: constitution.cstName,
           date: constitution.date,
         }
