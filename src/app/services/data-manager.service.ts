@@ -13,6 +13,12 @@ export const EMPTY_DATA_SONG: DataSong = {
   date: ""
 }
 
+function sortConstitutionByDateDSC(c1: DataConstitution, c2: DataConstitution): number {
+  if (c1.date < c2.date) return 1;
+  if (c1.date > c2.date) return -1;
+  return 0;
+}
+
 @Injectable({
   providedIn: 'root'
 })
@@ -30,7 +36,7 @@ export class DataManagerService {
 
   private init() {
     // Sort constitutions by date
-    this.constitutions = this.constitutions.sort();
+    this.constitutions = this.constitutions.sort(sortConstitutionByDateDSC);
 
     let i = 0;  // Song counter (also generate unique id)
 
