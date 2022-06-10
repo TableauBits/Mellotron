@@ -6,49 +6,41 @@
 <div class="mat-elevation-z8">
     <table mat-table [dataSource]="dataSource" matSort>
 
-        <!-- ID Column -->
         <ng-container matColumnDef="id">
             <th mat-header-cell *matHeaderCellDef mat-sort-header> ID </th>
             <td mat-cell *matCellDef="let row"> {{row.id}} </td>
         </ng-container>
 
-        <!-- Title Column -->
         <ng-container matColumnDef="title">
             <th mat-header-cell *matHeaderCellDef mat-sort-header> Titre </th>
             <td mat-cell *matCellDef="let row"> {{row.title}} </td>
         </ng-container>
 
-        <!-- Author Column -->
         <ng-container matColumnDef="author">
             <th mat-header-cell *matHeaderCellDef mat-sort-header> Auteur </th>
             <td mat-cell *matCellDef="let row"> {{row.author}} </td>
         </ng-container>
 
-        <!-- Platform Column -->
         <ng-container matColumnDef="platform">
             <th mat-header-cell *matHeaderCellDef mat-sort-header> Platforme </th>
             <td mat-cell *matCellDef="let row"> {{row.platform}} </td>
         </ng-container>
 
-        <!-- Constitution Column -->
-        <ng-container matColumnDef="constitution">
+        <ng-container matColumnDef="cstName">
             <th mat-header-cell *matHeaderCellDef mat-sort-header> Constitution </th>
-            <td mat-cell *matCellDef="let row"> {{row.constitution}} </td>
+            <td mat-cell *matCellDef="let row"> {{row.cstName}} </td>
         </ng-container>
 
-        <!-- Url Column -->
         <ng-container matColumnDef="url">
             <th mat-header-cell *matHeaderCellDef mat-sort-header> URL </th>
             <td mat-cell *matCellDef="let row"> {{row.url}} </td>
         </ng-container>
 
-        <!-- User Column -->
         <ng-container matColumnDef="user">
             <th mat-header-cell *matHeaderCellDef mat-sort-header> Utilisateur </th>
             <td mat-cell *matCellDef="let row"> {{row.user}} </td>
         </ng-container>
 
-        <!-- Date Column -->
         <ng-container matColumnDef="date">
             <th mat-header-cell *matHeaderCellDef mat-sort-header> Date </th>
             <td mat-cell *matCellDef="let row"> {{row.date}} </td>

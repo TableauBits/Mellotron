@@ -3,13 +3,13 @@ import { EMPTY_SONG, Song } from 'chelys';
 import { ALL_CONSTITUTIONS_DATA, DataConstitution } from '../constants/constitutions';
 
 export interface DataSong extends Song {
-  constitution: string;
+  cstName: string;
   date: string;
 }
 
 export const EMPTY_DATA_SONG: DataSong = {
   ...EMPTY_SONG,
-  constitution: "",
+  cstName: "",
   date: ""
 }
 
@@ -34,7 +34,7 @@ export class DataManagerService {
       this.songs = this.songs.concat(constitution.songs.map((song) => {
         return {
           ...song,
-          constitution: constitution.cstName,
+          cstName: constitution.cstName,
           date: constitution.date,
         }
       }));
