@@ -49,7 +49,7 @@ export class DataManagerService {
           ...song,
           id: i,
           cstName: constitution.cstName,
-          date: constitution.date,
+          date: new Date(constitution.date).toISOString().slice(0, 10),
         }
       }));
     })

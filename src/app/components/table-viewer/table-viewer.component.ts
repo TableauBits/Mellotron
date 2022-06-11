@@ -2,7 +2,10 @@ import { AfterViewInit, Component, ViewChild } from '@angular/core';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatSort } from '@angular/material/sort';
 import { MatTableDataSource } from '@angular/material/table';
-import { DataManagerService, DataSong, EMPTY_DATA_SONG } from 'src/app/services/data-manager.service';
+import { SongPlatform } from 'chelys';
+import { DataManagerService, DataSong } from 'src/app/services/data-manager.service';
+
+const COLUMNS_ORDER = ["id", "title", "author", "user", "cstName", "date", "platform", "url"];
 
 @Component({
   selector: 'app-table-viewer',
@@ -18,7 +21,7 @@ export class TableViewerComponent implements AfterViewInit {
   @ViewChild(MatSort) sort!: MatSort;
 
   constructor(public dataManager: DataManagerService) {
-    this.displayedColumns = Object.keys(EMPTY_DATA_SONG).sort();  // alphabetical order
+    this.displayedColumns = COLUMNS_ORDER;
 
     // Assign the data to the data source for the table to render
     this.dataSource = new MatTableDataSource(dataManager.songs);
@@ -35,6 +38,16 @@ export class TableViewerComponent implements AfterViewInit {
 
     if (this.dataSource.paginator) {
       this.dataSource.paginator.firstPage();
+    }
+  }
+
+  platformToString(platform: SongPlatform): string {
+    switch (platform) {
+      case SongPlatform.YOUTUBE:
+        return "Youtube"
+    
+      default:
+        return "Unknown"
     }
   }
 }
