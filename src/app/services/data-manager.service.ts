@@ -3,13 +3,13 @@ import { EMPTY_SONG, Song } from 'chelys';
 import { ALL_CONSTITUTIONS_DATA, DataConstitution } from '../constants/constitutions';
 
 export interface DataSong extends Song {
-  constitution: string;
+  cstName: string;
   date: string;
 }
 
 export const EMPTY_DATA_SONG: DataSong = {
   ...EMPTY_SONG,
-  constitution: "",
+  cstName: "",
   date: ""
 }
 
@@ -35,10 +35,11 @@ export class DataManagerService {
   }
 
   private init() {
-    // Sort constitutions by date
+    // Sort constitutions by date, the most recent first
     this.constitutions = this.constitutions.sort(sortConstitutionByDateDSC);
 
-    let i = 0;  // Song counter (also generate unique id)
+    // Song counter (also generate unique id)
+    let i = 0;
 
     // Add all the songs in the array
     this.constitutions.forEach((constitution) => {
@@ -47,7 +48,7 @@ export class DataManagerService {
         return {
           ...song,
           id: i,
-          constitution: constitution.cstName,
+          cstName: constitution.cstName,
           date: constitution.date,
         }
       }));
