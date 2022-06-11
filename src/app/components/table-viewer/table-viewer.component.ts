@@ -2,21 +2,7 @@ import { AfterViewInit, Component, ViewChild } from '@angular/core';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatSort } from '@angular/material/sort';
 import { MatTableDataSource } from '@angular/material/table';
-
-export interface User {
-  name: string
-}
-
-export interface Constitution {
-  name: string
-}
-
-export interface Song {
-  name: string;
-  artist: string;
-  addedby: User;
-  constitution: Constitution;
-}
+import { DataManagerService, DataSong, EMPTY_DATA_SONG } from 'src/app/services/data-manager.service';
 
 @Component({
   selector: 'app-table-viewer',
@@ -25,28 +11,17 @@ export interface Song {
 })
 export class TableViewerComponent implements AfterViewInit {
 
-  displayedColumns: string[] = ['title', 'author', 'user', 'constitution'];
-  dataSource: MatTableDataSource<Song>;
+  displayedColumns: string[];
+  dataSource: MatTableDataSource<DataSong>;
 
   @ViewChild(MatPaginator) paginator!: MatPaginator;
   @ViewChild(MatSort) sort!: MatSort;
 
-  constructor() {
-    const users: Song[] = [
-      {
-        name: 'A',
-        artist: 'B',
-        addedby: {
-          name: 'C'
-        },
-        constitution: {
-          name: 'D'
-        }
-      }
-    ]
+  constructor(public dataManager: DataManagerService) {
+    this.displayedColumns = Object.keys(EMPTY_DATA_SONG).sort();  // alphabetical order
 
     // Assign the data to the data source for the table to render
-    this.dataSource = new MatTableDataSource(users);
+    this.dataSource = new MatTableDataSource(dataManager.songs);
   }
 
   ngAfterViewInit() {
