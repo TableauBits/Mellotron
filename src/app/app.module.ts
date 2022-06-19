@@ -1,15 +1,20 @@
+// Angular Module
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
 import { AppRoutingModule } from './app-routing.module';
-import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { TableViewerComponent } from './components/table-viewer/table-viewer.component';
-import { MatTableModule } from '@angular/material/table'
+
+// Angular Material Module
+import { MatTableModule } from '@angular/material/table';
 import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
+import { MatIconModule } from '@angular/material/icon';
 import { MatSortModule } from '@angular/material/sort';
+
+// Component
+import { AppComponent } from './app.component';
+import { TableViewerComponent } from './components/table-viewer/table-viewer.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +29,8 @@ import { MatSortModule } from '@angular/material/sort';
     MatPaginatorModule,
     MatFormFieldModule,
     MatInputModule,
-    MatSortModule
+    MatIconModule,
+    MatSortModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

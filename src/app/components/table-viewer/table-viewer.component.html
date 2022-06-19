@@ -1,5 +1,5 @@
 <mat-form-field appearance="standard">
-        <mat-label>Filter</mat-label>
+        <mat-label>Recherche</mat-label>
         <input matInput (keyup)="applyFilter($event)" placeholder="Ex. 'Specialist'" #input>
 </mat-form-field>
 
@@ -21,8 +21,8 @@
                 </ng-container>
 
                 <ng-container matColumnDef="platform">
-                        <th mat-header-cell *matHeaderCellDef> Platforme </th>
-                        <td mat-cell *matCellDef="let row"> {{row.platform}} </td>
+                        <th mat-header-cell *matHeaderCellDef> Plateforme </th>
+                        <td mat-cell *matCellDef="let row"> {{platformToString(row.platform)}} </td>
                 </ng-container>
 
                 <ng-container matColumnDef="cstName">
@@ -32,7 +32,11 @@
 
                 <ng-container matColumnDef="url">
                         <th mat-header-cell *matHeaderCellDef> URL </th>
-                        <td mat-cell *matCellDef="let row"> {{row.url}} </td>
+                        <td mat-cell *matCellDef="let row">
+                                <a href="{{row.url}}" target="_blank">
+                                        <mat-icon>play_circle_outline</mat-icon>
+                                </a>
+                        </td>
                 </ng-container>
 
                 <ng-container matColumnDef="user">
@@ -50,9 +54,10 @@
 
                 <!-- Row shown when there is no matching data. -->
                 <tr class="mat-row" *matNoDataRow>
-                        <td class="mat-cell" colspan="4">No data matching the filter "{{input.value}}"</td>
+                        <td class="mat-cell" colspan="4"> Aucun résultat pour la recherche "{{input.value}}"</td>
                 </tr>
         </table>
 
-        <mat-paginator [pageSizeOptions]="[5, 10, 25, 100]" aria-label="Select page of users"></mat-paginator>
+        <mat-paginator [showFirstLastButtons]="true" [pageSizeOptions]="[5, 10, 25, 100]"
+                aria-label="Select page of users"></mat-paginator>
 </div>
