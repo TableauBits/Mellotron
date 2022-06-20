@@ -10,6 +10,7 @@ import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { MatIconModule } from '@angular/material/icon';
+import { MatSortModule } from '@angular/material/sort';
 
 // Component
 import { AppComponent } from './app.component';
@@ -28,7 +29,8 @@ import { TableViewerComponent } from './components/table-viewer/table-viewer.com
     MatPaginatorModule,
     MatFormFieldModule,
     MatInputModule,
-    MatIconModule
+    MatIconModule,
+    MatSortModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
