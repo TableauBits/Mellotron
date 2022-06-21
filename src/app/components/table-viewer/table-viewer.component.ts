@@ -1,9 +1,11 @@
 import { AfterViewInit, Component, ViewChild } from '@angular/core';
-import { MatPaginator } from '@angular/material/paginator';
+import { MatPaginator, PageEvent } from '@angular/material/paginator';
 import { MatSort } from '@angular/material/sort';
 import { MatTableDataSource } from '@angular/material/table';
 import { SongPlatform } from 'chelys';
+import { LocalStorageKey } from 'src/app/constants/local-storage';
 import { DataManagerService, DataSong } from 'src/app/services/data-manager.service';
+import { LocalStorageService } from 'src/app/services/local-storage.service';
 
 const COLUMNS_ORDER = ["id", "title", "author", "user", "cstName", "date", "platform", "url"];
 
@@ -20,16 +22,24 @@ export class TableViewerComponent implements AfterViewInit {
   @ViewChild(MatPaginator) paginator!: MatPaginator;
   @ViewChild(MatSort) sort!: MatSort;
 
-  constructor(public dataManager: DataManagerService) {
+  constructor(
+    public dataManager: DataManagerService,
+    public localStorage: LocalStorageService
+  ) {
     this.displayedColumns = COLUMNS_ORDER;
 
     // Assign the data to the data source for the table to render
     this.dataSource = new MatTableDataSource(dataManager.songs);
   }
 
-  ngAfterViewInit(): void {
+  ngAfterViewInit() {
+    // Data Source
     this.dataSource.paginator = this.paginator;
     this.dataSource.sort = this.sort;
+
+    // Paginator
+    const localPageSize = Number(this.localStorage.get(LocalStorageKey.TABLE_PAGE_SIZE_KEY));
+    this.paginator._changePageSize(localPageSize);
   }
 
   applyFilter(event: Event): void {
@@ -44,10 +54,14 @@ export class TableViewerComponent implements AfterViewInit {
   platformToString(platform: SongPlatform): string {
     switch (platform) {
       case SongPlatform.YOUTUBE:
-        return "Youtube"
-    
+        return "Youtube";
+
       default:
-        return "Unknown"
+        return "Unknown";
     }
+  }
+
+  updatePageSize(event: PageEvent) {
+    this.localStorage.set(LocalStorageKey.TABLE_PAGE_SIZE_KEY, event.pageSize.toString());
   }
 }
