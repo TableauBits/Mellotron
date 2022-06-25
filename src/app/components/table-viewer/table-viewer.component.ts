@@ -1,4 +1,5 @@
 import { AfterViewInit, Component, ViewChild } from '@angular/core';
+import { FormControl } from '@angular/forms';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatSort } from '@angular/material/sort';
 import { MatTableDataSource } from '@angular/material/table';
@@ -17,11 +18,19 @@ export class TableViewerComponent implements AfterViewInit {
   displayedColumns: string[];
   dataSource: MatTableDataSource<DataSong>;
 
+  selectedColumns: FormControl;
+  selectedColumnsList: string[];
+
   @ViewChild(MatPaginator) paginator!: MatPaginator;
   @ViewChild(MatSort) sort!: MatSort;
 
   constructor(public dataManager: DataManagerService) {
     this.displayedColumns = COLUMNS_ORDER;
+
+    this.selectedColumnsList = COLUMNS_ORDER;
+    this.selectedColumns = new FormControl('');
+    this.selectedColumns.setValue(this.selectedColumnsList);
+    
 
     // Assign the data to the data source for the table to render
     this.dataSource = new MatTableDataSource(dataManager.songs);
@@ -49,5 +58,16 @@ export class TableViewerComponent implements AfterViewInit {
       default:
         return "Unknown"
     }
+  }
+
+
+  updateSelection(): void {
+    this.displayedColumns = this.selectedColumns.value;
+
+    // this.dataSource.filterPredicate = function(row: DataSong, filter: string): boolean {
+    //   return false;
+    // }
+
+
   }
 }
