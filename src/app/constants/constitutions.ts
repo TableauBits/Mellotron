@@ -9,6 +9,8 @@ import X1 from '../../assets/constitutions/X1.json';
 import X2 from '../../assets/constitutions/X2.json';
 import X3 from '../../assets/constitutions/X3.json';
 import X4 from '../../assets/constitutions/X4.json';
+import X5 from '../../assets/constitutions/X5.json';
+import X6 from '../../assets/constitutions/X6.json';
 import X7 from '../../assets/constitutions/X7.json';
 
 export type DataConstitution = {
@@ -23,5 +25,5 @@ export type DataConstitution = {
 
 export const ALL_CONSTITUTIONS_DATA: DataConstitution[] = [
   C9,
-  X1, X2, X3, X4, X7
+  X1, X2, X3, X4, X5, X6, X7
 ]
