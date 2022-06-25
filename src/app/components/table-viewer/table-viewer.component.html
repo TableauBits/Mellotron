@@ -1,7 +1,9 @@
-<mat-form-field appearance="standard">
+<mat-form-field appearance="fill">
         <mat-label>Recherche</mat-label>
         <input matInput (keyup)="applyFilter($event)" placeholder="Ex. 'Specialist'" #input>
 </mat-form-field>
+
+<app-advanced-search></app-advanced-search>
 
 <div class="mat-elevation-z8">
         <table mat-table [dataSource]="dataSource" matSort cdkDropList cdkDropListOrientation="horizontal"

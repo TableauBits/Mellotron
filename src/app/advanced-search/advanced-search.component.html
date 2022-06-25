@@ -1,0 +1,26 @@
+<span>
+    <div *ngFor="let rule of rules">
+        <mat-form-field class="advanced-search-divider">
+            <mat-label>Filter category</mat-label>
+            <mat-select (change)="rule.filtered_category">
+                <mat-option value="one">Artist</mat-option>
+                <mat-option value="two">Song name</mat-option>
+            </mat-select>
+        </mat-form-field>
+        <mat-button-toggle value="NOT" class="advanced-search-divider">NOT</mat-button-toggle>
+        <!-- (change)="!!" -->
+        <span class="advanced-search-divider">equals to</span>
+        <mat-form-field appearance="standard" class="advanced-search-divider">
+            <mat-label>Filter value</mat-label>
+            <input matInput (change)="rule.filtered_value" #input>
+        </mat-form-field>
+    </div>
+</span>
+<span>
+    <button mat-icon-button aria-label="Example icon button with a menu icon" (click)="removeRule($event)">
+        <mat-icon>remove</mat-icon>
+    </button>
+    <button mat-icon-button aria-label="Example icon button with a menu icon" (click)="addRule($event)">
+        <mat-icon>add</mat-icon>
+    </button>
+</span>

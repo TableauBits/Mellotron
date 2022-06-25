@@ -16,11 +16,17 @@ import { MatSortModule } from '@angular/material/sort';
 // Component
 import { AppComponent } from './app.component';
 import { TableViewerComponent } from './components/table-viewer/table-viewer.component';
-
+import { MatOptionModule } from '@angular/material/core';
+import { MatSelectModule } from '@angular/material/select';
+import { MatButtonModule } from '@angular/material/button';
+import { MatButtonToggleModule } from '@angular/material/button-toggle';
+import { MatExpansionModule } from '@angular/material/expansion';
+import { AdvancedSearchComponent } from './advanced-search/advanced-search.component';
 @NgModule({
   declarations: [
     AppComponent,
     TableViewerComponent,
+    AdvancedSearchComponent,
   ],
   imports: [
     BrowserModule,
@@ -33,6 +39,11 @@ import { TableViewerComponent } from './components/table-viewer/table-viewer.com
     MatInputModule,
     MatIconModule,
     MatSortModule,
+    MatOptionModule,
+    MatSelectModule,
+    MatButtonModule,
+    MatButtonToggleModule,
+    MatExpansionModule
   ],
   providers: [],
   bootstrap: [AppComponent]
