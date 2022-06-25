@@ -8,8 +8,6 @@ import { LocalStorageKey } from 'src/app/constants/local-storage';
 import { DataManagerService, DataSong } from 'src/app/services/data-manager.service';
 import { LocalStorageService } from 'src/app/services/local-storage.service';
 
-const COLUMNS_ORDER = ["id", "title", "author", "user", "cstName", "date", "platform", "url"];
-
 @Component({
   selector: 'app-table-viewer',
   templateUrl: './table-viewer.component.html',
@@ -27,7 +25,7 @@ export class TableViewerComponent implements AfterViewInit {
     public dataManager: DataManagerService,
     public localStorage: LocalStorageService
   ) {
-    this.displayedColumns = COLUMNS_ORDER;
+    this.displayedColumns = JSON.parse(this.localStorage.get(LocalStorageKey.TABLE_COLUMN_ORDER))
 
     // Assign the data to the data source for the table to render
     this.dataSource = new MatTableDataSource(dataManager.songs);
@@ -68,5 +66,6 @@ export class TableViewerComponent implements AfterViewInit {
 
   drop(event: CdkDragDrop<string[]>) {
     moveItemInArray(this.displayedColumns, event.previousIndex, event.currentIndex);
+    this.localStorage.set(LocalStorageKey.TABLE_COLUMN_ORDER, JSON.stringify(this.displayedColumns));
   }
 }

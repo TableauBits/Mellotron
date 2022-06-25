@@ -1,17 +1,5 @@
 import { Injectable } from '@angular/core';
-import { LocalStorageKey } from '../constants/local-storage';
-
-type LocalStorageItem = {
-  key: LocalStorageKey
-  value: string
-}
-
-const INITIAL_LOCAL_STORAGE: LocalStorageItem[] = [
-  {
-    key: LocalStorageKey.TABLE_PAGE_SIZE_KEY,
-    value: "5",
-  }
-]
+import { INITIAL_LOCAL_STORAGE, LocalStorageKey } from '../constants/local-storage';
 
 @Injectable({
   providedIn: 'root'
