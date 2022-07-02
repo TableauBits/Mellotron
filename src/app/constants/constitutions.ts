@@ -5,6 +5,7 @@
 
 import { Song } from 'chelys';
 import C9 from '../../assets/constitutions/C9.json';
+import C10 from '../../assets/constitutions/C10.json';
 import X1 from '../../assets/constitutions/X1.json';
 import X2 from '../../assets/constitutions/X2.json';
 import X3 from '../../assets/constitutions/X3.json';
@@ -24,6 +25,6 @@ export type DataConstitution = {
 //  * X ==> Xenocratie
 
 export const ALL_CONSTITUTIONS_DATA: DataConstitution[] = [
-  C9,
+  C9, C10,
   X1, X2, X3, X4, X5, X6, X7
 ]
