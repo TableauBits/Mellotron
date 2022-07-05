@@ -5,7 +5,8 @@
 <mat-form-field appearance="fill">
         <mat-label>Champs</mat-label>
         <mat-select [formControl]="selectedColumns" multiple (selectionChange)="updateSelection()">
-                <mat-option *ngFor="let column of selectedColumnsList" [value]="column">{{column}}</mat-option>
+                <mat-option *ngFor="let column of selectedColumnsList" [value]="column">{{toColumnName(column)}}
+                </mat-option>
         </mat-select>
 </mat-form-field>
 <div class="mat-elevation-z8">

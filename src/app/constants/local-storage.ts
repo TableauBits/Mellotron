@@ -1,4 +1,4 @@
-export const DEFAULT_COLUMNS_ORDER = ["id", "title", "author", "user", "cstName", "date", "platform", "url"];
+import { DEFAULT_COLUMNS_ORDER } from "./table"
 
 export enum LocalStorageKey {
   TABLE_COLUMN_ORDER = "mellotron.setting.tableColumnOrder",
