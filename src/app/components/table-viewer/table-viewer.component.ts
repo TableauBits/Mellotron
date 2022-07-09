@@ -6,7 +6,7 @@ import { MatSort } from '@angular/material/sort';
 import { MatTableDataSource } from '@angular/material/table';
 import { SongPlatform } from 'chelys';
 import { LocalStorageKey } from 'src/app/constants/local-storage';
-import { COLUMN_NAMES_MAP, DEFAULT_COLUMNS_ORDER, NON_FILTER_KEYS } from 'src/app/constants/table';
+import { COLUMN_NAMES_MAP, DEFAULT_COLUMNS_ORDER, filterPredicateFunction } from 'src/app/constants/table';
 import { DataManagerService, DataSong } from 'src/app/services/data-manager.service';
 import { LocalStorageService } from 'src/app/services/local-storage.service';
 
@@ -30,36 +30,19 @@ export class TableViewerComponent implements AfterViewInit {
     public dataManager: DataManagerService,
     public localStorage: LocalStorageService
   ) {
-    this.displayedColumns = JSON.parse(this.localStorage.get(LocalStorageKey.TABLE_COLUMN_ORDER))
+    const localColumnOrder = JSON.parse(this.localStorage.get(LocalStorageKey.TABLE_COLUMN_ORDER)) as string[];
+    const localDisplayedColumns = JSON.parse(this.localStorage.get(LocalStorageKey.TABLE_DISPLAYED_COLUMNS)) as string[];
+
+    this.displayedColumns = localColumnOrder.filter((column) => localDisplayedColumns.includes(column))
 
     this.selectedColumnsList = DEFAULT_COLUMNS_ORDER;
     this.selectedColumns = new FormControl('');
-    this.selectedColumns.setValue(this.selectedColumnsList);
-    
+    this.selectedColumns.setValue(localDisplayedColumns);
 
     // Assign the data to the data source for the table to render
     this.dataSource = new MatTableDataSource(dataManager.songs);
 
-    // From the default implementation of filterPredicate
-    this.dataSource.filterPredicate = (data: DataSong, filter: string): boolean => {
-      // Transform the data into a lowercase string of all property values.
-      const dataStr = Object.keys(data).filter((value) => !NON_FILTER_KEYS.includes(value))
-        .reduce((currentTerm: string, key: string) => {
-          // Use an obscure Unicode character to delimit the words in the concatenated string.
-          // This avoids matches where the values of two columns combined will match the user's query
-          // (e.g. `Flute` and `Stop` will match `Test`). The character is intended to be something
-          // that has a very low chance of being typed in by somebody in a text field. This one in
-          // particular is "White up-pointing triangle with dot" from
-          // https://en.wikipedia.org/wiki/List_of_Unicode_characters
-          return currentTerm + (data as {[key: string]: any})[key] + '◬';
-        }, '')
-        .toLowerCase();
-  
-      // Transform the filter by converting it to lowercase and removing whitespace.
-      const transformedFilter = filter.trim().toLowerCase();
-  
-      return dataStr.indexOf(transformedFilter) != -1;
-    };
+    this.dataSource.filterPredicate = filterPredicateFunction(this.displayedColumns);
   }
 
   ngAfterViewInit() {
@@ -92,11 +75,12 @@ export class TableViewerComponent implements AfterViewInit {
   }
 
   updateSelection(): void {
-    this.displayedColumns = this.selectedColumns.value;
+    const typedValue = this.selectedColumns.value as string[];
+    const currentOrder = JSON.parse(this.localStorage.get(LocalStorageKey.TABLE_COLUMN_ORDER)) as string[];
 
-    // this.dataSource.filterPredicate = function(row: DataSong, filter: string): boolean {
-    //   return false;
-    // }
+    this.displayedColumns = currentOrder.filter((column) => typedValue.includes(column));
+    this.dataSource.filterPredicate = filterPredicateFunction(this.displayedColumns);
+    this.localStorage.set(LocalStorageKey.TABLE_DISPLAYED_COLUMNS, JSON.stringify(this.displayedColumns));
   }
 
   updatePageSize(event: PageEvent) {
@@ -106,6 +90,10 @@ export class TableViewerComponent implements AfterViewInit {
   drop(event: CdkDragDrop<string[]>) {
     moveItemInArray(this.displayedColumns, event.previousIndex, event.currentIndex);
     this.localStorage.set(LocalStorageKey.TABLE_COLUMN_ORDER, JSON.stringify(this.displayedColumns));
+  }
+
+  canDrag(): boolean {
+    return this.displayedColumns.length === DEFAULT_COLUMNS_ORDER.length;
   }
 
   toColumnName(name: string): string {
