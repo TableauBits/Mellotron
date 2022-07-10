@@ -13,9 +13,9 @@ export const EMPTY_DATA_SONG: DataSong = {
   date: ""
 }
 
-function sortConstitutionByDateDSC(c1: DataConstitution, c2: DataConstitution): number {
-  if (c1.date < c2.date) return 1;
-  if (c1.date > c2.date) return -1;
+function sortConstitutionByDateASC(c1: DataConstitution, c2: DataConstitution): number {
+  if (c1.date < c2.date) return -1;
+  if (c1.date > c2.date) return 1;
   return 0;
 }
 
@@ -35,8 +35,8 @@ export class DataManagerService {
   }
 
   private init() {
-    // Sort constitutions by date, the most recent first
-    this.constitutions = this.constitutions.sort(sortConstitutionByDateDSC);
+    // Sort constitutions by date, the most old first
+    this.constitutions = this.constitutions.sort(sortConstitutionByDateASC);
 
     // Song counter (also generate unique id)
     let i = 0;
@@ -53,5 +53,8 @@ export class DataManagerService {
         }
       }));
     })
+
+    // Display most recent songs first
+    this.songs = this.songs.reverse();
   }
 }
