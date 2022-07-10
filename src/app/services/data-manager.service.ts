@@ -35,7 +35,7 @@ export class DataManagerService {
   }
 
   private init() {
-    // Sort constitutions by date, the most old first
+    // Sort constitutions by date, the oldest first
     this.constitutions = this.constitutions.sort(sortConstitutionByDateASC);
 
     // Song counter (also generate unique id)
