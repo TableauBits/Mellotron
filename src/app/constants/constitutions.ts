@@ -21,6 +21,7 @@ export type DataConstitution = {
   cstName: string;
   date: string;
   songs: Song[];
+  winner: number;
 }
 
 // Legend :
