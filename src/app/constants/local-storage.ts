@@ -1,5 +1,7 @@
 import { DEFAULT_COLUMNS_ORDER } from "./table"
 
+export const LOCAL_STORAGE_VERSION = "v2";
+
 export enum LocalStorageKey {
   TABLE_COLUMN_ORDER = "mellotron.setting.tableColumnOrder",
   TABLE_DISPLAYED_COLUMNS = "mellotron.setting.tableDisplayedColumns",
@@ -27,6 +29,6 @@ export const INITIAL_LOCAL_STORAGE: LocalStorageItem[] = [
   },
   {
     key: LocalStorageKey.VERSION,
-    value: "v2"
+    value: LOCAL_STORAGE_VERSION
   }
 ]
