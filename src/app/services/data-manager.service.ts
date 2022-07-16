@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { EMPTY_SONG, Song } from 'chelys';
 import { ALL_CONSTITUTIONS_DATA, DataConstitution } from '../constants/constitutions';
+import names from '../../assets/names.json'
 
 export interface DataSong extends Song {
   cstName: string;
@@ -26,10 +27,12 @@ export class DataManagerService {
 
   constitutions: DataConstitution[];
   songs: DataSong[];
+  uidToName: Record<string, string>;
 
   constructor() {
     this.constitutions = ALL_CONSTITUTIONS_DATA;
     this.songs = [];
+    this.uidToName = names;
 
     this.init();
   }
@@ -50,6 +53,7 @@ export class DataManagerService {
           id: i,
           cstName: constitution.cstName,
           date: new Date(constitution.date).toISOString().slice(0, 10),
+          user: this.uidToName[song.user] || "Utilisateur Inconnu"
         }
       }));
     })
