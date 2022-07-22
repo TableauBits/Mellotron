@@ -1,13 +1,16 @@
+import fs from 'fs'
+import fetch from 'node-fetch'
+
+const USER_INFO_URL = 'https://matbay-kalimba.herokuapp.com/user-info'
+const FILE_PATH = 'src/assets/names.json'
+ 
 console.log('start')
-fs = require('fs')
-
-PATH = 'src/assets/names.json'
-
-// TODO: generate NAMES from a response of Kalimba (https://livecodestream.dev/post/5-ways-to-make-http-requests-in-javascript/)
-NAMES = {
-  "3OvnjaJEQfhz9FfizrSKE9vH23p2": "SCHNOZ",
-  "zFJuPem5jXU4eZSvo1de82LlF1W2": "pamplemousse"
-} 
-
-fs.writeFileSync(PATH, JSON.stringify(NAMES))
-console.log('end')
+fetch(USER_INFO_URL).then(response => {
+  if (!response.ok) {
+    throw new Error(`Error ${response.status}: Request to Kalimba failed with status ${response.statusText}.`)
+  }
+  return response.json()
+}).then(data => {
+  fs.writeFileSync(FILE_PATH, JSON.stringify(data))
+  console.log('end')
+}).catch(error => console.log(error))
