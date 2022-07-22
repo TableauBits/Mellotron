@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { INITIAL_LOCAL_STORAGE, LocalStorageKey } from '../constants/local-storage';
+import { INITIAL_LOCAL_STORAGE, LocalStorageKey, LOCAL_STORAGE_VERSION } from '../constants/local-storage';
 
 @Injectable({
   providedIn: 'root'
@@ -9,8 +9,10 @@ export class LocalStorageService {
   constructor() { this.init() }
 
   private init() {
+    const needUpdate = this.get(LocalStorageKey.VERSION) !== LOCAL_STORAGE_VERSION;
+
     INITIAL_LOCAL_STORAGE.forEach((item) => {
-      if (localStorage.getItem(item.key) === null) {
+      if (localStorage.getItem(item.key) === null || needUpdate) {
         localStorage.setItem(item.key, item.value);
       }
     })

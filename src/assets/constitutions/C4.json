@@ -1,6 +1,7 @@
 {
     "cstName": "The Symphonic Adventure",
     "date": "2020-02-21",
+    "winner": 50,
     "songs": [
         {
             "id": 1,
