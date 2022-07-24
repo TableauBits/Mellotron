@@ -14,6 +14,7 @@ import { MatInputModule } from '@angular/material/input';
 import { MatIconModule } from '@angular/material/icon';
 import { MatSortModule } from '@angular/material/sort';
 import { MatSelectModule } from '@angular/material/select';
+import { MatButtonModule } from '@angular/material/button'
 
 // Component
 import { AppComponent } from './app.component';
@@ -37,6 +38,7 @@ import { TableViewerComponent } from './components/table-viewer/table-viewer.com
     MatIconModule,
     MatSortModule,
     MatSelectModule,
+    MatButtonModule
   ],
   providers: [],
   bootstrap: [AppComponent]

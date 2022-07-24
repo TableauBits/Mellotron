@@ -100,4 +100,9 @@ export class TableViewerComponent implements AfterViewInit {
     return COLUMN_NAMES_MAP[name] || "";
   }
 
+  resetLocalStorage(): void {
+    this.localStorage.reset();
+    window.location.reload();
+  }
+
 }
