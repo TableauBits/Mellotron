@@ -11,7 +11,7 @@ export class LocalStorageService {
   private init() {
     const needReset = this.get(LocalStorageKey.VERSION) !== LOCAL_STORAGE_VERSION;
 
-    if (needReset) this.reset;
+    if (needReset) this.reset();
     else {
       INITIAL_LOCAL_STORAGE.forEach((item) => {
         if (localStorage.getItem(item.key) === null) {
