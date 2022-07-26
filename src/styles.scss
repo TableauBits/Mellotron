@@ -2,15 +2,20 @@
 
 @font-face {
   font-family: "Monaco";
-  src: local("Monaco"), url(./assets/monaco.ttf) format("truetype");
+  src: local("Monaco"), url('./assets/monaco.ttf'), format("truetype");
 }
 
 html,
 body {
   height: 100%;
+  background-image: url('assets/background.png');
 }
 
 body {
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.winner {
+  color: darkgoldenrod;
 }

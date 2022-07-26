@@ -1,27 +1,28 @@
-<mat-form-field appearance="standard">
+<mat-form-field class="monaco" appearance="standard">
         <mat-label>Recherche</mat-label>
         <input matInput (keyup)="applyFilter($event)" placeholder="Ex. 'Specialist'" #input>
 </mat-form-field>
-<mat-form-field appearance="fill">
+<mat-form-field class="monaco" appearance="fill">
         <mat-label>Champs</mat-label>
         <mat-select [formControl]="selectedColumns" multiple (selectionChange)="updateSelection()">
-                <mat-option *ngFor="let column of selectedColumnsList" [value]="column">{{toColumnName(column)}}
+                <mat-option class="monaco" *ngFor="let column of selectedColumnsList" [value]="column">
+                        {{toColumnName(column)}}
                 </mat-option>
         </mat-select>
 </mat-form-field>
-<span class="warning-text" *ngIf="!canDrag()">
+<span class="warning-text monaco" *ngIf="!canDrag()">
         L'ordre des colonnes ne peut pas être modifié dans cette configuration
 </span>
 <div class="mat-elevation-z8">
-        <table mat-table [dataSource]="dataSource" matSort cdkDropList cdkDropListOrientation="horizontal"
-                (cdkDropListDropped)="drop($any($event))">
+        <table mat-table class="monaco" [dataSource]="dataSource" matSort cdkDropList
+                cdkDropListOrientation="horizontal" (cdkDropListDropped)="drop($any($event))">
 
                 <ng-container matColumnDef="isWinner">
                         <th mat-header-cell cdkDrag [cdkDragDisabled]="!canDrag()" *matHeaderCellDef mat-sort-header>
                                 Gagnant
                         </th>
                         <td mat-cell *matCellDef="let row">
-                                <mat-icon *ngIf="row.isWinner">star</mat-icon>
+                                <mat-icon *ngIf="row.isWinner" class="winner">star</mat-icon>
                         </td>
                 </ng-container>
 

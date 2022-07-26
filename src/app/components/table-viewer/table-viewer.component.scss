@@ -1,6 +1,26 @@
+$old-mauve: #673ab7;
+
 table {
     width: 95%;
     margin: auto;
+}
+
+tr {
+    background-color: black;
+}
+
+th {
+    color: whitesmoke;
+    font-weight: bold;
+    border-bottom: 1cm;
+    border-color: $old-mauve;
+}
+
+td {
+    color: whitesmoke;
+}
+
+.monaco {
     font-family: "Monaco";
 }
 
@@ -9,6 +29,24 @@ mat-form-field {
     margin-top: 0.5%;
 }
 
+mat-label {
+    color: whitesmoke;
+}
+
+mat-option {
+    color: whitesmoke;
+    background-color: black;
+}
+
+.mat-paginator {
+    width: 95%;
+    margin: auto;
+    background-color: black;
+    color: whitesmoke;
+}
+
 .warning-text {
     margin-left: 1%;
+    font-size: smaller;
+    color: whitesmoke;
 }
