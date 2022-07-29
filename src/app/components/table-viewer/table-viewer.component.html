@@ -12,6 +12,7 @@
 <span class="warning-text" *ngIf="!canDrag()">
         L'ordre des colonnes ne peut pas être modifié dans cette configuration
 </span>
+<button mat-button class="reset-button" (click)="resetLocalStorage()"> Réinitialiser les paramètres </button>
 <div class="mat-elevation-z8">
         <table mat-table [dataSource]="dataSource" matSort cdkDropList cdkDropListOrientation="horizontal"
                 (cdkDropListDropped)="drop($any($event))">
