@@ -1,4 +1,9 @@
 $old-mauve: #673ab7;
+$lazuli: rgba(38, 38, 38, 1);
+
+.winner {
+    color: $old-mauve;
+}
 
 table {
     width: 95%;
@@ -29,6 +34,74 @@ mat-form-field {
     margin-top: 0.5%;
 }
 
+input {
+    color: whitesmoke;
+}
+
+::ng-deep {
+    .mat-select-value {
+        color: whitesmoke;
+    }
+
+    .mat-select-arrow {
+        color: whitesmoke;
+    }
+
+    .mat-primary .mat-option {
+        background-color: black;
+    }
+
+    .mat-primary .mat-option:hover {
+        background-color: $lazuli;
+    }
+
+    .mat-pseudo-checkbox {
+        color: whitesmoke;
+    }
+
+    .mat-form-field-appearance-standard .mat-form-field-underline {
+        background-color: whitesmoke;
+    }
+
+    .mat-form-field-appearance-legacy .mat-form-field-underline {
+        background-color: whitesmoke;
+    }
+
+    .mat-option {
+        color: whitesmoke;
+        background-color: black;
+    }
+
+    .mat-option-text {
+        color: whitesmoke;
+    }
+
+    .mat-select-panel .mat-option.mat-selected:not(.mat-option-multiple) {
+        background-color: black;
+    }
+
+}
+
+input::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    color: whitesmoke;
+}
+
+input::-moz-placeholder {
+    /* Firefox 19+ */
+    color: whitesmoke;
+}
+
+input:-ms-input-placeholder {
+    /* IE 10+ */
+    color: whitesmoke;
+}
+
+input:-moz-placeholder {
+    /* Firefox 18- */
+    color: whitesmoke;
+}
+
 mat-label {
     color: whitesmoke;
 }
@@ -47,6 +120,14 @@ mat-option {
 
 .warning-text {
     margin-left: 1%;
+    font-size: smaller;
+    color: whitesmoke;
+}
+
+.end-text {
+    margin-left: 2.5%;
+    margin-top: 2%;
+    padding-bottom: 2%;
     font-size: smaller;
     color: whitesmoke;
 }
