@@ -1,8 +1,25 @@
 $old-mauve: #673ab7;
 $lazuli: rgba(38, 38, 38, 1);
 
+.monaco {
+    font-family: "Monaco";
+}
+
 .winner {
     color: $old-mauve;
+}
+
+.title-icon {
+    font-size: smaller;
+    font-weight: bold;
+    color: blue;
+}
+
+.title {
+    color: whitesmoke;
+    margin-left: 2.5%;
+    margin-top: 0.5%;
+    margin-bottom: -1%;
 }
 
 table {
@@ -25,13 +42,8 @@ td {
     color: whitesmoke;
 }
 
-.monaco {
-    font-family: "Monaco";
-}
-
 mat-form-field {
     margin-left: 5%;
-    margin-top: 0.5%;
 }
 
 input {
@@ -65,6 +77,10 @@ input {
 
     .mat-form-field-appearance-legacy .mat-form-field-underline {
         background-color: whitesmoke;
+    }
+
+    .mat-select-value-text {
+        font-family: "Monaco";
     }
 
     .mat-option {
