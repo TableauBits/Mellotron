@@ -1,19 +1,14 @@
+// Variable
 $old-mauve: #673ab7;
 $lazuli: rgba(38, 38, 38, 1);
+
+// Global
 
 .monaco {
     font-family: "Monaco";
 }
 
-.winner {
-    color: $old-mauve;
-}
-
-.title-icon {
-    font-size: smaller;
-    font-weight: bold;
-    color: blue;
-}
+// Title
 
 .title {
     color: whitesmoke;
@@ -22,32 +17,40 @@ $lazuli: rgba(38, 38, 38, 1);
     margin-bottom: -1%;
 }
 
-table {
-    width: 95%;
-    margin: auto;
-}
-
-tr {
-    background-color: black;
-}
-
-th {
-    color: whitesmoke;
+.title-icon {
+    font-size: smaller;
     font-weight: bold;
-    border-bottom: 1cm;
-    border-color: $old-mauve;
+    color: blue;
 }
 
-td {
+// Options
+
+input {
+    color: whitesmoke;
+}
+
+input::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    color: whitesmoke;
+}
+
+input::-moz-placeholder {
+    /* Firefox 19+ */
+    color: whitesmoke;
+}
+
+input:-ms-input-placeholder {
+    /* IE 10+ */
+    color: whitesmoke;
+}
+
+input:-moz-placeholder {
+    /* Firefox 18- */
     color: whitesmoke;
 }
 
 mat-form-field {
     margin-left: 5%;
-}
-
-input {
-    color: whitesmoke;
 }
 
 ::ng-deep {
@@ -98,26 +101,6 @@ input {
 
 }
 
-input::-webkit-input-placeholder {
-    /* Chrome/Opera/Safari */
-    color: whitesmoke;
-}
-
-input::-moz-placeholder {
-    /* Firefox 19+ */
-    color: whitesmoke;
-}
-
-input:-ms-input-placeholder {
-    /* IE 10+ */
-    color: whitesmoke;
-}
-
-input:-moz-placeholder {
-    /* Firefox 18- */
-    color: whitesmoke;
-}
-
 mat-label {
     color: whitesmoke;
 }
@@ -127,11 +110,17 @@ mat-option {
     background-color: black;
 }
 
-.mat-paginator {
-    width: 95%;
-    margin: auto;
+.reset-button {
     background-color: black;
     color: whitesmoke;
+    border: 2px solid $old-mauve;
+    margin-right: 1.5%;
+    margin-left: 5%;
+    font-family: "Monaco";
+}
+
+.reset-button:hover {
+    background-color: $lazuli;
 }
 
 .warning-text {
@@ -140,6 +129,45 @@ mat-option {
     color: whitesmoke;
 }
 
+// Table
+
+.mat-paginator {
+    width: 95%;
+    margin: auto;
+    background-color: black;
+    color: whitesmoke;
+}
+
+table {
+    width: 95%;
+    margin: auto;
+}
+
+td {
+    color: whitesmoke;
+}
+
+th {
+    color: whitesmoke;
+    font-weight: bold;
+    border-bottom: 1cm;
+    border-color: $old-mauve;
+}
+
+tr {
+    background-color: black;
+}
+
+.url-icon {
+    color: $old-mauve;
+}
+
+.winner {
+    color: $old-mauve;
+}
+
+// End
+
 .end-text {
     margin-left: 2.5%;
     margin-top: 2%;
@@ -147,12 +175,4 @@ mat-option {
     font-size: smaller;
     color: whitesmoke;
 
-}
-
-.reset-button {
-    background-color: $old-mauve;
-    color: whitesmoke;
-    float: right;
-    margin-right: 1.5%;
-    margin-top: 1.5%;
 }
