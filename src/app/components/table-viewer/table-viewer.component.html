@@ -26,9 +26,9 @@
 
                 <ng-container matColumnDef="isWinner">
                         <th mat-header-cell cdkDrag [cdkDragDisabled]="!canDrag()" *matHeaderCellDef mat-sort-header>
-                                Gagnant
+                                <mat-icon>star</mat-icon>
                         </th>
-                        <td mat-cell *matCellDef="let row">
+                        <td mat-cell class="winner" *matCellDef="let row">
                                 <mat-icon *ngIf="row.isWinner" class="winner">star</mat-icon>
                         </td>
                 </ng-container>

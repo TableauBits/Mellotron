@@ -5,7 +5,7 @@ $lazuli: rgba(38, 38, 38, 1);
 // Global
 
 .font {
-    font-family: OCR A Std, monospace;
+    font-family: Verdana, sans-serif
 }
 
 // Title
@@ -83,7 +83,7 @@ mat-form-field {
     }
 
     .mat-select-value-text {
-        font-family: OCR A Std, monospace;
+        font-family: Verdana, sans-serif;
     }
 
     .mat-option {
@@ -116,7 +116,7 @@ mat-option {
     border: 2px solid $old-mauve;
     margin-right: 1.5%;
     margin-left: 5%;
-    font-family: OCR A Std, monospace;
+    font-family: Verdana, sans-serif;
 }
 
 .reset-button:hover {
@@ -150,8 +150,7 @@ td {
 th {
     color: whitesmoke;
     font-weight: bold;
-    border-bottom: 1cm;
-    border-color: $old-mauve;
+    border-bottom: 1cm $old-mauve;
 }
 
 tr {
