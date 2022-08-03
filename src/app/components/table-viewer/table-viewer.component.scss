@@ -4,8 +4,8 @@ $lazuli: rgba(38, 38, 38, 1);
 
 // Global
 
-.monaco {
-    font-family: "Monaco";
+.font {
+    font-family: OCR A Std, monospace;
 }
 
 // Title
@@ -83,7 +83,7 @@ mat-form-field {
     }
 
     .mat-select-value-text {
-        font-family: "Monaco";
+        font-family: OCR A Std, monospace;
     }
 
     .mat-option {
@@ -116,7 +116,7 @@ mat-option {
     border: 2px solid $old-mauve;
     margin-right: 1.5%;
     margin-left: 5%;
-    font-family: "Monaco";
+    font-family: OCR A Std, monospace;
 }
 
 .reset-button:hover {
@@ -174,5 +174,4 @@ tr {
     padding-bottom: 2%;
     font-size: smaller;
     color: whitesmoke;
-
 }

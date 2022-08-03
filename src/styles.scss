@@ -1,19 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
 
-// @font-face {
-//   font-family: "Monaco";
-//   src: local("Monaco"), url('./assets/monaco.ttf'), format("truetype");
-// }
-
 html,
 body {
+  margin: 0;
   height: 100%;
   background-image: url('assets/background.png');
-}
-
-body {
-  margin: 0;
-  font-family: 'Monaco', "Helvetica Neue", sans-serif;
 }
 
 .clickable {
