@@ -1,21 +1,176 @@
+// Variable
+$old-mauve: #673ab7;
+$lazuli: rgba(38, 38, 38, 1);
+
+// Global
+
+.font {
+    font-family: Verdana, sans-serif
+}
+
+// Title
+
+.title {
+    color: whitesmoke;
+    margin-left: 2.5%;
+    margin-top: 0.5%;
+    margin-bottom: -1%;
+}
+
+.title-icon {
+    font-size: smaller;
+    font-weight: bold;
+    color: blue;
+}
+
+// Options
+
+input {
+    color: whitesmoke;
+}
+
+input::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    color: whitesmoke;
+}
+
+input::-moz-placeholder {
+    /* Firefox 19+ */
+    color: whitesmoke;
+}
+
+input:-ms-input-placeholder {
+    /* IE 10+ */
+    color: whitesmoke;
+}
+
+input:-moz-placeholder {
+    /* Firefox 18- */
+    color: whitesmoke;
+}
+
+mat-form-field {
+    margin-left: 5%;
+}
+
+::ng-deep {
+    .mat-select-value {
+        color: whitesmoke;
+    }
+
+    .mat-select-arrow {
+        color: whitesmoke;
+    }
+
+    .mat-primary .mat-option {
+        background-color: black;
+    }
+
+    .mat-primary .mat-option:hover {
+        background-color: $lazuli;
+    }
+
+    .mat-pseudo-checkbox {
+        color: whitesmoke;
+    }
+
+    .mat-form-field-appearance-standard .mat-form-field-underline {
+        background-color: whitesmoke;
+    }
+
+    .mat-form-field-appearance-legacy .mat-form-field-underline {
+        background-color: whitesmoke;
+    }
+
+    .mat-select-value-text {
+        font-family: Verdana, sans-serif;
+    }
+
+    .mat-option {
+        color: whitesmoke;
+        background-color: black;
+    }
+
+    .mat-option-text {
+        color: whitesmoke;
+    }
+
+    .mat-select-panel .mat-option.mat-selected:not(.mat-option-multiple) {
+        background-color: black;
+    }
+
+}
+
+mat-label {
+    color: whitesmoke;
+}
+
+mat-option {
+    color: whitesmoke;
+    background-color: black;
+}
+
+.reset-button {
+    background-color: black;
+    color: whitesmoke;
+    border: 2px solid $old-mauve;
+    margin-right: 1.5%;
+    margin-left: 5%;
+    font-family: Verdana, sans-serif;
+}
+
+.reset-button:hover {
+    background-color: $lazuli;
+}
+
+.warning-text {
+    margin-left: 1%;
+    font-size: smaller;
+    color: whitesmoke;
+}
+
+// Table
+
+.mat-paginator {
+    width: 95%;
+    margin: auto;
+    background-color: black;
+    color: whitesmoke;
+}
+
 table {
     width: 95%;
     margin: auto;
 }
 
-mat-form-field {
-    margin-left: 5%;
-    margin-top: 0.5%;
-}
-
-.warning-text {
-    margin-left: 1%;
-}
-
-.reset-button {
-    background-color: #353738;
+td {
     color: whitesmoke;
-    float: right;
-    margin-right: 1.5%;
-    margin-top: 1.5%;
+}
+
+th {
+    color: whitesmoke;
+    font-weight: bold;
+    border-bottom: 1cm $old-mauve;
+}
+
+tr {
+    background-color: black;
+}
+
+.url-icon {
+    color: $old-mauve;
+}
+
+.winner {
+    color: $old-mauve;
+}
+
+// End
+
+.end-text {
+    margin-left: 2.5%;
+    margin-top: 2%;
+    padding-bottom: 2%;
+    font-size: smaller;
+    color: whitesmoke;
 }
