@@ -1,6 +1,7 @@
 {
   "cstName": "Fly Me To The Moon",
   "date": "2019-09-05",
+  "winner": 35,
   "songs": [
     {
       "id": 1,
@@ -158,9 +159,9 @@
       "id": 20,
       "title": "September Love",
       "platform": 0,
-      "url": "",
+      "url": "https://www.youtube.com/watch?v=pUAZnjFbOyI",
       "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
-      "author": ""
+      "author": "Flipboitamidles"
     },
     {
       "id": 21,
@@ -526,9 +527,9 @@
       "id": 66,
       "title": "Take My Hand",
       "platform": 0,
-      "url": "",
+      "url": "https://www.youtube.com/watch?v=6GPfuyrEK2U",
       "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
-      "author": ""
+      "author": "Toto"
     },
     {
       "id": 67,
@@ -688,7 +689,7 @@
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=rJ2KB5LVdqA",
       "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
-      "author": "Persona 5 Royal OST, Shoji Meguro"
+      "author": "Persona 5 Royal OST"
     },
     {
       "id": 87,

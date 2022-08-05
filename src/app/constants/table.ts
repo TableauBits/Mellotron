@@ -1,6 +1,7 @@
 import { DataSong } from "../services/data-manager.service";
 
 export const COLUMN_NAMES_MAP: Record<string, string> = {
+  "isWinner": "Gagnant",
   "id": "ID",
   "title": "Titre",
   "author": "Auteur",
@@ -13,7 +14,7 @@ export const COLUMN_NAMES_MAP: Record<string, string> = {
 
 export const DEFAULT_COLUMNS_ORDER = Object.keys(COLUMN_NAMES_MAP);
 
-export const NON_FILTER_KEYS = ["platform", "url"]
+export const NON_FILTER_KEYS = ["isWinner", "platform", "url"]
 
 export function filterPredicateFunction(currentKeys: string[]) {
   return (data: DataSong, filter: string): boolean => {

@@ -1,6 +1,7 @@
 {
   "cstName": "Il Porco Rosso",
   "date": "2020-10-31",
+  "winner": 67,
   "songs": [
     {
       "id": 1,
@@ -144,7 +145,7 @@
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=TQKZECTzZ4U",
       "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
-      "author": "VA-11 HALL-A OST, Garoad"
+      "author": "Garoad"
     },
     {
       "id": 19,
@@ -400,7 +401,7 @@
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=hRnVhnxRhSs",
       "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
-      "author": "Persona 5 OST, Shoji Meguro"
+      "author": "Persona 5 OST"
     },
     {
       "id": 51,
@@ -568,7 +569,7 @@
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=tyezUnJnYYQ",
       "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
-      "author": "The Imitation Game OST, Alexandre Desplat"
+      "author": "The Imitation Game OST"
     },
     {
       "id": 72,
@@ -616,7 +617,7 @@
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=3rqP3ZeGhys",
       "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
-      "author": "Nu Pogodi OST, Zemlyane"
+      "author": "Nu Pogodi OST"
     },
     {
       "id": 78,
@@ -672,7 +673,7 @@
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=kALSYukN8_I",
       "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
-      "author": "Made in Abyss OST, Kevin Penkin"
+      "author": "Made in Abyss OST"
     },
     {
       "id": 85,
@@ -688,7 +689,7 @@
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=ZLsX9WUdYnU",
       "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
-      "author": "Warhammer 40,000 Mechanicus OST, Guillaume David"
+      "author": "Warhammer 40,000 Mechanicus OST"
     },
     {
       "id": 87,
@@ -696,7 +697,7 @@
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=ap_ciuwW8PQ",
       "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
-      "author": "Berserk OST, Shiro Sagisu"
+      "author": "Berserk OST"
     },
     {
       "id": 88,

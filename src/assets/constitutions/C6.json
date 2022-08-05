@@ -1,6 +1,7 @@
 {
   "cstName": "Soul of Cinder",
   "date": "2020-07-27",
+  "winner": 98,
   "songs": [
     {
       "id": 1,
@@ -28,7 +29,7 @@
     },
     {
       "id": 4,
-      "title": "Kazeno Uta ",
+      "title": "Kazeno Uta",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=OXckYJdRUW0",
       "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
@@ -44,7 +45,7 @@
     },
     {
       "id": 6,
-      "title": "FLARE ",
+      "title": "FLARE",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=iLzl4bl2M1A",
       "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
@@ -134,7 +135,7 @@
       "id": 17,
       "title": "Tsubasa",
       "platform": 0,
-      "url": "youtube.com/watch?v=mEeAIg46h_Q",
+      "url": "https://www.youtube.com/watch?v=mEeAIg46h_Q",
       "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
       "author": "Eir Aoi"
     },
@@ -148,7 +149,7 @@
     },
     {
       "id": 19,
-      "title": "STYX HELIX ",
+      "title": "STYX HELIX",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=HdQCWXh3XXU",
       "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
@@ -156,7 +157,7 @@
     },
     {
       "id": 20,
-      "title": "Minecraft ",
+      "title": "Minecraft",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=JCyejsj4GyA",
       "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
@@ -204,7 +205,7 @@
     },
     {
       "id": 26,
-      "title": "4 morant ",
+      "title": "4 morant",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=5qNgbIGsrtM",
       "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
@@ -228,7 +229,7 @@
     },
     {
       "id": 29,
-      "title": "Hijo de la Luna ",
+      "title": "Hijo de la Luna",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=OwGG5fX7bxY",
       "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
@@ -244,7 +245,7 @@
     },
     {
       "id": 31,
-      "title": "World Away ",
+      "title": "World Away",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=io_-k4Vz_zw",
       "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
@@ -252,7 +253,7 @@
     },
     {
       "id": 32,
-      "title": "FLAT ",
+      "title": "FLAT",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=Vw1EXq7mxb8",
       "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
@@ -260,7 +261,7 @@
     },
     {
       "id": 33,
-      "title": "Shiver ",
+      "title": "Shiver",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=bIZN40MmNp4",
       "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
@@ -268,7 +269,7 @@
     },
     {
       "id": 34,
-      "title": "Nostalgia ",
+      "title": "Nostalgia",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=tyN8FHmGRLs",
       "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
@@ -276,7 +277,7 @@
     },
     {
       "id": 35,
-      "title": "Capitaine Flam: La chevauchée du Capitaine Flam ",
+      "title": "Capitaine Flam: La chevauchée du Capitaine Flam",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=w5VGepGak-c",
       "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
@@ -292,7 +293,7 @@
     },
     {
       "id": 37,
-      "title": " - Breath of the Dragon",
+      "title": "Breath of the Dragon",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=kg33lmAouvk",
       "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
@@ -308,7 +309,7 @@
     },
     {
       "id": 39,
-      "title": "Core ",
+      "title": "Core",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=WeELPnZqhow",
       "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
@@ -324,7 +325,7 @@
     },
     {
       "id": 41,
-      "title": "Zombie ",
+      "title": "Zombie",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=6Ejga4kJUts",
       "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
@@ -372,7 +373,7 @@
     },
     {
       "id": 47,
-      "title": "Soreiyu (Soleil) ",
+      "title": "Soreiyu (Soleil)",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=aqrFd1CGdGo",
       "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
@@ -436,7 +437,7 @@
     },
     {
       "id": 55,
-      "title": "We Want To Run ",
+      "title": "We Want To Run",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=nByFKz4gw9o",
       "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
@@ -524,7 +525,7 @@
     },
     {
       "id": 66,
-      "title": "Little Dark Age ",
+      "title": "Little Dark Age",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=ETEg-SB01QY",
       "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
@@ -540,7 +541,7 @@
     },
     {
       "id": 68,
-      "title": "Sweet dreams ",
+      "title": "Sweet dreams",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=qeMFqkcPYcg",
       "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
@@ -548,7 +549,7 @@
     },
     {
       "id": 69,
-      "title": "Piano Man ",
+      "title": "Piano Man",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=gxEPV4kolz0",
       "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
@@ -580,7 +581,7 @@
     },
     {
       "id": 73,
-      "title": "Stolen Summer ",
+      "title": "Stolen Summer",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=cGAC7RtXr-I",
       "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
@@ -644,7 +645,7 @@
     },
     {
       "id": 81,
-      "title": "Super Bell Hill (Ver.2) ",
+      "title": "Super Bell Hill (Ver.2)",
       "platform": 0,
       "url": "https://www.youtube.com/watch?v=qhdXi7Yd41E",
       "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",

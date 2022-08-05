@@ -6,12 +6,14 @@ import names from '../../assets/names.json'
 export interface DataSong extends Song {
   cstName: string;
   date: string;
+  isWinner: boolean; 
 }
 
 export const EMPTY_DATA_SONG: DataSong = {
   ...EMPTY_SONG,
   cstName: "",
-  date: ""
+  date: "",
+  isWinner: false,
 }
 
 function sortConstitutionByDateASC(c1: DataConstitution, c2: DataConstitution): number {
@@ -53,6 +55,7 @@ export class DataManagerService {
           id: i,
           cstName: constitution.cstName,
           date: new Date(constitution.date).toISOString().slice(0, 10),
+          isWinner: constitution.winner === song.id,
           user: this.uidToName[song.user] || "Utilisateur Inconnu"
         }
       }));

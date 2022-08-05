@@ -1,6 +1,7 @@
 {
   "cstName": "L'Aventurier de Chine",
   "date": "2021-11-25",
+  "winner": 80,
   "songs": [
     {
       "id": 1,
@@ -328,7 +329,7 @@
       "title": "Radical City",
       "platform": 0,
       "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
-      "author": "Sonic R"
+      "author": "Sonic R OST"
     },
     {
       "id": 42,
@@ -592,7 +593,7 @@
       "title": "Lightly Latin",
       "platform": 0,
       "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
-      "author": "Henry Macini"
+      "author": "Henry Mancini"
     },
     {
       "id": 75,
