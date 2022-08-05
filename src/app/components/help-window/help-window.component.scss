@@ -1,0 +1,17 @@
+$old-mauve: #673ab7;
+$lazuli: rgba(38, 38, 38, 1);
+
+.font {
+  font-family: Verdana, sans-serif;
+}
+
+.button {
+  background-color: black;
+  color: whitesmoke;
+  border: 2px solid $old-mauve;
+  font-family: Verdana, sans-serif;
+}
+
+.button:hover {
+  background-color: $lazuli;
+}

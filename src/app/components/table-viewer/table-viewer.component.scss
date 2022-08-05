@@ -2,25 +2,17 @@
 $old-mauve: #673ab7;
 $lazuli: rgba(38, 38, 38, 1);
 
-// Global
-
 .font {
-    font-family: Verdana, sans-serif
+    font-family: Verdana, sans-serif;
 }
 
 // Title
 
 .title {
     color: whitesmoke;
-    margin-left: 2.5%;
-    margin-top: 0.5%;
+    margin-left: 3%;
     margin-bottom: -1%;
-}
-
-.title-icon {
-    font-size: smaller;
-    font-weight: bold;
-    color: blue;
+    padding-top: 0.8%;
 }
 
 // Options
@@ -110,7 +102,7 @@ mat-option {
     background-color: black;
 }
 
-.reset-button {
+.help-button {
     background-color: black;
     color: whitesmoke;
     border: 2px solid $old-mauve;
@@ -119,7 +111,7 @@ mat-option {
     font-family: Verdana, sans-serif;
 }
 
-.reset-button:hover {
+.help-button:hover {
     background-color: $lazuli;
 }
 

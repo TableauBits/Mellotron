@@ -1,14 +1,16 @@
 import { CdkDragDrop, moveItemInArray } from '@angular/cdk/drag-drop';
 import { AfterViewInit, Component, ViewChild } from '@angular/core';
 import { FormControl } from '@angular/forms';
-import { MatPaginator, PageEvent } from '@angular/material/paginator';
+import { MatPaginator, MatPaginatorIntl, PageEvent } from '@angular/material/paginator';
 import { MatSort } from '@angular/material/sort';
 import { MatTableDataSource } from '@angular/material/table';
 import { SongPlatform } from 'chelys';
 import { LocalStorageKey } from 'src/app/constants/local-storage';
-import { COLUMN_NAMES_MAP, DEFAULT_COLUMNS_ORDER, filterPredicateFunction } from 'src/app/constants/table';
+import { COLUMN_NAMES_MAP, DEFAULT_COLUMNS_ORDER, filterPredicateFunction, getRangeLabel } from 'src/app/constants/table';
 import { DataManagerService, DataSong } from 'src/app/services/data-manager.service';
 import { LocalStorageService } from 'src/app/services/local-storage.service';
+import { MatDialog } from '@angular/material/dialog';
+import { HelpWindowComponent } from '../help-window/help-window.component';
 
 @Component({
   selector: 'app-table-viewer',
@@ -28,8 +30,13 @@ export class TableViewerComponent implements AfterViewInit {
 
   constructor(
     public dataManager: DataManagerService,
-    public localStorage: LocalStorageService
+    public localStorage: LocalStorageService,
+    private dialog: MatDialog,
+    private paginatorIntl: MatPaginatorIntl
   ) {
+    this.paginatorIntl.itemsPerPageLabel = "Nombre de chansons par page:"
+    this.paginatorIntl.getRangeLabel = getRangeLabel;
+
     const localColumnOrder = JSON.parse(this.localStorage.get(LocalStorageKey.TABLE_COLUMN_ORDER)) as string[];
     const localDisplayedColumns = JSON.parse(this.localStorage.get(LocalStorageKey.TABLE_DISPLAYED_COLUMNS)) as string[];
 
@@ -100,9 +107,8 @@ export class TableViewerComponent implements AfterViewInit {
     return COLUMN_NAMES_MAP[name] || "";
   }
 
-  resetLocalStorage(): void {
-    this.localStorage.reset();
-    window.location.reload();
+  openHelpWindow(): void {
+    this.dialog.open(HelpWindowComponent);
   }
 
 }

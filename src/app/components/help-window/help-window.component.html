@@ -1,0 +1,57 @@
+<mat-dialog-content class="font">
+  <h1>
+    AIDE
+  </h1>
+  <hr>
+  <a href="https://fr.wikipedia.org/wiki/Mellotron" target="_blank">
+    Qu'est-ce qu'un Mellotron ?
+  </a>
+  <hr>
+  <h3> <u> 1- UTILISATION </u> </h3>
+  <b> Recherche </b> <br>
+  Il est possible de faire une recherche par texte sur l'ensemble des données. La recherche n'est pas sensible au
+  majuscule/minuscule et s'applique à toutes les colonnes. Pour éviter certains faux positifs, il peut être nécessaire
+  de
+  désactiver certaines colonnes (surtout <i>Utilisateur</i> et <i>Constitution</i>). À noter que les champs
+  <i>Gagnant</i>, <i>Plateforme</i> et <i>URL</i> sont par défaut
+  ignorés. <br>
+  <br> <b> Colonnes affichées </b> <br>
+  Dans le menu <i>Champs</i>, il est possible de activer/désactiver certains champs précis. Lorsque désactivés, ils
+  n'apparaisseront plus dans la table et la recherche ne prendra plus en compte les données qu'ils contiennent. <br>
+  <br> <b> Ordre des colonnes </b> <br>
+  L'ordre des colonnes peut être modifié dans n'importe quel sens. Pour cela, maintenez le clic sur l'un des titres de
+  colonne et faites le glisser le long de la ligne. À noter qu'il n'est pas possible de modifier l'ordre si une colonne
+  est masqué. <br>
+  <br> <b> Tri des colonnes </b> <br>
+  Les données d'une colonne peuvent être triés par ordre croissant ou décroissant en passant la souris sur le titre
+  d'une
+  colonne et cliquant sur l'icône de flèche apparaissant sur le côté. L'option de tri n'est pas disponible pour les
+  champs
+  <i>Plateforme</i> et <i>URL</i>. <br>
+  <br> <b> Sauvegarde des paramètres </b> <br>
+  Certains paramètres sont sauvegardés dans le navigateur et s'applique d'une ouverte à l'autre de l'application. Pour
+  le
+  moment, cela englobe les paramètes suivants :
+  <li> L'orde des colonnes. </li>
+  <li> Les colonnes affichés. </li>
+  <li> Le nombre de chanson affichés par page. </li>
+  <br>
+  <hr>
+  <h3> <u> 2- CONFIGURATION </u> </h3>
+  Dans le cas d'un problème avec les données sauvegardées par le site, il est possible de réinialiser les différents
+  paramètres locaux pour revenir vers un état stable : <br> <br>
+  <button mat-button class="button" (click)="resetLocalStorage()">
+    Réinitialiser les paramètres
+  </button>
+  <br> <br>
+  <hr>
+  <h3> <u> 3- LIMITATIONS </u> </h3>
+  L'application possède plusieurs limitations :
+  <li> Les données ne sont pas mise à jours en temps réel. Il est donc possible d'avoir des décalages entre les
+    constitutions ou avec le pseudo des utilisateurs. </li>
+  <li> Les données ne suivent pas toutes le même format. Il est possible de rencontrer des incohérences au niveau du
+    champ
+    <i>Auteur</i> qui peut regrouper un artiste ou un titre d'album. Il faut aussi prendre en compte le cas de plusieurs
+    titres possible pour une même chanson (ex: Romanji vs Kanji).
+  </li>
+</mat-dialog-content>

@@ -14,16 +14,19 @@ import { MatInputModule } from '@angular/material/input';
 import { MatIconModule } from '@angular/material/icon';
 import { MatSortModule } from '@angular/material/sort';
 import { MatSelectModule } from '@angular/material/select';
-import { MatButtonModule } from '@angular/material/button'
+import { MatButtonModule } from '@angular/material/button';
+import { MatDialogModule } from "@angular/material/dialog";
 
 // Component
 import { AppComponent } from './app.component';
 import { TableViewerComponent } from './components/table-viewer/table-viewer.component';
+import { HelpWindowComponent } from './components/help-window/help-window.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     TableViewerComponent,
+    HelpWindowComponent,
   ],
   imports: [
     BrowserModule,
@@ -38,7 +41,8 @@ import { TableViewerComponent } from './components/table-viewer/table-viewer.com
     MatIconModule,
     MatSortModule,
     MatSelectModule,
-    MatButtonModule
+    MatButtonModule,
+    MatDialogModule
   ],
   providers: [],
   bootstrap: [AppComponent]

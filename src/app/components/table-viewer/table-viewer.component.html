@@ -1,8 +1,5 @@
 <h1 class="font title">
-        Mellotron
-        <a href="https://fr.wikipedia.org/wiki/Mellotron" target="_blank">
-                <mat-icon class="title-icon">launch</mat-icon>
-        </a>
+        Mellotron - Archive Matbay
 </h1> <br>
 <mat-form-field class="font" appearance="standard">
         <mat-label>Recherche</mat-label>
@@ -19,7 +16,9 @@
 <span class="warning-text font" *ngIf="!canDrag()">
         L'ordre des colonnes ne peut pas être modifié dans cette configuration
 </span>
-<button mat-button class="reset-button" (click)="resetLocalStorage()"> Réinitialiser les paramètres </button> <br>
+<button mat-button class="help-button" (click)="openHelpWindow()">
+        <mat-icon>help_outline</mat-icon> Aide
+</button> <br>
 <div class="mat-elevation-z8">
         <table mat-table class="font" [dataSource]="dataSource" matSort cdkDropList cdkDropListOrientation="horizontal"
                 (cdkDropListDropped)="drop($any($event))">
