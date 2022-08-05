@@ -2,8 +2,7 @@ name: Kalimba User CI
 
 on:
   pull_request:
-    branches:
-      - main
+    branches: [ "main" ]
 
 jobs:
   build:
@@ -17,6 +16,4 @@ jobs:
         cache: 'npm'
     - run: npm ci
     - run: node kalimba.js
-     - uses: stefanzweifel/git-auto-commit-action@v4
-       with:
-        commit_message: Update users names
+
