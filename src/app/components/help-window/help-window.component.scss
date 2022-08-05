@@ -1,15 +1,14 @@
-$old-mauve: #673ab7;
-$lazuli: rgba(38, 38, 38, 1);
+@import "../../../style-var.scss";
 
 .font {
-  font-family: Verdana, sans-serif;
+  font-family: $verdana;
 }
 
 .button {
   background-color: black;
   color: whitesmoke;
   border: 2px solid $old-mauve;
-  font-family: Verdana, sans-serif;
+  font-family: $verdana;
 }
 
 .button:hover {
