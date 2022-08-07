@@ -1,27 +1,32 @@
-# Mellotron
+# Mellotron :musical_keyboard:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
+![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Development server
+[Mellotron](https://fr.wikipedia.org/wiki/Mellotron) est un site d'archivage des chansons des constitutions Matbay. Les buts principaux du projet était de :
+* Regrouper en un seul endroit toutes les chansons passées dans une constitution Matbay.
+* Permettre de faire une recherche parmi toutes ces données.
+* Pouvoir personnaliser la recherche sur plusieurs critères.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+L'application a été généré à partir de [Angular CLI](https://github.com/angular/angular-cli) (version 13.3.7).
 
-## Code scaffolding
+## Commandes Utiles
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+```
+// Installer les dépendances
+npm i
 
-## Build
+// Lancer l'application localement (disponible sur http://localhost:4200/)
+ng serve
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+// Générer l'application (fichiers disponible dans /dist)
+ng build
 
-## Running unit tests
+// Mettre à jour les pseudos des utilisateurs
+node kalimba.js
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+La plupart des dépendances proviennent d'Angular, mise à part [`@angular/material`](https://material.angular.io/guide/getting-started), [`chelys`](https://github.com/TableauBits/Chelys) et [`node-fetch`](https://www.npmjs.com/package/node-fetch) qui ont été ajoutés au cours du projet.
 
-## Running end-to-end tests
+## Notes
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Mellotron est un projet d'archive statique et ne se mettra donc pas à jour de manière automatiquement.
