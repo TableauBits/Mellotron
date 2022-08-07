@@ -1,0 +1,16 @@
+@import "../../../style-var.scss";
+
+.font {
+  font-family: $verdana;
+}
+
+.button {
+  background-color: black;
+  color: whitesmoke;
+  border: 2px solid $old-mauve;
+  font-family: $verdana;
+}
+
+.button:hover {
+  background-color: $lazuli;
+}
