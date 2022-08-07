@@ -27,6 +27,8 @@ node kalimba.js
 
 La plupart des dépendances proviennent d'Angular, mise à part [`@angular/material`](https://material.angular.io/guide/getting-started), [`chelys`](https://github.com/TableauBits/Chelys) et [`node-fetch`](https://www.npmjs.com/package/node-fetch) qui ont été ajoutés au cours du projet.
 
+Il n'y a pas besoin de mettre à jour soi-même les pseudos des utilisateurs en appelant `kalimba.js`, un workflow dans le CI le fera à chaque ouverture de PR.
+
 ## Notes
 
-Mellotron est un projet d'archive statique et ne se mettra donc pas à jour de manière automatiquement.
+Mellotron est un projet d'archive statique et ne se mettra donc pas à jour automatiquement. Aussi, puisque que les données des chansons viennent de plusieurs sources différentes, il est possible que le format de certains champs (ex: Auteur) ne soit pas cohérent entre différentes chansons.
