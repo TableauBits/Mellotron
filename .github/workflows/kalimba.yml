@@ -1,0 +1,25 @@
+name: Update Users Info CI
+
+on:
+  pull_request:
+    branches: ["main"]
+    types: [opened]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.x
+          cache: "npm"
+      - run: npm ci
+      - run: node kalimba.js
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update usernames
