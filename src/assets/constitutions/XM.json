@@ -1,0 +1,519 @@
+{
+  "cstName": "Mini-Xénocratie",
+  "date": "2022-12-26T00:35:39.310Z",
+  "winner": 47,
+  "songs": [
+    {
+      "title": "Tout le monde s'amuse",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "author": "Agathe & Regrets",
+      "platform": 0,
+      "id": 0,
+      "url": "https://www.youtube.com/watch?v=SsKdqQI6Xuc"
+    },
+    {
+      "author": "Beyoncé",
+      "title": "BREAK MY SOUL",
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "platform": 0,
+      "id": 1,
+      "url": "https://www.youtube.com/watch?v=yjki-9Pthh0"
+    },
+    {
+      "platform": 0,
+      "url": "https://youtu.be/BOIOGhHVCMA",
+      "title": "Stars de la pub",
+      "author": "Écran total 80",
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "id": 2
+    },
+    {
+      "platform": 0,
+      "author": "RADWIMPS feat. Toaka",
+      "title": "Suzume",
+      "url": "https://www.youtube.com/watch?v=9LW9DpmhrPE",
+      "id": 3,
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2"
+    },
+    {
+      "author": " Matthis",
+      "url": "https://youtu.be/eIy_D4JgHSU",
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "title": "Paysan Breton Remix",
+      "id": 4,
+      "platform": 0
+    },
+    {
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "platform": 0,
+      "title": "Sunset",
+      "url": "https://www.youtube.com/watch?v=-YBP-D6vQIA",
+      "author": "Caroline Polachek",
+      "id": 5
+    },
+    {
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "platform": 0,
+      "id": 6,
+      "url": "https://www.youtube.com/watch?v=2crLTbHCkx8",
+      "author": "Dean Blunt",
+      "title": "the rot"
+    },
+    {
+      "id": 7,
+      "author": "Snail Mail",
+      "url": "https://www.youtube.com/watch?v=P8ZdGApE2ds",
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "platform": 0,
+      "title": "Static Buzz"
+    },
+    {
+      "platform": 0,
+      "id": 8,
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "title": "There Were Bells",
+      "author": "Brian Eno",
+      "url": "https://www.youtube.com/watch?v=pY2613kiqMo&feature=share"
+    },
+    {
+      "platform": 0,
+      "url": "https://www.youtube.com/watch?v=ogTDa-vG2MQ",
+      "author": "Maury Laws",
+      "title": "Down, down to Goblin town",
+      "id": 9,
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2"
+    },
+    {
+      "title": "Ginger",
+      "id": 10,
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "platform": 0,
+      "url": "https://www.youtube.com/watch?v=_nrhCk_PNd4",
+      "author": "TOMOO"
+    },
+    {
+      "id": 11,
+      "url": "https://www.youtube.com/watch?v=I4O5CVvwgFI",
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "platform": 0,
+      "title": "Scream",
+      "author": "Masayoshi Soken"
+    },
+    {
+      "author": "Nat King Cole",
+      "platform": 0,
+      "url": "https://www.youtube.com/watch?v=eq8LlDyJMUk",
+      "id": 12,
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "title": "Joy to the world"
+    },
+    {
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "title": "ブレーメン [Bremen]",
+      "url": "https://youtu.be/oy6MDr6I6rM",
+      "platform": 0,
+      "id": 13,
+      "author": "ヨルシカ"
+    },
+    {
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "author": "Sorath",
+      "url": "https://youtu.be/w7MjajqDtjU",
+      "platform": 0,
+      "title": "Main Menu Theme (HYPER DEMON OST)",
+      "id": 14
+    },
+    {
+      "author": "Sara",
+      "url": "https://www.youtube.com/watch?v=Z2Cs0o72yZI",
+      "id": 15,
+      "platform": 0,
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "title": "Burning up for you"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vLOzbkryIDE",
+      "id": 16,
+      "platform": 0,
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "author": "Final Fantasy XIV OST",
+      "title": "In The Balance"
+    },
+    {
+      "platform": 0,
+      "author": "Two~Han Princess",
+      "url": "https://www.youtube.com/watch?v=FLP5PypNO3s",
+      "title": "Inori No Uta",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "id": 17
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vTqdYKuz-TY",
+      "title": "Martin d'la chasse-galerie",
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "platform": 0,
+      "author": "La Bottine Souriante",
+      "id": 18
+    },
+    {
+      "platform": 0,
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "title": "I'M SO DEPRESSED",
+      "id": 19,
+      "url": "https://youtu.be/rHqz-YFpGbw",
+      "author": "Hairy Soul Man"
+    },
+    {
+      "id": 20,
+      "title": "Absolute Territory",
+      "platform": 0,
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "url": "https://youtu.be/kFZKgf5WG0g",
+      "author": "Ken Ashcorp"
+    },
+    {
+      "author": " Grazhdanskaya Oborona",
+      "platform": 0,
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "url": "https://youtu.be/-u5kOYX0o_A",
+      "title": "Гражданская Оборона",
+      "id": 21
+    },
+    {
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "author": "ZZCMXTP feat. Pandrezz, Ronare, Baghera Jones, Antoine Daniel, Ephès",
+      "id": 22,
+      "url": "https://www.youtube.com/watch?v=E6oM31m9pvk",
+      "title": "La vériter",
+      "platform": 0
+    },
+    {
+      "author": "Yuka Kitamura",
+      "platform": 0,
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "id": 23,
+      "title": "Elden Ring - Main Theme",
+      "url": "https://www.youtube.com/watch?v=6R3ouGNcACQ"
+    },
+    {
+      "id": 25,
+      "platform": 0,
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "author": "Lionel Leroy",
+      "title": "Ulysse 31(générique de fin)",
+      "url": "https://www.youtube.com/watch?v=qSG674PHVdM"
+    },
+    {
+      "id": 26,
+      "author": "Gensonina",
+      "url": "https://www.youtube.com/watch?v=hs8gjunyhR8",
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "title": "Takim cię wyśniłam (Je t'imaginais comme ça)",
+      "platform": 0
+    },
+    {
+      "platform": 0,
+      "title": "Hell's Comin' with Me",
+      "author": "Poor Man's Poison",
+      "id": 27,
+      "url": "https://youtu.be/g33N8WKTVUI",
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IHqMXgo01Gc",
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "author": "緑黄色社会",
+      "title": "空に歌えば [Singing to the sky]",
+      "id": 28,
+      "platform": 0
+    },
+    {
+      "url": "https://youtu.be/6DWqUDkeLE8",
+      "author": "Oscar et Clémentine Anton",
+      "id": 29,
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "title": "Minuit",
+      "platform": 0
+    },
+    {
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "author": "2WEI",
+      "id": 30,
+      "platform": 0,
+      "title": "Survivor",
+      "url": "https://youtu.be/0iC10hKsi20"
+    },
+    {
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "author": "Pomme",
+      "id": 31,
+      "url": "https://youtu.be/fWbDZUBuCbo",
+      "title": "Je sais pas danser",
+      "platform": 0
+    },
+    {
+      "platform": 0,
+      "author": "Beabadoobee",
+      "title": "Coffee",
+      "url": "https://youtu.be/C6CeA6vRtW4",
+      "id": 32,
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2"
+    },
+    {
+      "title": "No Money",
+      "platform": 0,
+      "url": "https://youtu.be/xUVz4nRmxn4",
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "author": "Galantis",
+      "id": 33
+    },
+    {
+      "author": "Vance Joy",
+      "title": "Riptide",
+      "platform": 0,
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "url": "https://youtu.be/uJ_1HMAGb4k",
+      "id": 34
+    },
+    {
+      "title": "No Rest For The Wicked",
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "platform": 0,
+      "id": 35,
+      "url": "https://youtu.be/Hh-0y8Qe0Sw",
+      "author": "Lykke Li"
+    },
+    {
+      "title": "Wellerman",
+      "url": "https://www.youtube.com/watch?v=qP-7GNoDJ5c",
+      "platform": 0,
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "id": 36,
+      "author": "Nathan Evans"
+    },
+    {
+      "platform": 0,
+      "url": "https://youtu.be/GWkLAGlEcxg",
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "author": "Centimillimental",
+      "title": "僕らだけの主題歌 (Our Own Theme Song)",
+      "id": 37
+    },
+    {
+      "id": 38,
+      "title": "Hold On",
+      "url": "https://youtu.be/a0sxc2jIYD0",
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "platform": 0,
+      "author": "Chord Overstreet"
+    },
+    {
+      "id": 39,
+      "url": "https://www.youtube.com/watch?v=EnDXGQmCz3U",
+      "title": "Vitality",
+      "author": "Mittsies",
+      "platform": 0,
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2"
+    },
+    {
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "id": 40,
+      "author": "Eartheater",
+      "url": "https://www.youtube.com/watch?v=-icgM6KsDkA",
+      "platform": 0,
+      "title": "Solid Liquid Gas"
+    },
+    {
+      "platform": 0,
+      "url": "https://www.youtube.com/watch?v=wrGFTi3tjHg",
+      "id": 41,
+      "title": "House With Legs",
+      "author": "cYsmix",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QyXfDPbFqwY",
+      "title": "Nainai",
+      "platform": 0,
+      "author": "ReoNa",
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "id": 42
+    },
+    {
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "author": "Euluca Lab. ",
+      "platform": 0,
+      "id": 43,
+      "title": "面影 (Omokage)",
+      "url": "https://youtu.be/QXx376skKdA"
+    },
+    {
+      "platform": 0,
+      "title": "Jayce et les conquérants de la lumière",
+      "author": "Nick Carr",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "id": 44,
+      "url": "https://www.youtube.com/watch?v=kr7VZpnFWrI"
+    },
+    {
+      "author": "Clamavi de Profundis",
+      "id": 45,
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "platform": 0,
+      "url": "https://youtu.be/WXjVDGGq9pE",
+      "title": "Carol of the Bells"
+    },
+    {
+      "platform": 0,
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "author": "Yuki Kajiura",
+      "id": 46,
+      "url": "https://youtu.be/frRV-eA6SF0",
+      "title": "Is this love?"
+    },
+    {
+      "author": "Tasuku Hatanaka",
+      "id": 47,
+      "platform": 0,
+      "title": "DYING WISH",
+      "url": "https://youtu.be/tzg7L0ZXL9c",
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2"
+    },
+    {
+      "author": "Aoife Ní Fhearraigh",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "title": "The Best Is Yet To Come",
+      "platform": 0,
+      "id": 48,
+      "url": "https://www.youtube.com/watch?v=kf35AgaMH4Y"
+    },
+    {
+      "user": "iImCc2DtcOSmUCEDkpZThfmTTko2",
+      "id": 49,
+      "platform": 0,
+      "url": "https://www.youtube.com/watch?v=ojnD9WtLmLc",
+      "author": "rj lake",
+      "title": "a galaxy of children who've only seen red"
+    },
+    {
+      "author": "Cristobal Tapia de Veer",
+      "id": 50,
+      "user": "iImCc2DtcOSmUCEDkpZThfmTTko2",
+      "url": "https://www.youtube.com/watch?v=uFpGUgJbLi4",
+      "title": "The Monarch's Pyramid",
+      "platform": 0
+    },
+    {
+      "id": 51,
+      "url": "https://www.youtube.com/watch?v=6ugtWT_iNqw",
+      "platform": 0,
+      "user": "iImCc2DtcOSmUCEDkpZThfmTTko2",
+      "author": "Masayoshi Soken - Nobuo Uematsu -  Michael-Christopher Koji Fox",
+      "title": "Shadowbringers"
+    },
+    {
+      "id": 52,
+      "platform": 0,
+      "user": "iImCc2DtcOSmUCEDkpZThfmTTko2",
+      "author": "Nakey Jakey",
+      "url": "https://www.youtube.com/watch?v=imgOcekUvVg",
+      "title": "DRIVE OFF A BRIDGE"
+    },
+    {
+      "author": "Jesper Kyd",
+      "user": "iImCc2DtcOSmUCEDkpZThfmTTko2",
+      "id": 53,
+      "url": "https://www.youtube.com/watch?v=pLic2xw48lU",
+      "title": "Imperial advance",
+      "platform": 0
+    },
+    {
+      "id": 54,
+      "title": "YOU FUCKERS WERE ASKING FOR THIS ONE",
+      "platform": 0,
+      "url": "https://www.youtube.com/watch?v=4J3zvFT0CAA",
+      "author": "Rav",
+      "user": "iImCc2DtcOSmUCEDkpZThfmTTko2"
+    },
+    {
+      "author": " Simon Chylinski",
+      "id": 55,
+      "url": "https://www.youtube.com/watch?v=nf30qQzw7rk",
+      "user": "iImCc2DtcOSmUCEDkpZThfmTTko2",
+      "title": "ABANDON SHIP",
+      "platform": 0
+    },
+    {
+      "author": "Shygirl",
+      "url": "https://www.youtube.com/watch?v=Myrm7k8cn68&feature=share",
+      "platform": 0,
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "title": "BB",
+      "id": 56
+    },
+    {
+      "author": "Cuishan He",
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "platform": 0,
+      "id": 57,
+      "title": "Jingle Bells",
+      "url": "https://youtu.be/chgJDxGDS00"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Ij65wvAGX-c",
+      "title": "Everybody Wants To Rule The World",
+      "platform": 0,
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "author": "Tears For Fears",
+      "id": 58
+    },
+    {
+      "id": 59,
+      "title": "Edge of Existence",
+      "author": "Yoko Shimomura",
+      "url": "https://youtu.be/yVl3QRNkb8A",
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "platform": 0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QkF_FShTR6U",
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "author": "文藝天国",
+      "title": "マリアージュ「marriage」",
+      "id": 60,
+      "platform": 0
+    },
+    {
+      "platform": 0,
+      "id": 61,
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "author": "Fleetwood Mac",
+      "url": "https://www.youtube.com/watch?v=FhgFtXESdPk",
+      "title": "The Chain"
+    },
+    {
+      "url": "https://youtu.be/_zECkdXSNoI",
+      "author": "Sir Sly",
+      "platform": 0,
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "id": 62,
+      "title": "Astronaut"
+    },
+    {
+      "id": 63,
+      "url": "https://youtu.be/nbcCG7PkI18",
+      "platform": 0,
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "author": "WALK THE MOON",
+      "title": "Shut Up and Dance"
+    },
+    {
+      "id": 64,
+      "url": "https://www.youtube.com/watch?v=SZNbabKjKpA",
+      "title": "Into Free",
+      "platform": 0,
+      "user": "iImCc2DtcOSmUCEDkpZThfmTTko2",
+      "author": "Dangan"
+    }
+  ]
+}
