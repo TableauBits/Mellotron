@@ -1,12 +1,12 @@
 import { Injectable } from '@angular/core';
-import { EMPTY_SONG, Song } from 'chelys';
+import { EMPTY_SONG, Song, SongPlatform } from 'chelys';
 import { ALL_CONSTITUTIONS_DATA, DataConstitution } from '../constants/constitutions';
 import names from '../../assets/names.json'
 
 export interface DataSong extends Song {
   cstName: string;
   date: string;
-  isWinner: boolean; 
+  isWinner: boolean;
 }
 
 export const EMPTY_DATA_SONG: DataSong = {
@@ -41,7 +41,7 @@ export class DataManagerService {
 
   private init() {
     // Sort constitutions by date, the oldest first
-    this.constitutions = this.constitutions.sort(sortConstitutionByDateASC);
+    this.constitutions.sort(sortConstitutionByDateASC);
 
     // Song counter (also generate unique id)
     let i = 0;
@@ -56,12 +56,12 @@ export class DataManagerService {
           cstName: constitution.cstName,
           date: new Date(constitution.date).toISOString().slice(0, 10),
           isWinner: constitution.winner === song.id,
-          user: this.uidToName[song.user] || "Utilisateur Inconnu"
+          user: this.uidToName[song.user] || "Utilisateur Inconnu",
         }
       }));
     })
 
     // Display most recent songs first
-    this.songs = this.songs.reverse();
+    this.songs.reverse();
   }
 }
