@@ -73,11 +73,10 @@ export class TableViewerComponent implements AfterViewInit {
 
   platformToString(platform: SongPlatform): string {
     switch (platform) {
-      case SongPlatform.YOUTUBE:
-        return "Youtube";
-
-      default:
-        return "Unknown";
+      case SongPlatform.YOUTUBE: return "Youtube";
+      case SongPlatform.SOUNDCLOUD: return "Soundcloud";
+      case SongPlatform.PEERTUBE: return "Peertube";
+      default: return "Inconnu";
     }
   }
 
