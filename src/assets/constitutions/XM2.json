@@ -1,0 +1,929 @@
+{
+  "cstName": "Mini-Xénocratie 2",
+  "date": "2023-12-28T16:25:28.789Z",
+  "winner": 30,
+  "songs": [
+    {
+      "url": "https://www.youtube.com/watch?v=zSVRtM1x9wQ",
+      "platform": 0,
+      "id": 0,
+      "genres": [
+        "Ambient",
+        "Soundtrack"
+      ],
+      "author": "Borislav Slavov",
+      "album": "Baldur's Gate 3 (Original Game Soundtrack)",
+      "title": "Down by the River",
+      "addedDate": "2023-11-05T18:26:13.680Z",
+      "releaseYear": 2023,
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "addedDate": "2023-11-05T18:39:01.727Z",
+      "author": "Curly",
+      "id": 1,
+      "genres": [
+        "Rock"
+      ],
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "title": "The River",
+      "platform": 0,
+      "languages": [
+        "ins"
+      ],
+      "url": "https://youtu.be/DdKlYImYIWQ",
+      "releaseYear": 2022
+    },
+    {
+      "album": "Pop It",
+      "author": "Anamanaguchi",
+      "addedDate": "2023-11-05T19:11:07.989Z",
+      "languages": [
+        "en"
+      ],
+      "id": 2,
+      "url": "https://www.youtube.com/watch?v=scmQ6iN8hKM&si=OVpTnpfi4_cG2Bfz",
+      "platform": 0,
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "releaseYear": 2014,
+      "genres": [
+        "Electropop",
+        "Bitpop",
+        "Dance Pop"
+      ],
+      "title": "Pop It (feat. meesh)"
+    },
+    {
+      "platform": 0,
+      "author": "Eartheater",
+      "releaseYear": 2023,
+      "languages": [
+        "en"
+      ],
+      "id": 3,
+      "album": "Powders",
+      "addedDate": "2023-11-05T19:12:31.324Z",
+      "genres": [
+        "Electronic",
+        "Trip Hop",
+        "Psychedelic Folk"
+      ],
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "url": "https://www.youtube.com/watch?v=d8T5dMi4qr8",
+      "title": "Crushing"
+    },
+    {
+      "releaseYear": 2012,
+      "languages": [
+        "fr"
+      ],
+      "album": "Laurent Paquin... chante Laurent Paquin",
+      "url": "https://youtu.be/kSy306Vrd9g",
+      "title": "Chant Sacré",
+      "platform": 0,
+      "author": "Laurent Paquin",
+      "id": 4,
+      "addedDate": "2023-11-05T19:12:58.260Z",
+      "genres": [
+        "Country"
+      ],
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2"
+    },
+    {
+      "languages": [
+        "en"
+      ],
+      "album": "Vespertine",
+      "author": "Björk",
+      "title": "Pagan Poetry",
+      "releaseYear": 2001,
+      "genres": [
+        "Electronic"
+      ],
+      "addedDate": "2023-11-05T19:14:24.808Z",
+      "platform": 0,
+      "url": "https://www.youtube.com/watch?v=-OBD-al0cIM",
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "id": 5
+    },
+    {
+      "languages": [
+        "en"
+      ],
+      "platform": 0,
+      "album": "Take Me Home",
+      "releaseYear": 2022,
+      "author": "PinkPantheress",
+      "addedDate": "2023-11-05T19:15:40.127Z",
+      "genres": [
+        "Dance Pop",
+        "Electronic Dance Music"
+      ],
+      "id": 6,
+      "url": "https://www.youtube.com/watch?v=J-rwXY0jVGI",
+      "title": "Take Me Home",
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8BQrSMFBlpE",
+      "releaseYear": 2021,
+      "id": 7,
+      "platform": 0,
+      "genres": [
+        "Electronic",
+        "Glitch Pop"
+      ],
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "album": "Romeo",
+      "addedDate": "2023-11-05T19:18:03.371Z",
+      "author": "Sega Bodega",
+      "title": "Only Seeing God When I Come",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "title": "dazies",
+      "id": 8,
+      "album": "softscars",
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "platform": 0,
+      "author": "yeule",
+      "languages": [
+        "en"
+      ],
+      "genres": [
+        "Dream Pop",
+        "Indietronica"
+      ],
+      "releaseYear": 2023,
+      "url": "https://www.youtube.com/watch?v=U112Stii6uE",
+      "addedDate": "2023-11-05T19:20:07.605Z"
+    },
+    {
+      "genres": [
+        "Anime",
+        "Polka",
+        "Bouncy House",
+        "Metal",
+        "Brostep",
+        "Kawaii Future Bass",
+        "Electronic Dance Music",
+        "Brick City Club",
+        "Bubblegum Bass",
+        "Electropop",
+        "Eurobeat",
+        "Drum & Bass / DnB",
+        "Hardcore",
+        "Bouncy Techno",
+        "Big Band",
+        "Jazz"
+      ],
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "platform": 1,
+      "url": "https://soundcloud.com/explorersoftheinternet/christmas2021",
+      "releaseYear": 2021,
+      "author": "Explorers of the Internet",
+      "languages": [
+        "en"
+      ],
+      "id": 9,
+      "title": "ALL U WANT FOR CHRISTMAS 3 [2021 edition]",
+      "addedDate": "2023-11-05T19:27:17.065Z"
+    },
+    {
+      "id": 10,
+      "author": "ヨルシカ",
+      "album": "エルマ",
+      "addedDate": "2023-11-05T19:28:45.137Z",
+      "title": "神様のダンス",
+      "platform": 0,
+      "languages": [
+        "ja"
+      ],
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "releaseYear": 2019,
+      "url": "https://youtu.be/kun6uf7A0Ao",
+      "genres": [
+        "J-Pop",
+        "J-Rock"
+      ],
+      "altTitles": [
+        "Dance of you"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Q0guReRtGWI",
+      "releaseYear": 2023,
+      "album": "Anemoia - Single",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "author": "Oliver Buckland",
+      "title": "anemoia",
+      "addedDate": "2023-11-05T21:44:46.106Z",
+      "genres": [
+        "Ambient",
+        "Orchestral",
+        "Modern Classical"
+      ],
+      "platform": 0,
+      "id": 11,
+      "languages": [
+        "ins"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DkHmdWHxZzA",
+      "addedDate": "2023-11-06T09:38:12.688Z",
+      "title": "Bitwa",
+      "platform": 0,
+      "releaseYear": 2021,
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "languages": [
+        "pl"
+      ],
+      "author": "csskrouble",
+      "id": 12,
+      "altTitles": [
+        "Bataille"
+      ]
+    },
+    {
+      "languages": [
+        "ins"
+      ],
+      "addedDate": "2023-11-06T09:40:52.801Z",
+      "album": "Millenium Actress OST",
+      "releaseYear": 2001,
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "id": 13,
+      "title": "Run",
+      "platform": 0,
+      "genres": [
+        "Experimental Rock",
+        "Ambient",
+        "Progressive"
+      ],
+      "author": "Susumu Hirasawa",
+      "url": "https://youtu.be/KJY1TomgkBs"
+    },
+    {
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "author": "Engelwood",
+      "altTitles": [
+        "Dauphin Crystallin"
+      ],
+      "album": "Yachtworld",
+      "id": 14,
+      "url": "https://www.youtube.com/watch?v=UXiwRmlCZ7E",
+      "languages": [
+        "en"
+      ],
+      "platform": 0,
+      "addedDate": "2023-11-06T09:43:07.266Z",
+      "genres": [
+        "Future Funk"
+      ],
+      "releaseYear": 2017,
+      "title": "Crystal Dolphin"
+    },
+    {
+      "id": 15,
+      "genres": [
+        "J-Rock",
+        "J-Pop"
+      ],
+      "title": "Guitar, Loneliness and the Blue Planet",
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "url": "https://www.youtube.com/watch?v=SDk1RA4g8CA",
+      "author": "kessoku band",
+      "album": "Kessoku Band",
+      "releaseYear": 2022,
+      "addedDate": "2023-11-06T09:50:18.519Z",
+      "platform": 0,
+      "languages": [
+        "ja"
+      ]
+    },
+    {
+      "releaseYear": 2022,
+      "url": "https://www.youtube.com/watch?v=fwzRR6Bsro4",
+      "title": "aiue",
+      "id": 16,
+      "genres": [
+        "J-Pop",
+        "Anime"
+      ],
+      "platform": 0,
+      "languages": [
+        "ja"
+      ],
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "album": "Noisy Room",
+      "author": "maisonDES ft. Minami & SAKURAmoti",
+      "addedDate": "2023-11-06T09:59:46.825Z"
+    },
+    {
+      "album": "The Wellermen",
+      "url": "https://www.youtube.com/watch?v=K0wCQrEIdYk",
+      "languages": [
+        "en"
+      ],
+      "id": 17,
+      "genres": [
+        "Alternative Country"
+      ],
+      "addedDate": "2023-11-06T10:02:04.512Z",
+      "title": "Old Maui",
+      "releaseYear": 2023,
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "platform": 0,
+      "author": "The Wellermen"
+    },
+    {
+      "album": "INTERNET YAMERO",
+      "languages": [
+        "ja"
+      ],
+      "genres": [
+        "Eurobeat",
+        "J-Pop"
+      ],
+      "releaseYear": 2023,
+      "platform": 0,
+      "id": 18,
+      "altTitles": [
+        "INTERNET STOP IT"
+      ],
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "author": "Aiobahn ft. KOTOKO",
+      "url": "https://www.youtube.com/watch?v=51GIxXFKbzk",
+      "addedDate": "2023-11-06T10:10:11.523Z",
+      "title": "INTERNET YAMERO"
+    },
+    {
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "author": "JerryTerry",
+      "genres": [
+        "Dream Pop"
+      ],
+      "languages": [
+        "ins"
+      ],
+      "platform": 0,
+      "addedDate": "2023-11-06T10:13:46.087Z",
+      "releaseYear": 2017,
+      "id": 19,
+      "title": "No one's around to help.",
+      "altTitles": [
+        "Il n'y a personne autour pour aider."
+      ],
+      "url": "https://www.youtube.com/watch?v=yD2FSwTy2lw&t=0s"
+    },
+    {
+      "album": "Tightrope",
+      "releaseYear": 2022,
+      "id": 20,
+      "url": "https://youtu.be/QliRExCEd9g",
+      "platform": 0,
+      "author": "9mm Parabellum Bullet",
+      "genres": [
+        "Rock"
+      ],
+      "title": "One More Time",
+      "languages": [
+        "ja"
+      ],
+      "addedDate": "2023-11-08T05:19:40.119Z",
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2"
+    },
+    {
+      "languages": [
+        "ja"
+      ],
+      "altTitles": [
+        "Hero"
+      ],
+      "id": 21,
+      "album": "The Book 3",
+      "addedDate": "2023-11-08T06:36:36.010Z",
+      "title": "Yuusha",
+      "platform": 0,
+      "releaseYear": 2023,
+      "genres": [
+        "J-Pop",
+        "Anime",
+        "Soundtrack"
+      ],
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "author": "YOASOBI",
+      "url": "https://youtu.be/OIBODIPC_8Y"
+    },
+    {
+      "releaseYear": 2023,
+      "genres": [
+        "Indie Pop",
+        "Anime",
+        "Soundtrack"
+      ],
+      "title": "Entertainment",
+      "album": "Entertainment - Single",
+      "addedDate": "2023-11-08T15:38:35.372Z",
+      "languages": [
+        "en"
+      ],
+      "id": 22,
+      "author": "Mili",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "platform": 0,
+      "url": "https://www.youtube.com/watch?v=21bCrsGt050"
+    },
+    {
+      "addedDate": "2023-11-09T15:31:14.022Z",
+      "releaseYear": 1978,
+      "id": 23,
+      "author": "Enriqué",
+      "album": "Goldorak OST",
+      "platform": 0,
+      "title": "Accours vers nous prince de l'espace",
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "genres": [
+        "Anime",
+        "French Pop"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "url": "https://youtu.be/dOO3LgzXdYg",
+      "altTitles": [
+        "Goldorak le générique"
+      ]
+    },
+    {
+      "addedDate": "2023-11-11T17:20:25.658Z",
+      "platform": 0,
+      "author": "Zmi",
+      "genres": [
+        "Classical",
+        "Contemporary Classical"
+      ],
+      "title": "A little girl",
+      "id": 24,
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "releaseYear": 2015,
+      "url": "https://youtu.be/uoSp_2PAF3o",
+      "languages": [
+        "ins"
+      ],
+      "album": "ふうね"
+    },
+    {
+      "languages": [
+        "ins"
+      ],
+      "title": "Dream Leaf",
+      "id": 25,
+      "addedDate": "2023-11-11T17:27:52.385Z",
+      "releaseYear": 2017,
+      "platform": 0,
+      "genres": [
+        "Soundtrack"
+      ],
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "url": "https://youtu.be/8laA0PPLQlg",
+      "album": "緑の手紙",
+      "author": "ミツキヨ"
+    },
+    {
+      "genres": [
+        "J-Pop",
+        "Vocaloid",
+        "Heavy Metal",
+        "Rock"
+      ],
+      "author": "黒うさP｜feat.初音ミク",
+      "releaseYear": 2011,
+      "url": "https://youtu.be/Mqps4anhz0Q",
+      "id": 26,
+      "platform": 0,
+      "languages": [
+        "ja"
+      ],
+      "title": "千本桜",
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "altTitles": [
+        "A 1000 cherry trees"
+      ],
+      "addedDate": "2023-11-11T18:04:20.787Z"
+    },
+    {
+      "url": "https://youtu.be/Sc8RTc6vKPE",
+      "title": "Dream of Arrakis",
+      "id": 27,
+      "addedDate": "2023-11-11T18:09:56.284Z",
+      "genres": [
+        "Movie Soundtrack",
+        "Score / Original Score"
+      ],
+      "releaseYear": 2021,
+      "author": "Hans Zimmer",
+      "album": "Dune (Original Motion Picture Soundtrack)",
+      "platform": 0,
+      "languages": [
+        "ins"
+      ],
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13"
+    },
+    {
+      "album": "Yugopolis 2",
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "url": "https://www.youtube.com/watch?v=XZSeUP3Xee8",
+      "addedDate": "2023-11-11T18:50:34.307Z",
+      "author": "Yugopolis",
+      "releaseYear": 2012,
+      "platform": 0,
+      "id": 28,
+      "languages": [
+        "pl"
+      ],
+      "title": "Ostatnia Nocka",
+      "genres": [
+        "Rock",
+        "Folk-Rock"
+      ],
+      "altTitles": [
+        "Dernière Nuit"
+      ]
+    },
+    {
+      "genres": [
+        "Soundtrack"
+      ],
+      "album": "MAQUIA: When the Promised Flower Blooms Original Soundtrack",
+      "author": "rionos",
+      "platform": 0,
+      "title": "Viator",
+      "url": "https://youtu.be/b2ek_kL6SX4?si=tK2EeazAHl-QFiz1",
+      "releaseYear": 2018,
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "altTitles": [
+        "ウィアートル"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "addedDate": "2023-11-12T03:07:19.714Z",
+      "id": 29
+    },
+    {
+      "title": "Orange, You're Not a Joke to Me!",
+      "url": "https://www.youtube.com/watch?v=9mkU1LHLQqU",
+      "album": "Orange, You’re Not a Joke to Me! - Single",
+      "id": 30,
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "platform": 0,
+      "author": "Stella Jang",
+      "addedDate": "2023-11-16T17:39:52.783Z",
+      "languages": [
+        "en"
+      ],
+      "releaseYear": 2023,
+      "genres": [
+        "Rock"
+      ]
+    },
+    {
+      "id": 31,
+      "genres": [
+        "Anime"
+      ],
+      "releaseYear": 2011,
+      "title": "MEMORIA",
+      "platform": 0,
+      "album": "MEMORIA - EP",
+      "author": "藍井エイル (Eir Aoi)",
+      "languages": [
+        "ja"
+      ],
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "url": "https://youtu.be/LnMA-BrpDCg?si=n0e0a1BQQdZq2FgF",
+      "addedDate": "2023-11-17T03:15:07.024Z"
+    },
+    {
+      "addedDate": "2023-11-17T03:22:19.344Z",
+      "genres": [
+        "Rock"
+      ],
+      "languages": [
+        "en"
+      ],
+      "url": "https://youtu.be/kZ9LWIvoEAc?si=jl1dWdkImG0yfjJP",
+      "author": "Unknown Chapters",
+      "title": "Frozen Bones",
+      "id": 32,
+      "platform": 0,
+      "releaseYear": 2021,
+      "album": "The Age of Dying Radio - EP",
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2"
+    },
+    {
+      "platform": 0,
+      "addedDate": "2023-11-18T15:40:11.508Z",
+      "releaseYear": 2023,
+      "genres": [
+        "French Pop",
+        "Indie Pop"
+      ],
+      "url": "https://youtu.be/IC0gf_dXrDY",
+      "id": 33,
+      "album": "Plaisir Risque Dépendance",
+      "author": "Adèle Castillon & Videoclub",
+      "title": "C'est drôle",
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "url": "https://youtu.be/EbWMgg0boQc",
+      "album": "Walk you Home",
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "addedDate": "2023-11-18T15:42:10.475Z",
+      "genres": [
+        "Alternative Rock",
+        "Indie Rock"
+      ],
+      "platform": 0,
+      "title": "Walk you Home",
+      "author": "Sir Chloe",
+      "languages": [
+        "en"
+      ],
+      "id": 34,
+      "releaseYear": 2019
+    },
+    {
+      "releaseYear": 2021,
+      "addedDate": "2023-11-18T15:43:29.831Z",
+      "platform": 0,
+      "id": 35,
+      "url": "https://youtu.be/H0ad8-VVUQo",
+      "genres": [
+        "Alternative Rock",
+        "Indie Rock"
+      ],
+      "title": "Bullet",
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "author": "Saint Motel",
+      "languages": [
+        "en"
+      ],
+      "album": "The Original Motion Picture Soundtrack"
+    },
+    {
+      "addedDate": "2023-11-18T15:44:44.570Z",
+      "url": "https://youtu.be/cpJ5JIscnLs",
+      "platform": 0,
+      "author": "Glass Animals",
+      "languages": [
+        "en"
+      ],
+      "title": "The Other Side of Paradise",
+      "releaseYear": 2016,
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "album": "How to Be a Human Being",
+      "id": 36,
+      "genres": [
+        "Alternative Rock",
+        "Indie Rock"
+      ]
+    },
+    {
+      "url": "https://youtu.be/E8b4xYbEugo",
+      "id": 37,
+      "releaseYear": 2014,
+      "album": "Dangerous",
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "addedDate": "2023-11-18T15:46:57.033Z",
+      "languages": [
+        "en"
+      ],
+      "genres": [
+        "Alternative Rock",
+        "Indie Rock",
+        "Alternative Dance",
+        "Electronic",
+        "Electronic Dance Music"
+      ],
+      "author": "Big Data ft. Joywave",
+      "title": "Dangerous",
+      "platform": 0
+    },
+    {
+      "album": "Les autres c'est nous",
+      "url": "https://youtu.be/Td7qXDFfg7E",
+      "platform": 0,
+      "genres": [
+        "Lyrical Hip Hop",
+        "Pop Rap",
+        "Alternative Rap"
+      ],
+      "title": "Ça va beaucoup trop vite",
+      "releaseYear": 2022,
+      "addedDate": "2023-11-18T15:49:29.404Z",
+      "author": "Bigflo et Oli",
+      "languages": [
+        "fr"
+      ],
+      "id": 38,
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2"
+    },
+    {
+      "releaseYear": 2020,
+      "album": "two queens in a king sized bed",
+      "id": 39,
+      "addedDate": "2023-11-18T15:51:47.646Z",
+      "title": "two queens in a king sized bed",
+      "languages": [
+        "en"
+      ],
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "genres": [
+        "Alternative",
+        "Indie Rock",
+        "Alternative Rock"
+      ],
+      "url": "https://youtu.be/Su9ABA6RcV8",
+      "author": "girl in red",
+      "platform": 0
+    },
+    {
+      "id": 40,
+      "genres": [
+        "French Pop"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "album": "Voyage Astral - Single",
+      "author": "Duluc",
+      "addedDate": "2023-11-19T02:43:44.959Z",
+      "url": "https://www.youtube.com/watch?v=PtjnU-gNGrU",
+      "releaseYear": 1978,
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "platform": 0,
+      "title": "Voyage Astral"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7HgJIAUtICU",
+      "altTitles": [
+        "踊り子"
+      ],
+      "id": 41,
+      "releaseYear": 2021,
+      "title": "odoriko",
+      "author": "Vaundy",
+      "addedDate": "2023-11-19T02:47:05.017Z",
+      "album": "odoriko - Single",
+      "genres": [
+        "J-Rock"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "platform": 0
+    },
+    {
+      "releaseYear": 1997,
+      "url": "https://www.youtube.com/watch?v=ifs4zmWD3ms",
+      "genres": [
+        "J-Pop",
+        "Flamenco / Spanish Flamenco"
+      ],
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "album": "Promise",
+      "altTitles": [
+        "Get Down",
+        "Geddan"
+      ],
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "addedDate": "2023-11-19T02:49:58.229Z",
+      "title": "Promise",
+      "author": "Hirose Kohmi",
+      "platform": 0,
+      "id": 42
+    },
+    {
+      "author": "SawanoHiroyuki[nZk]:Laco",
+      "addedDate": "2023-11-19T03:35:21.080Z",
+      "title": "FAKEit",
+      "url": "https://youtu.be/a_iU8YeH944?si=o7kjymIlT98fjxIr",
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "platform": 0,
+      "genres": [
+        "Rock"
+      ],
+      "id": 43,
+      "album": "V",
+      "releaseYear": 2023
+    },
+    {
+      "album": "Andréanne A. Malette",
+      "languages": [
+        "fr"
+      ],
+      "title": "Fou",
+      "platform": 0,
+      "genres": [
+        "French Pop"
+      ],
+      "releaseYear": 2017,
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "id": 44,
+      "addedDate": "2023-11-19T03:38:32.715Z",
+      "url": "https://youtu.be/4Zg3l-yf9C8?si=NEXL_pzy_lkwIr63",
+      "author": "Andréanne A. Malette"
+    },
+    {
+      "addedDate": "2023-11-19T03:47:34.894Z",
+      "author": "BTS (방탄소년단)",
+      "releaseYear": 2018,
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "title": "FAKE LOVE",
+      "url": "https://youtu.be/NT8ePWlgx_Y?si=cYd08BMkZcTCoPVo",
+      "album": "Love Yourself 轉 'Tear'",
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "genres": [
+        "K-Pop"
+      ],
+      "platform": 0,
+      "id": 45
+    },
+    {
+      "author": "Old Gods of Asgard",
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "languages": [
+        "en"
+      ],
+      "genres": [
+        "Rock",
+        "Video Game Music"
+      ],
+      "platform": 0,
+      "title": "Herald of Darkness",
+      "releaseYear": 2023,
+      "addedDate": "2023-11-19T15:39:44.509Z",
+      "url": "https://youtu.be/uxs_HYw_mLk",
+      "id": 46
+    },
+    {
+      "addedDate": "2023-11-23T03:38:53.254Z",
+      "releaseYear": 2023,
+      "title": "Flashpoint",
+      "platform": 0,
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "album": "Out Of Control",
+      "url": "https://youtu.be/aDIysyQtcaw",
+      "genres": [
+        "Video Game Music",
+        "Soundtrack",
+        "Electro"
+      ],
+      "id": 47,
+      "languages": [
+        "ins"
+      ],
+      "author": "王可鑫"
+    },
+    {
+      "addedDate": "2023-11-29T01:53:38.022Z",
+      "genres": [
+        "French Pop"
+      ],
+      "releaseYear": 2019,
+      "album": "Les antipodes",
+      "platform": 0,
+      "title": "L'Amérique pleure",
+      "url": "https://youtu.be/sYRp8oP0yiw?si=2DsBQAAKjVZTNXYm",
+      "author": "Les Cowboys Fringants",
+      "languages": [
+        "fr"
+      ],
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "id": 48
+    }
+  ]
+}
