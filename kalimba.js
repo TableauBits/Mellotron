@@ -1,7 +1,7 @@
 import fs from 'fs'
 import fetch from 'node-fetch'
 
-const USER_INFO_URL = 'https://kalimba.fly.dev:3000/user-info'
+const USER_INFO_URL = 'https://kalimba.fly.dev/user-info'
 const FILE_PATH = 'src/assets/names.json'
  
 console.log('start')
