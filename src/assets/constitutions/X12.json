@@ -1,0 +1,1728 @@
+{
+  "cstName": "Douzième Xénocratie",
+  "date": "2024-09-02T03:07:57.957Z",
+  "winner": 47,
+  "songs": [
+    {
+      "genres": [
+        "Drum & Bass / DnB",
+        "Electronic",
+        "Acid Jazz",
+        "Soundtrack"
+      ],
+      "author": "Namco Sound Team",
+      "title": "Urban Fragments",
+      "languages": [
+        "en"
+      ],
+      "addedDate": "2024-06-01T19:07:27.865Z",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "platform": 0,
+      "url": "https://www.youtube.com/watch?v=dBWKwbjj020",
+      "releaseYear": 1999,
+      "id": 0,
+      "album": "R4 / Ridge Racer Type 4 / Direct Audio"
+    },
+    {
+      "genres": [
+        "Pop",
+        "Phonk"
+      ],
+      "featuring": [
+        "DJ FKU",
+        "Skorde"
+      ],
+      "url": " https://www.youtube.com/watch?v=O4wcofGVb4E",
+      "author": "CURSEDEVIL",
+      "addedDate": "2024-06-01T19:20:42.794Z",
+      "languages": [
+        "pt"
+      ],
+      "id": 1,
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "title": "TUCA DONKA",
+      "platform": 0,
+      "releaseYear": 2023
+    },
+    {
+      "languages": [
+        "en"
+      ],
+      "url": "https://youtu.be/ZGRXRrlIspY",
+      "genres": [
+        "Electro",
+        "Metal",
+        "Alternative",
+        "Pop"
+      ],
+      "id": 2,
+      "addedDate": "2024-06-01T19:21:03.059Z",
+      "platform": 0,
+      "author": "Bambie Thug",
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "releaseYear": 2023,
+      "title": "Doomsday Blue",
+      "album": "Cathexis"
+    },
+    {
+      "url": "https://youtu.be/6CNuXpdyYmE",
+      "platform": 0,
+      "author": "TALI",
+      "languages": [
+        "fr",
+        "en"
+      ],
+      "genres": [
+        "Pop",
+        "French Pop"
+      ],
+      "addedDate": "2024-06-01T19:22:34.111Z",
+      "title": "Fighter",
+      "album": "Fighter",
+      "id": 3,
+      "releaseYear": 2024,
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2"
+    },
+    {
+      "genres": [
+        "Drum & Bass / DnB",
+        "Eurodance",
+        "Pop",
+        "Opera"
+      ],
+      "addedDate": "2024-06-01T19:24:37.169Z",
+      "url": "https://youtu.be/kiGDvM14Kwg",
+      "languages": [
+        "en"
+      ],
+      "id": 4,
+      "album": "The Code",
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "releaseYear": 2024,
+      "author": "Nemo",
+      "title": "The Code",
+      "platform": 0
+    },
+    {
+      "genres": [
+        "World",
+        "Balkan Pop",
+        "Folk",
+        "Maloya"
+      ],
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "addedDate": "2024-06-01T19:27:21.241Z",
+      "title": "Jako",
+      "album": "Ladavina",
+      "platform": 0,
+      "url": "https://youtu.be/_6xfmW0Fc40",
+      "releaseYear": 2023,
+      "author": "LADANIVA",
+      "languages": [
+        "hy"
+      ],
+      "id": 5
+    },
+    {
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "addedDate": "2024-06-01T19:28:35.082Z",
+      "album": "Club Shy",
+      "languages": [
+        "en"
+      ],
+      "title": "thicc",
+      "author": "Cosha & Shygirl",
+      "url": "https://www.youtube.com/watch?v=teUaaZ4EVp4&si=fL5n8P39CshwwREq",
+      "genres": [
+        "Electronic",
+        "Grime",
+        "House",
+        "Eurodance"
+      ],
+      "id": 6,
+      "platform": 0,
+      "releaseYear": 2023
+    },
+    {
+      "genres": [
+        "Alternative",
+        "Indie Rock",
+        "Indie Pop"
+      ],
+      "id": 7,
+      "url": "https://youtu.be/k2WcOdz96ko",
+      "releaseYear": 2016,
+      "languages": [
+        "en"
+      ],
+      "title": "Blood In The Cut",
+      "addedDate": "2024-06-01T19:28:42.907Z",
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "album": "Crush Me",
+      "author": "K.Flay",
+      "platform": 0
+    },
+    {
+      "languages": [
+        "en"
+      ],
+      "title": "Too Sweet",
+      "releaseYear": 2024,
+      "author": "Hozier",
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "platform": 0,
+      "addedDate": "2024-06-01T19:33:23.300Z",
+      "genres": [
+        "Alternative",
+        "Indie Rock",
+        "Soul"
+      ],
+      "id": 8,
+      "album": "Unheard",
+      "url": "https://youtu.be/NTpbbQUBbuo"
+    },
+    {
+      "genres": [
+        "J-Pop"
+      ],
+      "author": "すいせい",
+      "platform": 0,
+      "title": "ビビデバ",
+      "id": 9,
+      "addedDate": "2024-06-01T19:35:15.951Z",
+      "url": "https://youtu.be/8ZP5eqm4JqM",
+      "altTitles": [
+        "BIBIDEBA"
+      ],
+      "releaseYear": 2024,
+      "languages": [
+        "ja"
+      ],
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13"
+    },
+    {
+      "author": "Nikos Band",
+      "title": "Georgian Disco",
+      "user": "EzKZMQbdAGYxyNbdLG7clcc8fcP2",
+      "addedDate": "2024-06-01T22:07:22.245Z",
+      "url": "https://www.youtube.com/watch?v=AMqUHPqCbI4",
+      "id": 11,
+      "platform": 0
+    },
+    {
+      "title": "Poupée de cire, poupée de son",
+      "author": "Therion",
+      "id": 12,
+      "user": "EzKZMQbdAGYxyNbdLG7clcc8fcP2",
+      "addedDate": "2024-06-01T22:10:25.024Z",
+      "url": "https://www.youtube.com/watch?v=QFD7YIk_9dw",
+      "platform": 0
+    },
+    {
+      "addedDate": "2024-06-01T22:15:15.276Z",
+      "platform": 0,
+      "id": 13,
+      "author": "t.A.T.u.",
+      "url": "https://www.youtube.com/watch?v=LFaOGfGz2qc",
+      "user": "EzKZMQbdAGYxyNbdLG7clcc8fcP2",
+      "title": "Покажи мне любовь"
+    },
+    {
+      "title": "Бухгалтер",
+      "user": "EzKZMQbdAGYxyNbdLG7clcc8fcP2",
+      "platform": 0,
+      "url": "https://www.youtube.com/watch?v=8eXc8A6MbYY",
+      "author": "Комбинация",
+      "id": 14,
+      "addedDate": "2024-06-01T22:19:50.682Z"
+    },
+    {
+      "platform": 0,
+      "user": "EzKZMQbdAGYxyNbdLG7clcc8fcP2",
+      "addedDate": "2024-06-01T22:23:41.013Z",
+      "title": "Turbo Killer",
+      "author": "Carpenter Brut",
+      "url": "https://www.youtube.com/watch?v=wy9r2qeouiQ",
+      "id": 16
+    },
+    {
+      "platform": 0,
+      "user": "EzKZMQbdAGYxyNbdLG7clcc8fcP2",
+      "addedDate": "2024-06-01T22:29:00.589Z",
+      "author": "Rainbow",
+      "title": "The Temple of the King",
+      "id": 17,
+      "url": "https://www.youtube.com/watch?v=B7nKzCRL_oo"
+    },
+    {
+      "addedDate": "2024-06-01T22:42:46.558Z",
+      "id": 18,
+      "platform": 0,
+      "title": "Playing God",
+      "user": "EzKZMQbdAGYxyNbdLG7clcc8fcP2",
+      "url": "https://www.youtube.com/watch?v=Z5NoQg8LdDk",
+      "author": "Polyphia"
+    },
+    {
+      "platform": 0,
+      "addedDate": "2024-06-01T22:48:31.825Z",
+      "id": 19,
+      "url": "https://www.youtube.com/watch?v=kSIMVnPA994",
+      "title": "Oxygene (partie 4)",
+      "author": "Jean-Michel Jarre",
+      "user": "EzKZMQbdAGYxyNbdLG7clcc8fcP2"
+    },
+    {
+      "user": "EzKZMQbdAGYxyNbdLG7clcc8fcP2",
+      "title": "Unnatural Selection",
+      "id": 20,
+      "author": "Muse",
+      "url": "https://www.youtube.com/watch?v=IKcYJ68UhHE",
+      "addedDate": "2024-06-01T22:56:48.212Z",
+      "platform": 0
+    },
+    {
+      "title": "Everything is awesome!",
+      "author": "Clamavi De Profundis",
+      "languages": [
+        "en"
+      ],
+      "url": "https://youtu.be/AW_qo6vqnR4",
+      "genres": [
+        "Vocal"
+      ],
+      "addedDate": "2024-06-01T23:51:44.191Z",
+      "platform": 0,
+      "id": 21,
+      "releaseYear": 2024,
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2"
+    },
+    {
+      "releaseYear": 1979,
+      "addedDate": "2024-06-02T00:05:56.026Z",
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "id": 22,
+      "genres": [
+        "Rock",
+        "J-Pop"
+      ],
+      "platform": 0,
+      "title": "Galaxy Express 999",
+      "author": "Godiego",
+      "url": "https://youtu.be/TgrQ5faJyLE",
+      "languages": [
+        "ja",
+        "en"
+      ]
+    },
+    {
+      "id": 23,
+      "album": "Sacco e Vanzetti soundtrack",
+      "languages": [
+        "en"
+      ],
+      "author": "Ennio Morricone",
+      "genres": [
+        "Pop",
+        "Soundtrack",
+        "Classical"
+      ],
+      "addedDate": "2024-06-02T00:12:36.680Z",
+      "platform": 0,
+      "featuring": [
+        "Joan Baez"
+      ],
+      "url": "https://youtu.be/R4xWbRBLj2I",
+      "title": "Here's to you",
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "releaseYear": 1971
+    },
+    {
+      "author": "Marcos Valle",
+      "addedDate": "2024-06-02T01:10:45.621Z",
+      "genres": [
+        "Música Popular Brasileira"
+      ],
+      "releaseYear": 1980,
+      "platform": 0,
+      "album": "Vontade de Rever Você",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "title": "Velhos Surfistas Querendo Voar",
+      "languages": [
+        "pt"
+      ],
+      "id": 25,
+      "url": "https://www.youtube.com/watch?v=RNKGqThZq0M"
+    },
+    {
+      "addedDate": "2024-06-02T01:27:44.116Z",
+      "author": "音楽音泉",
+      "languages": [
+        "ins"
+      ],
+      "platform": 0,
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "genres": [
+        "Classical",
+        "Easy Listening"
+      ],
+      "url": "https://www.youtube.com/watch?v=n2iO_NUiW4A",
+      "title": "Mary's Theme (Piano Solo)",
+      "id": 26,
+      "releaseYear": 2023
+    },
+    {
+      "album": "The Ghibli Album",
+      "featuring": [
+        "Joe Hisaishi"
+      ],
+      "title": "Carrying you",
+      "languages": [
+        "ja"
+      ],
+      "platform": 0,
+      "altTitles": [
+        "Kimi wo nosete"
+      ],
+      "id": 27,
+      "url": "https://youtu.be/C-jzcf5JrJU",
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "releaseYear": 2022,
+      "genres": [
+        "Pop",
+        "Anime",
+        "Soundtrack"
+      ],
+      "author": "Grissini Project",
+      "addedDate": "2024-06-02T12:48:29.704Z"
+    },
+    {
+      "releaseYear": 2024,
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.youtube.com/watch?v=T6eK-2OQtew",
+      "author": "Kendrick Lamar",
+      "addedDate": "2024-06-02T13:30:26.583Z",
+      "title": "Not Like Us",
+      "id": 28,
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "platform": 0,
+      "genres": [
+        "Hip-Hop",
+        "Rap"
+      ]
+    },
+    {
+      "addedDate": "2024-06-02T13:31:08.318Z",
+      "title": "Bread",
+      "languages": [
+        "en"
+      ],
+      "releaseYear": 2024,
+      "author": "Anya Nami",
+      "genres": [
+        "Pop"
+      ],
+      "url": "https://www.youtube.com/watch?v=J1DAmmROUX8",
+      "id": 29,
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "platform": 0
+    },
+    {
+      "addedDate": "2024-06-02T13:33:19.865Z",
+      "platform": 0,
+      "title": "Pedro (Remix)",
+      "languages": [
+        "it"
+      ],
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "featuring": [
+        "Jaxomy",
+        "Agatino Romero"
+      ],
+      "url": "https://www.youtube.com/watch?v=kKL20WFmVrw",
+      "releaseYear": 2024,
+      "genres": [
+        "Dance"
+      ],
+      "id": 30,
+      "author": "Raffaella Carrà"
+    },
+    {
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "title": "i like the way you kiss me",
+      "author": "Artemas",
+      "url": "https://www.youtube.com/watch?v=evJ6gX1lp2o",
+      "languages": [
+        "en"
+      ],
+      "addedDate": "2024-06-02T13:49:57.339Z",
+      "genres": [
+        "Pop",
+        "Dance"
+      ],
+      "id": 31,
+      "platform": 0,
+      "releaseYear": 2024
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GFY7i7pJAXg",
+      "genres": [
+        "Soundtrack"
+      ],
+      "title": "The Kraken",
+      "languages": [
+        "ins"
+      ],
+      "releaseYear": 2006,
+      "platform": 0,
+      "addedDate": "2024-06-02T13:51:29.220Z",
+      "album": "The Pirates of the Carribean - Dead Man's Chest",
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "id": 32,
+      "author": "Hans Zimmer"
+    },
+    {
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "author": "Daft Punk",
+      "url": "https://www.youtube.com/watch?v=oor2uIqys8M",
+      "genres": [
+        "Electro"
+      ],
+      "id": 33,
+      "releaseYear": 2001,
+      "title": "Crescendolls",
+      "languages": [
+        "en"
+      ],
+      "platform": 0,
+      "album": "Discovery",
+      "addedDate": "2024-06-02T13:54:32.582Z"
+    },
+    {
+      "languages": [
+        "ja"
+      ],
+      "id": 34,
+      "addedDate": "2024-06-02T14:04:29.032Z",
+      "releaseYear": 2010,
+      "platform": 0,
+      "genres": [
+        "J-Rock"
+      ],
+      "url": "https://www.youtube.com/watch?v=M8tRBup0j9E",
+      "author": "KISIDA KYODAN & THE AKEBOSI ROCKETS",
+      "title": "HIGHSCHOOL OF THE DEAD",
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2"
+    },
+    {
+      "platform": 0,
+      "author": "Syudou",
+      "addedDate": "2024-06-02T14:05:16.249Z",
+      "title": "Gambling",
+      "releaseYear": 2022,
+      "languages": [
+        "ja"
+      ],
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "url": "https://www.youtube.com/watch?v=7GBn6IuTQ6w",
+      "genres": [
+        "J-Rock"
+      ],
+      "id": 35
+    },
+    {
+      "album": "Hits & Pieces",
+      "platform": 0,
+      "addedDate": "2024-06-02T14:06:49.966Z",
+      "title": "RATA-TATA",
+      "url": "https://www.youtube.com/watch?v=AOLpL8O0cLw",
+      "genres": [
+        "Rock"
+      ],
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "author": "Royal Republic",
+      "id": 36,
+      "languages": [
+        "en"
+      ],
+      "releaseYear": 2022
+    },
+    {
+      "album": "境界の彼方 - Single",
+      "url": "https://youtu.be/wcUJn15lxJY?si=PWDhodj-ecr7yDgW",
+      "id": 37,
+      "releaseYear": 2013,
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "title": "NO LINE",
+      "author": "Minori Chihara",
+      "languages": [
+        "ja"
+      ],
+      "genres": [
+        "Anime"
+      ],
+      "addedDate": "2024-06-02T23:35:19.332Z",
+      "platform": 0
+    },
+    {
+      "id": 38,
+      "album": "Abbittibi",
+      "addedDate": "2024-06-03T17:31:11.608Z",
+      "languages": [
+        "fr"
+      ],
+      "releaseYear": 1994,
+      "platform": 0,
+      "url": "https://youtu.be/fPRkRCWmc6E",
+      "author": "Richard Desjardins",
+      "genres": [
+        "Chant"
+      ],
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "title": "Chaude était la nuit"
+    },
+    {
+      "title": "Le screw",
+      "author": "Richard Desjardins",
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "url": "https://youtu.be/DkirrOvmNnc",
+      "releaseYear": 1990,
+      "languages": [
+        "fr"
+      ],
+      "id": 39,
+      "album": "Le Party",
+      "genres": [
+        "Chant"
+      ],
+      "platform": 0,
+      "addedDate": "2024-06-03T17:32:34.133Z"
+    },
+    {
+      "title": "L'aquoiboniste",
+      "album": "L'ex-fan des sixties",
+      "genres": [
+        "Chant"
+      ],
+      "addedDate": "2024-06-03T17:34:07.851Z",
+      "languages": [
+        "fr"
+      ],
+      "platform": 0,
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "id": 40,
+      "url": "https://youtu.be/tvgRq_tS_iw",
+      "releaseYear": 1977,
+      "author": "Jane Birkin"
+    },
+    {
+      "album": "le tourbillon",
+      "author": "Jeanne Moreau",
+      "addedDate": "2024-06-03T17:37:42.282Z",
+      "platform": 0,
+      "releaseYear": 1963,
+      "id": 41,
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "title": "La peau Léon",
+      "url": "https://youtu.be/ubda1oan0O0",
+      "genres": [
+        "Chant"
+      ],
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "addedDate": "2024-06-03T17:41:13.575Z",
+      "id": 42,
+      "featuring": [
+        "Henri Salvator"
+      ],
+      "genres": [
+        "Chant"
+      ],
+      "author": "Serge Reggiani",
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "url": "https://youtu.be/bUDxEGDlp5U",
+      "releaseYear": 1964,
+      "languages": [
+        "fr"
+      ],
+      "title": "Arthur, où t'as mis le corp",
+      "platform": 0
+    },
+    {
+      "genres": [
+        "Pop"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "id": 43,
+      "author": "Jean Leloup",
+      "releaseYear": 1990,
+      "addedDate": "2024-06-03T17:42:53.502Z",
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "url": "https://youtu.be/6hgNFHSGtmY",
+      "title": "Isabelle",
+      "platform": 0,
+      "album": "l'amour est sans pitié"
+    },
+    {
+      "addedDate": "2024-06-03T17:45:50.549Z",
+      "album": "Don Juan",
+      "platform": 0,
+      "genres": [
+        "Chant"
+      ],
+      "author": "Georges Brassens",
+      "releaseYear": 1976,
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "title": "Cupidon s'en fout",
+      "url": "https://youtu.be/nEMbVKrkXx0",
+      "id": 44,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "platform": 0,
+      "author": "Jacques Dutronc",
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "releaseYear": 1968,
+      "url": "https://youtu.be/y_RkLxMarTw",
+      "album": "Il est cinq heures",
+      "addedDate": "2024-06-03T17:51:51.658Z",
+      "languages": [
+        "fr"
+      ],
+      "title": "Fais pas ci, fais pas ça",
+      "id": 45,
+      "genres": [
+        "Pop"
+      ]
+    },
+    {
+      "title": "Et mon père",
+      "platform": 0,
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "id": 47,
+      "url": "https://youtu.be/LaBqQCShl8o",
+      "releaseYear": 1974,
+      "author": "Nicolas Peyrac",
+      "addedDate": "2024-06-03T17:54:31.300Z",
+      "languages": [
+        "fr"
+      ],
+      "album": "So far away from L.A.",
+      "genres": [
+        "Pop"
+      ]
+    },
+    {
+      "id": 49,
+      "languages": [
+        "fr"
+      ],
+      "genres": [
+        "Chant"
+      ],
+      "releaseYear": 1935,
+      "title": "Tout va très bien, Madame la Marquise",
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "addedDate": "2024-06-03T17:57:58.713Z",
+      "url": "https://youtu.be/Wn28uEI4_4c",
+      "author": "Paul Miraski",
+      "platform": 0
+    },
+    {
+      "title": "Around the world",
+      "genres": [
+        "J-Pop"
+      ],
+      "releaseYear": 2006,
+      "album": "thank you.",
+      "url": "https://www.youtube.com/watch?v=1RnBDQJyQdI",
+      "languages": [
+        "en",
+        "ja"
+      ],
+      "id": 50,
+      "author": "MONKEY MAJIK",
+      "platform": 0,
+      "addedDate": "2024-06-03T19:21:51.726Z",
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13"
+    },
+    {
+      "id": 51,
+      "author": "Karen Aoki · Daisuke Hasegawa · ENDCAPE · Yugo Kanno · Yugo Kanno",
+      "addedDate": "2024-06-03T19:26:26.711Z",
+      "title": "Great Days",
+      "platform": 0,
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "releaseYear": 2016,
+      "genres": [
+        "J-Pop",
+        "Anime",
+        "Soundtrack"
+      ],
+      "url": "https://www.youtube.com/watch?v=UztXN2rKQNc",
+      "languages": [
+        "ja"
+      ]
+    },
+    {
+      "releaseYear": 2017,
+      "author": "Vivid Undress",
+      "genres": [
+        "J-Pop",
+        "J-Rock"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "platform": 0,
+      "addedDate": "2024-06-03T19:40:03.716Z",
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "url": "https://www.youtube.com/watch?v=PZK_0lCzrao",
+      "id": 52,
+      "altTitles": [
+        "SAYONARA Dilemma"
+      ],
+      "title": "さよならジレンマ"
+    },
+    {
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "author": "girl in red",
+      "languages": [
+        "en"
+      ],
+      "addedDate": "2024-06-03T21:15:06.039Z",
+      "id": 53,
+      "url": "https://youtu.be/VNxd_SxPiJM",
+      "genres": [
+        "Alternative"
+      ],
+      "platform": 0,
+      "album": "If I Could Make It Go Quiet",
+      "releaseYear": 2021,
+      "title": "body and mind"
+    },
+    {
+      "languages": [
+        "en"
+      ],
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "addedDate": "2024-06-03T23:02:58.899Z",
+      "genres": [
+        "R&B/Soul",
+        "Disco"
+      ],
+      "id": 54,
+      "url": "https://www.youtube.com/watch?v=hq5REevpSP8",
+      "title": "Kung Fu Fighting",
+      "platform": 0,
+      "author": "Carl Douglas",
+      "releaseYear": 1974,
+      "album": "Kung Fu Fighting and Other Great Love Songs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=z19IdSD4E-E",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "author": "France Gall",
+      "addedDate": "2024-06-03T23:05:46.949Z",
+      "releaseYear": 1981,
+      "platform": 0,
+      "album": "Tout pour la musique",
+      "id": 55,
+      "genres": [
+        "French Pop"
+      ],
+      "title": "Résiste",
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "author": "Enej",
+      "languages": [
+        "pl"
+      ],
+      "title": "Symetryczno-liryczna",
+      "album": "Folkhorod",
+      "genres": [
+        "Pop"
+      ],
+      "addedDate": "2024-06-04T00:20:09.928Z",
+      "altTitles": [
+        "Symétrico-lyrique"
+      ],
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "id": 56,
+      "platform": 0,
+      "url": "https://youtu.be/eTJPQ4TW4Jw"
+    },
+    {
+      "languages": [
+        "ins"
+      ],
+      "altTitles": [
+        "東京上空"
+      ],
+      "genres": [
+        "Anime",
+        "Soundtrack",
+        "Pop"
+      ],
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "releaseYear": 2023,
+      "id": 57,
+      "platform": 0,
+      "author": "RADWIMPS",
+      "addedDate": "2024-06-04T00:23:17.877Z",
+      "title": "Sky over Tokyo",
+      "album": "Suzume no Tojimari",
+      "url": "https://youtu.be/pa68fhuSifA"
+    },
+    {
+      "id": 58,
+      "album": "Radical Optimism",
+      "author": "Dua Lipa",
+      "platform": 0,
+      "url": "https://youtu.be/suAR1PYFNYA",
+      "genres": [
+        "Pop",
+        "Britpop",
+        "R&B/Soul",
+        "Nu Disco"
+      ],
+      "addedDate": "2024-06-04T02:01:39.280Z",
+      "title": "Houdini",
+      "releaseYear": 2024,
+      "languages": [
+        "en"
+      ],
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2"
+    },
+    {
+      "id": 59,
+      "platform": 0,
+      "addedDate": "2024-06-04T10:44:44.183Z",
+      "genres": [
+        "Soundtrack",
+        "Video Game Music"
+      ],
+      "author": "Toby Fox",
+      "url": "https://www.youtube.com/watch?v=YRuof4wp_uo",
+      "languages": [
+        "ins"
+      ],
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "featuring": [
+        "Luke Pickman (InstrumentManiac)"
+      ],
+      "title": "Hip Shop",
+      "releaseYear": 2023
+    },
+    {
+      "title": "Espresso",
+      "releaseYear": 2024,
+      "album": "Espresso",
+      "url": "https://www.youtube.com/watch?v=51zjlMhdSTE",
+      "platform": 0,
+      "author": "Sabrina Carpenter",
+      "languages": [
+        "en"
+      ],
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "genres": [
+        "Pop"
+      ],
+      "addedDate": "2024-06-04T11:25:09.112Z",
+      "id": 60
+    },
+    {
+      "album": "Orquídeas",
+      "author": "Kali Uchis",
+      "releaseYear": 2024,
+      "platform": 0,
+      "title": "Me Pongo Loca",
+      "addedDate": "2024-06-04T17:07:39.595Z",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "url": "https://www.youtube.com/watch?v=s1HFH_oPJbQ",
+      "id": 61,
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2"
+    },
+    {
+      "languages": [
+        "ja"
+      ],
+      "id": 62,
+      "altTitles": [
+        "Sakura trip"
+      ],
+      "platform": 0,
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "addedDate": "2024-06-04T19:33:08.770Z",
+      "releaseYear": 2024,
+      "album": "サクラトリップ - Single",
+      "title": "サクラトリップ",
+      "genres": [
+        "Alternative"
+      ],
+      "author": "Yobahi",
+      "url": "https://youtu.be/DSGCkGNdp1Y?si=zgbS0cKSUkMyUzuR"
+    },
+    {
+      "languages": [
+        "en"
+      ],
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "author": "Alec Benjamin",
+      "id": 63,
+      "genres": [
+        "Pop"
+      ],
+      "platform": 0,
+      "releaseYear": 2018,
+      "title": "If We Have Each Other",
+      "url": "https://youtu.be/iSaw6_lWRS4?si=0Scl4iOgPaOuyFmx",
+      "addedDate": "2024-06-04T20:50:40.896Z",
+      "album": "Narrated for You "
+    },
+    {
+      "id": 64,
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "releaseYear": 2023,
+      "altTitles": [
+        "Spinning Globe"
+      ],
+      "platform": 0,
+      "author": "Kenshi Yonezu 米津玄師",
+      "addedDate": "2024-06-05T03:32:09.037Z",
+      "album": "地球儀 - Spinning Globe - Single",
+      "url": "https://youtu.be/VUsURj_OYdA?si=jDjqCKrysN3ra3K5",
+      "genres": [
+        "J-Pop"
+      ],
+      "title": "地球儀",
+      "languages": [
+        "ja"
+      ]
+    },
+    {
+      "id": 65,
+      "languages": [
+        "en"
+      ],
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "album": "The Greatest Showman (Original Motion Picture Soundtrack)",
+      "author": "Hugh Jackman & Zac Efron",
+      "url": "https://youtu.be/jRdQDTpQbLU?si=QSBO8geQemGqNlDU",
+      "addedDate": "2024-06-05T03:45:16.928Z",
+      "releaseYear": 2017,
+      "genres": [
+        "Soundtrack",
+        "Musicals"
+      ],
+      "title": "The Other Side",
+      "platform": 0
+    },
+    {
+      "title": "Rise Son",
+      "author": "Kenichiro Nishihara",
+      "platform": 0,
+      "languages": [
+        "en"
+      ],
+      "addedDate": "2024-06-05T16:25:54.073Z",
+      "genres": [
+        "Jazz",
+        "Rap"
+      ],
+      "releaseYear": 2012,
+      "url": "https://www.youtube.com/watch?v=Ly8rqK71VOk",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "id": 66,
+      "album": "Illuminus",
+      "featuring": [
+        "Subsantial"
+      ]
+    },
+    {
+      "id": 67,
+      "url": "https://www.youtube.com/watch?v=e6LM0sIA_Eg",
+      "user": "EzKZMQbdAGYxyNbdLG7clcc8fcP2",
+      "title": "Eat Your Young",
+      "platform": 0,
+      "addedDate": "2024-06-07T00:10:37.282Z",
+      "author": "Hozier"
+    },
+    {
+      "author": "Hozier",
+      "url": "https://www.youtube.com/watch?v=MYSVMgRr6pw",
+      "platform": 0,
+      "addedDate": "2024-06-07T00:11:57.181Z",
+      "title": "Take Me to Church",
+      "id": 68,
+      "user": "EzKZMQbdAGYxyNbdLG7clcc8fcP2"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Iupq4GUgiQ8",
+      "releaseYear": 2006,
+      "platform": 0,
+      "album": "Persona 3 Original Soundtrack",
+      "addedDate": "2024-06-07T21:10:45.919Z",
+      "languages": [
+        "en"
+      ],
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "genres": [
+        "J-Pop",
+        "Soundtrack"
+      ],
+      "id": 69,
+      "author": "Yumi Kawamura",
+      "title": "When the Moon Reaches for the Stars"
+    },
+    {
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "languages": [
+        "en"
+      ],
+      "album": "Alan Wake II – Chapter Songs",
+      "title": "Night Springs",
+      "platform": 0,
+      "genres": [
+        "Video Game Music",
+        "Pop"
+      ],
+      "featuring": [
+        "Alan Wake"
+      ],
+      "url": "https://youtu.be/x2fhn8EmIqQ",
+      "addedDate": "2024-06-07T22:29:29.252Z",
+      "id": 70,
+      "releaseYear": 2023,
+      "author": "Keira"
+    },
+    {
+      "title": "Ma môme",
+      "album": "Deux enfants au soleil",
+      "url": "https://youtu.be/_8ijSui8m1A",
+      "author": "Jean Ferrat",
+      "languages": [
+        "fr"
+      ],
+      "releaseYear": 1961,
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "id": 71,
+      "platform": 0,
+      "genres": [
+        "Pop",
+        "French Pop",
+        "Chant"
+      ],
+      "addedDate": "2024-06-07T23:14:19.814Z"
+    },
+    {
+      "platform": 0,
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "title": "Ayonha",
+      "languages": [
+        "ar"
+      ],
+      "author": "Hamid El Shaeri",
+      "genres": [
+        "Arab Pop",
+        "Arabic",
+        "Pop"
+      ],
+      "url": "https://www.youtube.com/watch?v=iudo-DAK8hc",
+      "album": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
+      "releaseYear": 1983,
+      "id": 72,
+      "addedDate": "2024-06-07T23:17:12.466Z"
+    },
+    {
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "album": "Somewhere far beyond",
+      "releaseYear": 1992,
+      "platform": 0,
+      "url": "https://youtu.be/n63UbX5kzAc",
+      "addedDate": "2024-06-07T23:20:14.100Z",
+      "author": "Blind Guardian",
+      "languages": [
+        "en"
+      ],
+      "id": 73,
+      "title": "The bard's song - In the forest",
+      "genres": [
+        "Vocal",
+        "Rock",
+        "Folk",
+        "Ballad"
+      ]
+    },
+    {
+      "genres": [
+        "Electronic",
+        "Industrial",
+        "Synth Punk",
+        "New Beat"
+      ],
+      "album": "Gamma",
+      "platform": 0,
+      "title": "Hard dreams",
+      "addedDate": "2024-06-08T20:53:57.083Z",
+      "id": 74,
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "releaseYear": 2024,
+      "author": "Gesaffelstein",
+      "url": "https://www.youtube.com/watch?v=4HnUmZOjsyU",
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "platform": 0,
+      "title": "Everything is romantic",
+      "genres": [
+        "Synthpop",
+        "Pop",
+        "Electronic"
+      ],
+      "releaseYear": 2024,
+      "url": "https://www.youtube.com/watch?v=rq8xaUEnvsQ",
+      "album": "BRAT",
+      "author": "Charli XCX",
+      "id": 75,
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "languages": [
+        "en"
+      ],
+      "addedDate": "2024-06-08T21:00:18.502Z"
+    },
+    {
+      "languages": [
+        "ja"
+      ],
+      "platform": 0,
+      "album": "Seirios",
+      "genres": [
+        "Singer/Songwriter"
+      ],
+      "title": "氷鎖",
+      "author": "RURUTIA",
+      "releaseYear": 2008,
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "url": "https://youtu.be/gbPe4vmFVG4?si=ihPUgR90Sxvvz1Qn",
+      "addedDate": "2024-06-09T19:17:14.569Z",
+      "id": 76,
+      "altTitles": [
+        "Hyosa",
+        "Ice Chain"
+      ]
+    },
+    {
+      "genres": [
+        "Soundtrack"
+      ],
+      "languages": [
+        "en"
+      ],
+      "id": 77,
+      "album": "EPIC: The Underworld Saga (Official Concept Album)",
+      "title": "Monster",
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "url": "https://youtu.be/4Q0Un9PQ0wk?si=jTI4NhSN1TuyPPRR",
+      "author": "Jorge Rivera-Herrans & Cast of EPIC: The Musical",
+      "addedDate": "2024-06-09T19:24:12.816Z",
+      "releaseYear": 2024,
+      "platform": 0
+    },
+    {
+      "genres": [
+        "Pop"
+      ],
+      "url": "https://youtu.be/vTMAa6zZ7jY?si=n7KOXcq6p1Z8P2PD",
+      "addedDate": "2024-06-09T19:36:43.610Z",
+      "languages": [
+        "en"
+      ],
+      "platform": 0,
+      "title": "7 Years",
+      "author": "Lukas Graham",
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "releaseYear": 2015,
+      "id": 78,
+      "album": "Lukas Graham"
+    },
+    {
+      "author": "ヨルシカ",
+      "title": "テレパス",
+      "releaseYear": 2023,
+      "addedDate": "2024-06-10T20:04:17.493Z",
+      "platform": 0,
+      "genres": [
+        "Alternative",
+        "J-Rock"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "id": 79,
+      "altTitles": [
+        "Telepath"
+      ],
+      "url": "https://youtu.be/LTeROfwwtnA"
+    },
+    {
+      "addedDate": "2024-06-10T22:33:28.132Z",
+      "title": "The Cursed Shanty",
+      "author": "A Wildheart's Tale",
+      "languages": [
+        "en"
+      ],
+      "releaseYear": 2024,
+      "platform": 0,
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "url": "https://youtu.be/MleOC7EvPP4",
+      "id": 80,
+      "genres": [
+        "Pop",
+        "Rock",
+        "Pirate Metal"
+      ]
+    },
+    {
+      "album": "Persona 3 Reload Soundtrack",
+      "title": "It's Going Down Now",
+      "featuring": [
+        "Lotus Juice"
+      ],
+      "platform": 0,
+      "genres": [
+        "Rap",
+        "Pop",
+        "R&B/Soul",
+        "Soundtrack",
+        "Video Game Music",
+        "Anime"
+      ],
+      "languages": [
+        "en"
+      ],
+      "addedDate": "2024-06-10T23:46:33.656Z",
+      "author": "Azumi Takahashi",
+      "id": 81,
+      "url": "https://youtu.be/2KuWjZD6PBA",
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "releaseYear": 2024
+    },
+    {
+      "album": "Dynamite",
+      "genres": [
+        "Pop"
+      ],
+      "languages": [
+        "en"
+      ],
+      "title": "(Don't) Give Hate a Chance",
+      "author": "Jamiroquai",
+      "addedDate": "2024-06-11T01:00:05.005Z",
+      "url": "https://www.youtube.com/watch?v=LHj_WC_IzFc",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "platform": 0,
+      "id": 82,
+      "releaseYear": 2005
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=h3xLPvFpIzw",
+      "addedDate": "2024-06-11T01:33:14.804Z",
+      "author": "Miki Matsubara",
+      "releaseYear": 1982,
+      "genres": [
+        "City Pop",
+        "J-Pop"
+      ],
+      "title": "WASH",
+      "platform": 0,
+      "id": 83,
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "album": "See-Saw Love",
+      "altTitles": [
+        "ウオッシュ"
+      ]
+    },
+    {
+      "genres": [
+        "Alternative"
+      ],
+      "platform": 0,
+      "title": "Honeypie",
+      "album": "For Abby",
+      "releaseYear": 2019,
+      "url": "https://www.youtube.com/watch?v=Wgw6tJ8yz9M",
+      "addedDate": "2024-06-11T01:39:12.975Z",
+      "id": 84,
+      "languages": [
+        "en"
+      ],
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "author": "JAWNY"
+    },
+    {
+      "addedDate": "2024-06-13T13:13:02.291Z",
+      "releaseYear": 2023,
+      "platform": 0,
+      "album": "works.13",
+      "author": "CHUYO ",
+      "title": "Complie",
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "url": "https://youtu.be/c4SbCRmP9n4",
+      "languages": [
+        "ins"
+      ],
+      "genres": [
+        "Progressive",
+        "House",
+        "Electronic"
+      ],
+      "id": 85
+    },
+    {
+      "platform": 0,
+      "genres": [
+        "Alternative",
+        "Indie Rock"
+      ],
+      "id": 86,
+      "releaseYear": 2017,
+      "addedDate": "2024-06-14T01:47:52.259Z",
+      "url": "https://youtu.be/ZNbprN0biiY",
+      "title": "Little Lies You're Told",
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "languages": [
+        "en"
+      ],
+      "album": "Content",
+      "author": "Joywave"
+    },
+    {
+      "author": "Arctic Monkeys",
+      "languages": [
+        "en"
+      ],
+      "url": "https://youtu.be/nyuo9-OjNNg",
+      "genres": [
+        "Alternative",
+        "Indie Rock"
+      ],
+      "releaseYear": 2013,
+      "title": "I Wanna Be Yours",
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "platform": 0,
+      "addedDate": "2024-06-14T01:52:56.086Z",
+      "id": 87,
+      "album": "AM"
+    },
+    {
+      "album": "Brol",
+      "genres": [
+        "French Pop"
+      ],
+      "title": "Jalousie",
+      "url": "https://youtu.be/hhhXegAbgrU",
+      "author": "Angèle",
+      "languages": [
+        "fr"
+      ],
+      "id": 88,
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "releaseYear": 2018,
+      "addedDate": "2024-06-14T02:19:46.063Z",
+      "platform": 0
+    },
+    {
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "url": "https://youtu.be/EKYxjtNRekM",
+      "releaseYear": 2022,
+      "id": 89,
+      "platform": 0,
+      "languages": [
+        "ja"
+      ],
+      "title": "Heaven's Falling Down",
+      "genres": [
+        "Anime"
+      ],
+      "addedDate": "2024-06-14T22:50:30.604Z",
+      "author": "sana (sajou no hana)"
+    },
+    {
+      "author": "Camille, Michael Giacchino",
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "url": "https://youtu.be/G3lSONLLx70",
+      "addedDate": "2024-06-14T22:53:33.808Z",
+      "releaseYear": 2007,
+      "album": "Ratatouille (Original Motion Picture Soundtrack)",
+      "genres": [
+        "Soundtrack",
+        "Classical"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "id": 90,
+      "title": "Le Festin",
+      "platform": 0
+    },
+    {
+      "genres": [
+        "Anime",
+        "Soundtrack"
+      ],
+      "platform": 0,
+      "releaseYear": 2023,
+      "title": "One Last Adventure",
+      "addedDate": "2024-06-14T22:55:00.012Z",
+      "author": "Evan Call",
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "album": "Frieren: Beyond Journey's End - Original Series Soundtrack EP",
+      "url": "https://youtu.be/JJ5MJbrD7rc",
+      "id": 91,
+      "languages": [
+        "ins"
+      ]
+    },
+    {
+      "languages": [
+        "ins"
+      ],
+      "url": "https://youtu.be/u2W1Wi2U9sQ",
+      "genres": [
+        "Classical"
+      ],
+      "author": "Piotr Ilich Tchaikovsky",
+      "id": 92,
+      "platform": 0,
+      "title": "1812 Ouverture (Finale)",
+      "addedDate": "2024-06-14T22:57:55.425Z",
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "releaseYear": 1882,
+      "featuring": [
+        "Canons"
+      ]
+    },
+    {
+      "id": 93,
+      "album": "Disco Elysium",
+      "addedDate": "2024-06-14T23:14:48.804Z",
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "platform": 0,
+      "title": "Detective Arriving on the Scene",
+      "url": "https://youtu.be/rxevPfOxCaU",
+      "releaseYear": 2020,
+      "author": "Sea Power",
+      "languages": [
+        "ins"
+      ],
+      "genres": [
+        "Soundtrack",
+        "Indie Rock",
+        "Alternative"
+      ]
+    },
+    {
+      "id": 94,
+      "releaseYear": 2008,
+      "title": "The Call",
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "url": "https://youtu.be/pCEUpVukAe8?si=n3yX4nvmtZ7ANdZX",
+      "addedDate": "2024-06-15T01:26:03.293Z",
+      "album": "The Call - Single",
+      "author": "Regina Spektor",
+      "languages": [
+        "en"
+      ],
+      "genres": [
+        "Alternative"
+      ],
+      "platform": 0
+    },
+    {
+      "altTitles": [
+        "A Long Drowse, An Endless Dream"
+      ],
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "id": 95,
+      "languages": [
+        "ja"
+      ],
+      "releaseYear": 2023,
+      "featuring": [
+        "Lucia"
+      ],
+      "addedDate": "2024-06-15T01:40:48.631Z",
+      "genres": [
+        "World"
+      ],
+      "title": "醒めない夢の微睡みの",
+      "album": "バベルの幼生 (The Larva of Babel - EP)",
+      "platform": 0,
+      "author": "Mirai Kodai Orchestra 未来古代楽団",
+      "url": "https://youtu.be/i3QcgWU8_oI?si=QYrSHA3paScF7HtV"
+    },
+    {
+      "title": "Changing Seasons",
+      "author": "ATLUS Sound Team, 目黒将司 (Shoji Meguro)",
+      "album": "Persona 3 Original Soundtrack ",
+      "releaseYear": 2006,
+      "genres": [
+        "Anime",
+        "Soundtrack"
+      ],
+      "id": 96,
+      "platform": 0,
+      "languages": [
+        "fr"
+      ],
+      "url": "https://youtu.be/bdn6XFdVOWM?si=UmZOcfqizoI0gYeJ",
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "addedDate": "2024-06-15T02:05:14.281Z"
+    },
+    {
+      "author": "goreshit",
+      "languages": [
+        "en"
+      ],
+      "album": "gnb  ",
+      "title": "Fine Night",
+      "url": "https://www.youtube.com/watch?v=y9ygGm_rwpg&si=xw45hqsj6MqN9xMc",
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "id": 97,
+      "addedDate": "2024-06-15T20:59:29.851Z",
+      "platform": 0,
+      "releaseYear": 2011,
+      "genres": [
+        "Drum & Bass / DnB"
+      ]
+    },
+    {
+      "album": "Reaching for Indigo",
+      "author": "Circuit Des Yeux",
+      "addedDate": "2024-06-15T21:30:29.723Z",
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "title": "Reaching For Indigo",
+      "genres": [
+        "Folk",
+        "Psychedelic",
+        "Psychedelic Folk",
+        "Lo-fi"
+      ],
+      "url": "https://www.youtube.com/watch?v=c9OJFX0CBVo&si=zqtnatVmIRHd9o7h",
+      "platform": 0,
+      "id": 98,
+      "releaseYear": 2017
+    },
+    {
+      "releaseYear": 2013,
+      "languages": [
+        "fr"
+      ],
+      "title": "Le mystère des pommes volantes",
+      "platform": 0,
+      "album": "Vous n'allez pas repartir les mains vides?",
+      "author": "Sexy Sushi",
+      "id": 99,
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "genres": [
+        "Electronic"
+      ],
+      "url": "https://youtu.be/I_amPoj1_f8",
+      "addedDate": "2024-06-16T04:24:39.283Z"
+    },
+    {
+      "addedDate": "2024-06-17T00:31:03.468Z",
+      "author": "Ai Aso",
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "url": "https://youtu.be/nghzG9D77uM",
+      "album": "lavender edition",
+      "altTitles": [
+        "窓の午後"
+      ],
+      "releaseYear": 2004,
+      "title": "Afternoon Window",
+      "languages": [
+        "ja"
+      ],
+      "genres": [
+        "Dream Pop",
+        "Psychedelic"
+      ],
+      "platform": 0,
+      "id": 100
+    },
+    {
+      "releaseYear": 2016,
+      "id": 101,
+      "genres": [
+        "Shoegaze",
+        "Synthpop",
+        "Coldwave"
+      ],
+      "addedDate": "2024-06-17T01:58:55.543Z",
+      "platform": 0,
+      "title": "It's Conditional",
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.youtube.com/watch?v=B6ztlRKSeXU&si=tLKz7p5kNzpkprRf",
+      "album": "It's Immaterial",
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "author": "Black Marble"
+    },
+    {
+      "addedDate": "2024-06-17T02:02:04.191Z",
+      "platform": 0,
+      "languages": [
+        "en"
+      ],
+      "title": "Octodad (Berry Gordy Reprise)",
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "releaseYear": 2014,
+      "url": "https://www.youtube.com/watch?v=mFGVSpU2tQE",
+      "id": 102,
+      "author": "Ian McKinney",
+      "album": "Octodad: Dadliest Catch (Original Soundtrack)"
+    },
+    {
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "languages": [
+        "en"
+      ],
+      "genres": [
+        "Eurodance"
+      ],
+      "id": 103,
+      "author": "Eiffel 65",
+      "album": "Europop",
+      "addedDate": "2024-06-24T21:45:37.549Z",
+      "releaseYear": 1998,
+      "title": "Blue (Da Ba Dee)",
+      "platform": 0,
+      "url": "https://youtu.be/68ugkg9RePc?si=bOXtNvKG4xlpkbCn"
+    }
+  ]
+}
