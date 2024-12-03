@@ -148,12 +148,31 @@ tr {
     background-color: black;
 }
 
+tr:hover {
+    background-color: #222222;
+}
+
+
 .url-icon {
     color: $old-mauve;
 }
 
 .winner {
     color: $old-mauve;
+}
+
+tr.expanded-detail-row {
+    height: 0;
+}
+
+.expanded-element-detail {
+    overflow: hidden;
+    display: flex;
+}
+
+.expanded-element-description {
+    padding: 16px;
+    // color: $old-mauve;
 }
 
 // End

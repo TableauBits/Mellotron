@@ -11,16 +11,26 @@ import { DataManagerService, DataSong } from 'src/app/services/data-manager.serv
 import { LocalStorageService } from 'src/app/services/local-storage.service';
 import { MatDialog } from '@angular/material/dialog';
 import { HelpWindowComponent } from '../help-window/help-window.component';
+import { animate, state, style, transition, trigger } from '@angular/animations';
 
 @Component({
   selector: 'app-table-viewer',
   templateUrl: './table-viewer.component.html',
-  styleUrls: ['./table-viewer.component.scss']
+  styleUrls: ['./table-viewer.component.scss'],
+  animations: [
+    trigger('detailExpand', [
+      state('collapsed', style({height: '0px', minHeight: '0'})),
+      state('expanded', style({height: '*'})),
+      transition('expanded <=> collapsed', animate('225ms cubic-bezier(0.4, 0.0, 0.2, 1)')),
+    ]),
+  ],
 })
 export class TableViewerComponent implements AfterViewInit {
 
   displayedColumns: string[];
   dataSource: MatTableDataSource<DataSong>;
+
+  expandedElement?: DataSong;
 
   selectedColumns: FormControl;
   selectedColumnsList: string[];
