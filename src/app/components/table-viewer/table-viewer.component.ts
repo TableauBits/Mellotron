@@ -120,11 +120,16 @@ export class TableViewerComponent implements AfterViewInit {
     this.dialog.open(HelpWindowComponent);
   }
 
-  parseSongProperty(property: any, length?: number): any | string {
+  parseSongProperty(property: any): any | string {
     if (property === undefined) return "/";
     if (Array.isArray(property)) return property.join(", ");
     if (typeof property === "string" && length) return property.substring(0, length);
+    if (property instanceof Date) return property.toLocaleDateString() + ' ' + property.toLocaleTimeString();
     return property;
+  }
+
+  generateDate(date: string): Date {
+    return new Date(date);
   }
 
 }

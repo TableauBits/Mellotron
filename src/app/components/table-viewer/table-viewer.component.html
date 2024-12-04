@@ -93,8 +93,9 @@
                                                 <b> Genres </b> : {{parseSongProperty(element.genres)}} <br>
                                                 <b> Langues </b> : {{parseSongProperty(element.languages)}} <br>
                                                 <b> Année de sortie </b> : {{parseSongProperty(element.releaseYear)}} <br>
-                                                <b> Date d'ajout </b> : {{parseSongProperty(element.addedDate, 10)}} <br>
-                                                <b> Plateforme </b> : {{platformToString(element.platform)}}
+                                                <b> Date d'ajout </b> : {{parseSongProperty(generateDate(element.addedDate))}} <br>
+                                                <b> Plateforme </b> : {{platformToString(element.platform)}} <br>
+                                                <b> URL </b> : <a href="{{element.url}}" target="_blank"> {{element.url}} </a>
                                         </div>
                                 </div>
                         </td>
