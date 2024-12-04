@@ -150,6 +150,7 @@ tr {
 
 tr:hover {
     background-color: #222222;
+    cursor: pointer;
 }
 
 
@@ -172,7 +173,6 @@ tr.expanded-detail-row {
 
 .expanded-element-description {
     padding: 16px;
-    // color: $old-mauve;
 }
 
 // End

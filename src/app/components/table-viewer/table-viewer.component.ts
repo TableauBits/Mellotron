@@ -120,4 +120,11 @@ export class TableViewerComponent implements AfterViewInit {
     this.dialog.open(HelpWindowComponent);
   }
 
+  parseSongProperty(property: any, length?: number): any | string {
+    if (property === undefined) return "/";
+    if (Array.isArray(property)) return property.join(", ");
+    if (typeof property === "string" && length) return property.substring(0, length);
+    return property;
+  }
+
 }
