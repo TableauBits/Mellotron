@@ -29,7 +29,7 @@ import XM2 from '../../assets/constitutions/XM2.json';
 import X11 from '../../assets/constitutions/X11.json';
 import X12 from '../../assets/constitutions/X12.json';
 import X13 from '../../assets/constitutions/X13.json';
-import X14 from '../../assets/constitutions/X13.json';
+import X14 from '../../assets/constitutions/X14.json';
 
 export type DataConstitution = {
   cstName: string;
