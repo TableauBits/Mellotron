@@ -30,6 +30,7 @@ import X11 from '../../assets/constitutions/X11.json';
 import X12 from '../../assets/constitutions/X12.json';
 import X13 from '../../assets/constitutions/X13.json';
 import X14 from '../../assets/constitutions/X14.json';
+import X15 from '../../assets/constitutions/X15.json';
 
 export type DataConstitution = {
   cstName: string;
@@ -45,6 +46,6 @@ export type DataConstitution = {
 
 export const ALL_CONSTITUTIONS_DATA: DataConstitution[] = [
   C1, C2, C3, C4, C5, C6, C7, C8, C9, C10,
-  X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14,
+  X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15,
   XM, XM2
 ]
