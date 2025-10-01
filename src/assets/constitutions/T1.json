@@ -1,0 +1,1010 @@
+{
+  "cstName": "Thématique #1 : Pays",
+  "date": "2025-06-19T22:42:16.005Z",
+  "winner": 39,
+  "songs": [
+    {
+      "languages": [
+        "pt"
+      ],
+      "addedDate": "2025-06-07T01:21:54.078Z",
+      "platform": 0,
+      "genres": [
+        "Pop"
+      ],
+      "id": 0,
+      "author": "Marcos Valle",
+      "releaseYear": 2019,
+      "title": "Vou Amanhã Saber",
+      "album": "Sempre",
+      "countries": [
+        "BR"
+      ],
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "url": "https://www.youtube.com/watch?v=LchlpBi9fV0"
+    },
+    {
+      "languages": [
+        "en"
+      ],
+      "platform": 0,
+      "addedDate": "2025-06-07T01:24:54.438Z",
+      "releaseYear": 2005,
+      "genres": [
+        "Pop"
+      ],
+      "title": "Feeling Good",
+      "album": "It's Time",
+      "url": "https://www.youtube.com/watch?v=Edwsf-8F3sI",
+      "author": "Michael Bublé",
+      "countries": [
+        "CA"
+      ],
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "id": 1
+    },
+    {
+      "addedDate": "2025-06-07T01:30:03.226Z",
+      "author": "Kram",
+      "genres": [
+        "Pop"
+      ],
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "id": 2,
+      "countries": [
+        "PL"
+      ],
+      "languages": [
+        "pl"
+      ],
+      "releaseYear": 1975,
+      "platform": 0,
+      "album": "Biała sowa, biała dama, biały kruk",
+      "title": "Zabita woda",
+      "url": "https://www.youtube.com/watch?v=gs_MCEB_DTU"
+    },
+    {
+      "addedDate": "2025-06-07T01:33:13.259Z",
+      "countries": [
+        "GB"
+      ],
+      "platform": 0,
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "author": "Duran Duran",
+      "genres": [
+        "New Wave"
+      ],
+      "releaseYear": 1982,
+      "album": "Rio",
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.youtube.com/watch?v=DjcCQsRCHUs",
+      "title": "Hungry Like the Wolf",
+      "id": 3
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=F48mtaFOccg",
+      "addedDate": "2025-06-07T01:36:15.491Z",
+      "languages": [
+        "en"
+      ],
+      "platform": 0,
+      "title": "Modern Crusaders",
+      "countries": [
+        "DE"
+      ],
+      "album": "The Screen Behind The Mirror",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "releaseYear": 1999,
+      "genres": [
+        "Electronic"
+      ],
+      "author": "Enigma",
+      "id": 4
+    },
+    {
+      "releaseYear": 2024,
+      "countries": [
+        "NL"
+      ],
+      "url": "https://youtu.be/gT2wY0DjYGo",
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "genres": [
+        "Rap",
+        "Pop",
+        "Dance"
+      ],
+      "author": "Joost Klein",
+      "id": 5,
+      "languages": [
+        "nl"
+      ],
+      "platform": 0,
+      "title": "Europapa",
+      "addedDate": "2025-06-07T17:47:30.473Z"
+    },
+    {
+      "title": "VOODOO KINGDOM",
+      "genres": [
+        "Rap",
+        "Soundtrack",
+        "Anime"
+      ],
+      "id": 6,
+      "platform": 0,
+      "countries": [
+        "JP"
+      ],
+      "album": "Grown Kidz / Voodoo Kingdom",
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "addedDate": "2025-06-07T17:50:54.215Z",
+      "url": "https://youtu.be/q4i17hQlzV0",
+      "author": "SOUL'd OUT",
+      "releaseYear": 2007,
+      "languages": [
+        "en",
+        "ja"
+      ]
+    },
+    {
+      "author": "Dschinghis Khan",
+      "genres": [
+        "Euro Disco",
+        "Pop"
+      ],
+      "url": "https://youtu.be/UiyB1PriUus",
+      "title": "Pistolero",
+      "languages": [
+        "de"
+      ],
+      "releaseYear": 1981,
+      "id": 7,
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "platform": 0,
+      "countries": [
+        "DE"
+      ],
+      "addedDate": "2025-06-07T18:04:51.273Z"
+    },
+    {
+      "author": "JJ",
+      "languages": [
+        "en"
+      ],
+      "id": 8,
+      "genres": [
+        "Opera",
+        "Pop",
+        "Techno"
+      ],
+      "countries": [
+        "AT"
+      ],
+      "title": "Wasted Love",
+      "releaseYear": 2025,
+      "addedDate": "2025-06-07T19:18:14.848Z",
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "url": "https://youtu.be/onOex2WXjbA",
+      "platform": 0
+    },
+    {
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "id": 9,
+      "url": "https://youtu.be/ETZ96rSw25g",
+      "countries": [
+        "DE"
+      ],
+      "author": "Abor & Tynna",
+      "title": "Baller",
+      "album": "Bittersüß",
+      "languages": [
+        "de"
+      ],
+      "releaseYear": 2025,
+      "addedDate": "2025-06-07T19:19:41.686Z",
+      "platform": 0,
+      "genres": [
+        "German Pop",
+        "Pop"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "She Wolf",
+      "url": "https://youtu.be/booKP974B0k",
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "addedDate": "2025-06-07T19:21:04.681Z",
+      "countries": [
+        "CO"
+      ],
+      "platform": 0,
+      "genres": [
+        "Pop"
+      ],
+      "releaseYear": 2009,
+      "author": "Shakira",
+      "languages": [
+        "en"
+      ],
+      "album": "She Wolf"
+    },
+    {
+      "addedDate": "2025-06-07T19:24:35.174Z",
+      "title": "Running With The Wolves",
+      "languages": [
+        "en"
+      ],
+      "id": 11,
+      "platform": 0,
+      "author": "AURORA",
+      "url": "https://youtu.be/06ht9MyJLT4",
+      "countries": [
+        "NO"
+      ],
+      "genres": [
+        "Pop",
+        "Electro"
+      ],
+      "album": "All My Demons Greeting Me as a Friend",
+      "releaseYear": 2015,
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2"
+    },
+    {
+      "title": "Zjerm",
+      "addedDate": "2025-06-07T19:26:57.579Z",
+      "url": "https://youtu.be/Sfvb761EEcM",
+      "genres": [
+        "Folk",
+        "Balkan Pop",
+        "Electro",
+        "Pop"
+      ],
+      "author": "Shkodra Elektronike",
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "languages": [
+        "sq"
+      ],
+      "id": 12,
+      "platform": 0,
+      "album": "Shndrit!",
+      "releaseYear": 2024,
+      "countries": [
+        "AL"
+      ]
+    },
+    {
+      "addedDate": "2025-06-08T11:27:03.037Z",
+      "id": 13,
+      "languages": [
+        "ne"
+      ],
+      "author": "Albatross",
+      "album": "Jo Jas Sanga Sambandhit Chha",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "url": "https://youtu.be/OpRcbBVqXf0",
+      "platform": 0,
+      "countries": [
+        "NP"
+      ],
+      "title": "Awaz",
+      "releaseYear": 2007,
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jGPSVo1BVR4",
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "languages": [
+        "en"
+      ],
+      "releaseYear": 2025,
+      "platform": 0,
+      "album": "Spring",
+      "title": "Maria Somerville",
+      "id": 14,
+      "author": "Spring",
+      "genres": [
+        "Dream Pop"
+      ],
+      "countries": [
+        "IE"
+      ],
+      "addedDate": "2025-06-09T00:51:01.751Z"
+    },
+    {
+      "countries": [
+        "GB"
+      ],
+      "genres": [
+        "Indietronica",
+        "Glitch"
+      ],
+      "title": "Headlock",
+      "languages": [
+        "en"
+      ],
+      "releaseYear": 2005,
+      "addedDate": "2025-06-09T00:53:44.152Z",
+      "album": "Speak for Yourself",
+      "id": 15,
+      "platform": 0,
+      "author": "Imogen Heap",
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "url": "https://www.youtube.com/watch?v=2PpBU7EfiEY"
+    },
+    {
+      "addedDate": "2025-06-09T00:58:58.954Z",
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "album": "Skin Deep (Original Soundtrack)",
+      "author": "Priscilla Snow  ",
+      "title": "When I Look at You (It's Like I'm Staring at the Sun)",
+      "url": "https://www.youtube.com/watch?v=dzaxr2mp6Qg",
+      "countries": [
+        "CA"
+      ],
+      "platform": 0,
+      "releaseYear": 2025,
+      "languages": [
+        "en"
+      ],
+      "id": 16
+    },
+    {
+      "languages": [
+        "en"
+      ],
+      "platform": 0,
+      "title": "Poplife",
+      "releaseYear": 2025,
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "countries": [
+        "US"
+      ],
+      "album": "Poplife",
+      "featuring": [
+        "underscores"
+      ],
+      "id": 18,
+      "url": "https://www.youtube.com/watch?v=ZETVLKMw6dQ",
+      "addedDate": "2025-06-09T01:06:37.234Z",
+      "author": "umru",
+      "genres": [
+        "Electro"
+      ]
+    },
+    {
+      "platform": 0,
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "url": "https://youtu.be/nQHVDK_Ao44",
+      "title": "What You Like",
+      "languages": [
+        "en"
+      ],
+      "genres": [
+        "Deep House"
+      ],
+      "releaseYear": 2021,
+      "featuring": [
+        "yunè pinku"
+      ],
+      "addedDate": "2025-06-09T01:11:21.518Z",
+      "countries": [
+        "AU"
+      ],
+      "album": "What You Like",
+      "author": "Logic1000",
+      "id": 19
+    },
+    {
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "url": "https://youtu.be/OLRbIc8KZ_8",
+      "title": "火星人",
+      "author": "ヨルシカ",
+      "genres": [
+        "J-Rock"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "releaseYear": 2025,
+      "platform": 0,
+      "countries": [
+        "JP"
+      ],
+      "addedDate": "2025-06-09T02:24:02.808Z",
+      "id": 20,
+      "altTitles": [
+        "Martian"
+      ]
+    },
+    {
+      "title": "Caribbean Blue",
+      "releaseYear": 1991,
+      "url": "https://youtu.be/NJHtgwlRjKU",
+      "id": 21,
+      "author": "Enya",
+      "countries": [
+        "IE"
+      ],
+      "genres": [
+        "Celtic",
+        "New Age"
+      ],
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "album": "Themes From \"Calmi Cuori Appassionati\"",
+      "platform": 0,
+      "addedDate": "2025-06-09T02:28:23.217Z",
+      "languages": [
+        "en",
+        "la"
+      ]
+    },
+    {
+      "countries": [
+        "US"
+      ],
+      "author": "Bobby McFerrin",
+      "addedDate": "2025-06-09T02:32:03.762Z",
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "title": "Remembrance",
+      "platform": 0,
+      "releaseYear": 1995,
+      "url": "https://youtu.be/TLCy8LC3YeY",
+      "album": "Bang! Zoom",
+      "genres": [
+        "Jazz",
+        "Vocal"
+      ],
+      "languages": [
+        "ins"
+      ],
+      "id": 22
+    },
+    {
+      "genres": [
+        "Folk",
+        "Pop"
+      ],
+      "releaseYear": 1996,
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "countries": [
+        "CA"
+      ],
+      "author": "Alanis Morissette",
+      "url": "https://youtu.be/Jne9t8sHpUc",
+      "languages": [
+        "en"
+      ],
+      "title": "Ironic",
+      "platform": 0,
+      "id": 23,
+      "addedDate": "2025-06-09T02:34:25.143Z",
+      "album": "Jagged Little Pill"
+    },
+    {
+      "languages": [
+        "ins"
+      ],
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "url": "https://youtu.be/wZMloK5W1W8",
+      "countries": [
+        "AU"
+      ],
+      "author": "Dead can dance",
+      "platform": 0,
+      "releaseYear": 1987,
+      "genres": [
+        "Dark Ambient",
+        "Goth / Gothic Rock"
+      ],
+      "id": 24,
+      "album": "Within the Realm of a Dying Sun",
+      "addedDate": "2025-06-09T02:39:22.067Z",
+      "title": "Cantara"
+    },
+    {
+      "languages": [
+        "ja"
+      ],
+      "title": "月下美人",
+      "url": "https://youtu.be/AoY5f979VtM?si=qZ8j2Y-ZhB5FNuHb",
+      "addedDate": "2025-06-10T02:40:01.143Z",
+      "author": "和楽器バンド (WagakkiBand)",
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "altTitles": [
+        "Gekka Bijin",
+        "Queen of the Night"
+      ],
+      "releaseYear": 2020,
+      "id": 25,
+      "album": "TOKYO SINGING",
+      "countries": [
+        "JP"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "platform": 0
+    },
+    {
+      "countries": [
+        "KR"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "genres": [
+        "K-Pop"
+      ],
+      "id": 26,
+      "platform": 0,
+      "album": "樂-STAR (ROCK-STAR)",
+      "addedDate": "2025-06-10T02:50:06.052Z",
+      "title": "가려줘 (Cover Me)",
+      "url": "https://youtu.be/gfhhFsG-oms?si=N6Fg1-jlD8VBXQgD",
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "releaseYear": 2023,
+      "author": "Stray Kids"
+    },
+    {
+      "genres": [
+        "Pop"
+      ],
+      "author": "The Script",
+      "id": 27,
+      "countries": [
+        "IE"
+      ],
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "album": "No Sound Without Silence",
+      "languages": [
+        "en"
+      ],
+      "title": "Flares",
+      "releaseYear": 2014,
+      "platform": 0,
+      "addedDate": "2025-06-10T02:53:41.471Z",
+      "url": "https://youtu.be/r7jaXI6oXpQ?si=xGFtWAvLba-rbb3M"
+    },
+    {
+      "genres": [
+        "Pop"
+      ],
+      "album": "Roses",
+      "url": "https://youtu.be/_4cE7GccE_Q?si=u8wqBt4sdxfNkKlX",
+      "releaseYear": 2015,
+      "id": 28,
+      "title": "Oublie-moi",
+      "author": "Cœur de pirate",
+      "countries": [
+        "CA"
+      ],
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "addedDate": "2025-06-11T02:10:51.469Z",
+      "platform": 0,
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "releaseYear": 1988,
+      "author": "Bulgarian State Television Female Vocal Choir",
+      "languages": [
+        "bg"
+      ],
+      "addedDate": "2025-06-11T03:55:47.355Z",
+      "id": 29,
+      "url": "https://www.youtube.com/watch?v=hVqrW-fPOQ0",
+      "platform": 0,
+      "title": "Kaval Sviri (The Flute Plays)",
+      "user": "JvVTL2HLvTcIDlekbIVs0sShzW33",
+      "countries": [
+        "BG"
+      ]
+    },
+    {
+      "user": "JvVTL2HLvTcIDlekbIVs0sShzW33",
+      "author": "Tinariwen",
+      "countries": [
+        "ML"
+      ],
+      "url": "https://www.youtube.com/watch?v=I9oZAAA62gg",
+      "addedDate": "2025-06-11T04:01:06.635Z",
+      "title": "Sastanaqqam",
+      "releaseYear": 2017,
+      "platform": 0,
+      "album": "Elwan",
+      "id": 30
+    },
+    {
+      "languages": [
+        "en"
+      ],
+      "author": "Flight Of The Conchords",
+      "addedDate": "2025-06-11T04:08:03.270Z",
+      "platform": 0,
+      "releaseYear": 2008,
+      "url": "https://www.youtube.com/watch?v=sOgC8qp_I2Y",
+      "id": 31,
+      "title": "Hiphopopotamus vs. Rhymenoceros",
+      "countries": [
+        "NZ"
+      ],
+      "user": "JvVTL2HLvTcIDlekbIVs0sShzW33"
+    },
+    {
+      "platform": 0,
+      "id": 32,
+      "url": "https://www.youtube.com/watch?v=iijKLHCQw5o",
+      "releaseYear": 2008,
+      "user": "JvVTL2HLvTcIDlekbIVs0sShzW33",
+      "languages": [
+        "en"
+      ],
+      "title": "Inis Mona",
+      "author": "Eluveitie",
+      "countries": [
+        "CH"
+      ],
+      "addedDate": "2025-06-11T04:16:13.116Z",
+      "album": "Slania"
+    },
+    {
+      "author": "Hedningarna",
+      "languages": [
+        "sv"
+      ],
+      "user": "JvVTL2HLvTcIDlekbIVs0sShzW33",
+      "releaseYear": 1994,
+      "url": "https://www.youtube.com/watch?v=CCHceyuKhFM",
+      "addedDate": "2025-06-11T04:25:21.942Z",
+      "id": 33,
+      "album": "Trä",
+      "countries": [
+        "SE"
+      ],
+      "title": "Räven",
+      "platform": 0
+    },
+    {
+      "author": "SING女团",
+      "countries": [
+        "CN"
+      ],
+      "platform": 0,
+      "id": 34,
+      "album": "不羡 - Single",
+      "genres": [
+        "Mandopop",
+        "C-Pop"
+      ],
+      "languages": [
+        "zh"
+      ],
+      "title": "不羡",
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "altTitles": [
+        "Bù xiàn",
+        "Not Envious"
+      ],
+      "releaseYear": 2018,
+      "url": "https://youtu.be/7Zh7UPOzBio?si=n28w3hIoUK32U_ym",
+      "addedDate": "2025-06-12T01:46:55.748Z"
+    },
+    {
+      "platform": 0,
+      "addedDate": "2025-06-14T08:40:43.590Z",
+      "album": "Legalised",
+      "url": "https://youtu.be/x9WO2ieJMYk",
+      "id": 36,
+      "countries": [
+        "IN"
+      ],
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "author": "Panjabi MC",
+      "releaseYear": 2002,
+      "languages": [
+        "hi",
+        "pa"
+      ],
+      "title": "Mundian to Bach Ke",
+      "genres": [
+        "Bhangra",
+        "Hip-Hop"
+      ]
+    },
+    {
+      "url": "https://youtu.be/z34enKCqRGk",
+      "album": "Outer Wilds Original Game Soundtrack",
+      "platform": 0,
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "id": 37,
+      "languages": [
+        "ins"
+      ],
+      "author": "Andrew Prahlow",
+      "countries": [
+        "US"
+      ],
+      "addedDate": "2025-06-14T08:52:08.838Z",
+      "title": "Travelers",
+      "releaseYear": 2019,
+      "genres": [
+        "Video Game Music"
+      ]
+    },
+    {
+      "addedDate": "2025-06-14T08:58:12.097Z",
+      "author": "Andrea Colombari",
+      "languages": [
+        "ins"
+      ],
+      "releaseYear": 2015,
+      "platform": 0,
+      "id": 38,
+      "url": "https://youtu.be/4nduIxmHUI8",
+      "title": "Tarantella Napoletana",
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "countries": [
+        "IT"
+      ]
+    },
+    {
+      "platform": 0,
+      "countries": [
+        "FR"
+      ],
+      "releaseYear": 2025,
+      "url": "https://youtu.be/iqizXvvWnmM",
+      "author": "Lorien Testard",
+      "album": "Clair Obscur Expédition 33 OST",
+      "languages": [
+        "fr"
+      ],
+      "title": "Lumière",
+      "addedDate": "2025-06-14T09:15:24.710Z",
+      "id": 39,
+      "genres": [
+        "Video Game Music",
+        "Orchestral"
+      ],
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2"
+    },
+    {
+      "url": "https://youtu.be/txKKQqAMQUA",
+      "languages": [
+        "pl"
+      ],
+      "title": "Priorytety",
+      "platform": 0,
+      "countries": [
+        "PL"
+      ],
+      "author": "Patkofonika",
+      "album": "Kinematografia",
+      "id": 40,
+      "releaseYear": 2000,
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "addedDate": "2025-06-14T09:59:43.698Z",
+      "genres": [
+        "Hip-Hop",
+        "Rap"
+      ]
+    },
+    {
+      "genres": [
+        "Pop",
+        "Soundtrack"
+      ],
+      "album": "MOOMINVALLEY OST",
+      "url": "https://youtu.be/vGzRuq16Z2Y",
+      "author": "ALMA",
+      "languages": [
+        "en"
+      ],
+      "platform": 0,
+      "id": 41,
+      "releaseYear": 2022,
+      "countries": [
+        "FI"
+      ],
+      "title": "Starlight",
+      "addedDate": "2025-06-16T14:19:19.251Z",
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2"
+    },
+    {
+      "id": 42,
+      "user": "EzKZMQbdAGYxyNbdLG7clcc8fcP2",
+      "addedDate": "2025-06-19T16:17:35.179Z",
+      "genres": [
+        "African Hip Hop"
+      ],
+      "platform": 0,
+      "title": "Salone Borbor",
+      "countries": [
+        "SL"
+      ],
+      "author": "Kao Denero",
+      "releaseYear": 2011,
+      "url": "https://www.youtube.com/watch?v=UNS4edYkUdA",
+      "featuring": [
+        "Black Don"
+      ]
+    },
+    {
+      "title": "Salama",
+      "featuring": [
+        "DJ Click"
+      ],
+      "user": "EzKZMQbdAGYxyNbdLG7clcc8fcP2",
+      "id": 43,
+      "addedDate": "2025-06-19T16:22:40.927Z",
+      "countries": [
+        "KM"
+      ],
+      "url": "https://www.youtube.com/watch?v=DdY4bTX-A8s",
+      "author": "Nawal Mlanao",
+      "releaseYear": 2017,
+      "platform": 0,
+      "altTitles": [
+        "Aman"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LKpk601H0ss",
+      "user": "EzKZMQbdAGYxyNbdLG7clcc8fcP2",
+      "platform": 0,
+      "releaseYear": 1987,
+      "id": 44,
+      "languages": [
+        "et"
+      ],
+      "addedDate": "2025-06-19T16:30:12.349Z",
+      "author": "Alo Mattiisen",
+      "title": "Ei ole üksi ükski maa",
+      "countries": [
+        "EE"
+      ]
+    },
+    {
+      "languages": [
+        "es"
+      ],
+      "title": "Como Quisiera Que No Existieras",
+      "url": "https://www.youtube.com/watch?v=kMJe2laKMnk",
+      "countries": [
+        "SV"
+      ],
+      "user": "EzKZMQbdAGYxyNbdLG7clcc8fcP2",
+      "id": 45,
+      "platform": 0,
+      "genres": [
+        "Rock"
+      ],
+      "addedDate": "2025-06-19T17:04:19.453Z",
+      "releaseYear": 1992,
+      "author": "Rucks Parker"
+    },
+    {
+      "countries": [
+        "RU"
+      ],
+      "author": "Комбинация",
+      "url": "https://www.youtube.com/watch?v=Zbgr6Hpqcpg",
+      "addedDate": "2025-06-19T17:32:24.661Z",
+      "languages": [
+        "ru"
+      ],
+      "title": "Два кусочека колбаски - deux morceaux de saucisse",
+      "platform": 0,
+      "genres": [
+        "Pop"
+      ],
+      "releaseYear": 1992,
+      "id": 46,
+      "user": "EzKZMQbdAGYxyNbdLG7clcc8fcP2"
+    },
+    {
+      "countries": [
+        "DK"
+      ],
+      "releaseYear": 1975,
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "platform": 0,
+      "addedDate": "2025-06-19T18:59:34.997Z",
+      "genres": [
+        "Rock"
+      ],
+      "url": "https://youtu.be/gQ5ZWxsjDKQ",
+      "id": 47,
+      "languages": [
+        "da"
+      ],
+      "title": "Vad gør vi nu lille du? ",
+      "author": "Gasolin"
+    },
+    {
+      "author": "The Gentles",
+      "releaseYear": 2008,
+      "url": "https://youtu.be/YLbflb0BBPo",
+      "addedDate": "2025-06-19T19:00:52.110Z",
+      "title": "Firwat?",
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "genres": [
+        "Rap"
+      ],
+      "languages": [
+        "lb",
+        "fr"
+      ],
+      "platform": 0,
+      "id": 48,
+      "countries": [
+        "LU"
+      ]
+    },
+    {
+      "releaseYear": 2015,
+      "title": "Ça sort comme ça sort",
+      "languages": [
+        "fr"
+      ],
+      "genres": [
+        "Rap"
+      ],
+      "addedDate": "2025-06-19T19:06:31.965Z",
+      "id": 49,
+      "countries": [
+        "CM"
+      ],
+      "url": "https://youtu.be/7lVamtl-FUQ",
+      "platform": 0,
+      "author": "Maahlox le Vibeur",
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2"
+    },
+    {
+      "author": "Vee",
+      "platform": 0,
+      "genres": [
+        "House",
+        "Afro-Pop"
+      ],
+      "releaseYear": 2004,
+      "id": 50,
+      "languages": [
+        "tn"
+      ],
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "title": "Taku Taku",
+      "countries": [
+        "BW"
+      ],
+      "url": "https://youtu.be/ZZvl7Z-Er64",
+      "addedDate": "2025-06-19T19:10:28.816Z"
+    },
+    {
+      "countries": [
+        "NP"
+      ],
+      "url": "https://youtu.be/8jbbH9KYKG8",
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "platform": 0,
+      "id": 51,
+      "releaseYear": 2019,
+      "genres": [
+        "Soft Rock"
+      ],
+      "addedDate": "2025-06-19T19:38:44.495Z",
+      "title": "SAMARPAN",
+      "languages": [
+        "ne"
+      ],
+      "author": "Sabin Rai and the Pharaoh",
+      "album": "Dhanyavaad "
+    }
+  ]
+}
