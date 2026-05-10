@@ -1,0 +1,671 @@
+{
+  "cstName": "Thématique #4 : 2025",
+  "date": "2026-02-15T17:00:00.122Z",
+  "winner": 25,
+  "songs": [
+    {
+      "url": "https://www.youtube.com/watch?v=jNf8c35RuoM",
+      "countries": [
+        "FR"
+      ],
+      "author": "Myd",
+      "title": "Sweatin'",
+      "genres": [
+        "Electronic"
+      ],
+      "languages": [
+        "en"
+      ],
+      "releaseYear": 2025,
+      "album": "Mydnight",
+      "platform": 0,
+      "addedDate": "2025-12-26T23:17:58.739Z",
+      "id": 0,
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1"
+    },
+    {
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "releaseYear": 2025,
+      "album": "Starlight (The Fame) - Single",
+      "platform": 0,
+      "genres": [
+        "Electronic"
+      ],
+      "featuring": [
+        "One Republic"
+      ],
+      "url": "https://www.youtube.com/watch?v=ueFYdONOwQQ",
+      "author": "The Supermen Lovers",
+      "title": "Starlight (The Fame)",
+      "id": 2,
+      "languages": [
+        "en"
+      ],
+      "addedDate": "2025-12-26T23:24:37.886Z",
+      "countries": [
+        "FR",
+        "US"
+      ]
+    },
+    {
+      "album": "Thinking of You - Single",
+      "platform": 0,
+      "addedDate": "2025-12-26T23:28:38.676Z",
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "releaseYear": 2025,
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "id": 3,
+      "countries": [
+        "JP"
+      ],
+      "author": "Salasa",
+      "title": "Thinking of You",
+      "url": "https://www.youtube.com/watch?v=j0W78dgSLEc",
+      "genres": [
+        "R&B/Soul"
+      ]
+    },
+    {
+      "genres": [
+        "J-Pop"
+      ],
+      "author": "Kroi",
+      "countries": [
+        "JP"
+      ],
+      "title": "Method",
+      "url": "https://www.youtube.com/watch?v=UEJsQAEPsmc",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "id": 4,
+      "album": "Method - Single",
+      "platform": 0,
+      "addedDate": "2025-12-26T23:30:06.085Z",
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "releaseYear": 2025
+    },
+    {
+      "album": "SIGNALIS: MEMORIES (Side B)",
+      "addedDate": "2025-12-26T23:33:18.123Z",
+      "platform": 0,
+      "languages": [
+        "ins"
+      ],
+      "releaseYear": 2025,
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "id": 5,
+      "author": "1000 Eyes",
+      "title": "Warm Light (Graves)",
+      "url": "https://www.youtube.com/watch?v=LkcbAoeUw1E",
+      "genres": [
+        "Electronic"
+      ]
+    },
+    {
+      "id": 6,
+      "languages": [
+        "fr"
+      ],
+      "addedDate": "2025-12-27T22:48:10.306Z",
+      "countries": [
+        "FR"
+      ],
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "releaseYear": 2025,
+      "album": "Soleil Bleu",
+      "platform": 0,
+      "genres": [
+        "Reggae",
+        "Dub"
+      ],
+      "featuring": [
+        "Luiza"
+      ],
+      "url": "https://youtu.be/nd8RD3tjNQE",
+      "author": "Bleu Soleil",
+      "title": "Soleil Bleu"
+    },
+    {
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "id": 7,
+      "platform": 0,
+      "addedDate": "2025-12-27T22:50:14.697Z",
+      "releaseYear": 2025,
+      "languages": [
+        "en"
+      ],
+      "featuring": [
+        "TEYA"
+      ],
+      "genres": [
+        "Alternative"
+      ],
+      "title": "Bite Marks",
+      "countries": [
+        "AT"
+      ],
+      "author": "League of Legends",
+      "url": "https://youtu.be/I76wvt0aEE4"
+    },
+    {
+      "id": 8,
+      "languages": [
+        "en"
+      ],
+      "addedDate": "2025-12-27T22:53:45.625Z",
+      "countries": [
+        "US"
+      ],
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "releaseYear": 2025,
+      "platform": 0,
+      "album": "Hazbin Hotel: Season Two (Original Soundtrack)",
+      "genres": [
+        "Goth / Gothic Rock"
+      ],
+      "featuring": [
+        "Jessica Vosk",
+        "Hazbin Hotel",
+        "Andrew Underberg",
+        "Alex Brightman"
+      ],
+      "url": "https://youtu.be/eU0gOXTIMGo",
+      "title": "Gravity",
+      "author": "Sam Haft"
+    },
+    {
+      "genres": [
+        "Indie Pop",
+        "Electronic",
+        "Pop"
+      ],
+      "url": "https://www.youtube.com/watch?v=Zd0j0xnhWFw",
+      "title": "Do It",
+      "author": "underscores",
+      "countries": [
+        "US"
+      ],
+      "id": 9,
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "releaseYear": 2025,
+      "languages": [
+        "en"
+      ],
+      "addedDate": "2025-12-30T15:56:41.313Z",
+      "platform": 0
+    },
+    {
+      "genres": [
+        "Psychedelic",
+        "New Acoustic",
+        "Indie Rock",
+        "Rock",
+        "Indie Pop"
+      ],
+      "url": "https://www.youtube.com/watch?v=OTtDHo_Dmbk",
+      "author": "Djo",
+      "countries": [
+        "US"
+      ],
+      "title": "Awake",
+      "id": 10,
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "releaseYear": 2025,
+      "languages": [
+        "en"
+      ],
+      "addedDate": "2025-12-30T16:15:23.386Z",
+      "platform": 0
+    },
+    {
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "id": 11,
+      "platform": 0,
+      "addedDate": "2026-01-03T02:52:42.147Z",
+      "album": "WHERE IS MY HUSBAND!",
+      "releaseYear": 2025,
+      "languages": [
+        "en"
+      ],
+      "genres": [
+        "Pop",
+        "R&B/Soul"
+      ],
+      "title": "WHERE IS MY HUSBAND!",
+      "author": "RAYE",
+      "countries": [
+        "GB"
+      ],
+      "url": "https://youtu.be/rK5TyISxZ_M"
+    },
+    {
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "id": 12,
+      "platform": 0,
+      "addedDate": "2026-01-04T16:03:11.813Z",
+      "altTitles": [
+        "Shura"
+      ],
+      "releaseYear": 2025,
+      "languages": [
+        "ja"
+      ],
+      "genres": [
+        "Alternative"
+      ],
+      "title": "修羅",
+      "countries": [
+        "JP"
+      ],
+      "author": "ヨルシカ",
+      "url": "https://youtu.be/h4F-q-R67H0"
+    },
+    {
+      "countries": [
+        "JP"
+      ],
+      "addedDate": "2026-01-04T16:07:40.422Z",
+      "altTitles": [
+        "Welcome to the Dying Season"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "id": 13,
+      "title": "死にゆく季節の君へ",
+      "author": "Jun Maeda",
+      "url": "https://youtu.be/gjFI2SFhcmw",
+      "featuring": [
+        "yanaginagi"
+      ],
+      "genres": [
+        "Anime",
+        "J-Pop"
+      ],
+      "platform": 0,
+      "album": "死にゆく季節のきみへ",
+      "releaseYear": 2025,
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13"
+    },
+    {
+      "releaseYear": 2025,
+      "languages": [
+        "ins"
+      ],
+      "album": "Lies of P: Overture - ORIGINAL SOUNDTRACK",
+      "platform": 0,
+      "addedDate": "2026-01-04T16:13:20.918Z",
+      "id": 14,
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "url": "https://youtu.be/6LbpoP7RsZY",
+      "author": "Yeakun Yoo",
+      "countries": [
+        "KR"
+      ],
+      "title": "Nightmare",
+      "genres": [
+        "Soundtrack",
+        "Video Game Music"
+      ]
+    },
+    {
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "releaseYear": 2025,
+      "album": "ATLAS",
+      "platform": 0,
+      "genres": [
+        "Electronic",
+        "Dream Pop"
+      ],
+      "featuring": [
+        "RINO",
+        "aquoferne",
+        "Davis West"
+      ],
+      "url": "https://youtu.be/egx-H5Nuh80",
+      "author": "Pretty Patterns",
+      "title": "ATLAS",
+      "id": 15,
+      "languages": [
+        "en"
+      ],
+      "addedDate": "2026-01-04T16:17:25.811Z",
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "title": "月蝕",
+      "author": "Mirai Kodai Orchestra 未来古代楽団",
+      "url": "https://youtu.be/Hvvrqqk3eUM?si=iCHqJxkByMh0zQ5x",
+      "featuring": [
+        "田野アサミ (Asami Tano)"
+      ],
+      "genres": [
+        "World",
+        "J-Pop"
+      ],
+      "platform": 0,
+      "album": "月蝕 - Single",
+      "releaseYear": 2025,
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "countries": [
+        "JP"
+      ],
+      "addedDate": "2026-01-04T22:57:38.468Z",
+      "altTitles": [
+        "Eclipsing the Night"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "id": 16
+    },
+    {
+      "album": "Clair Obscur: Expedition 33 (Original Soundtrack)",
+      "platform": 0,
+      "releaseYear": 2025,
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "author": "Lorien Testard",
+      "title": "Aline",
+      "url": "https://youtu.be/vGVeDm4118Q",
+      "featuring": [
+        "Alice Duport-Percier",
+        "Clair Obscur: Expedition 33",
+        "Sandfall Interactive",
+        "Orchestre Curieux"
+      ],
+      "genres": [
+        "Video Game Music",
+        "Orchestral"
+      ],
+      "addedDate": "2026-01-07T02:11:44.971Z",
+      "languages": [
+        "fr"
+      ],
+      "id": 17,
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "releaseYear": 2025,
+      "album": "Zenakunohigan",
+      "platform": 0,
+      "genres": [
+        "Metal"
+      ],
+      "url": "https://www.youtube.com/watch?v=d4IXYe7YbMs",
+      "author": "Unlucky Morpheus",
+      "title": "Zenakunohigan",
+      "id": 19,
+      "languages": [
+        "ja"
+      ],
+      "altTitles": [
+        "善悪の彼岸"
+      ],
+      "addedDate": "2026-01-08T15:39:22.552Z",
+      "countries": [
+        "JP"
+      ]
+    },
+    {
+      "genres": [
+        "Video Game Music"
+      ],
+      "featuring": [
+        "Alice Duport-Mercier"
+      ],
+      "url": "https://youtu.be/pXHE2MH9vLU",
+      "title": "Gestral Village - Gestral Merchant",
+      "author": "Lorien Testard",
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "releaseYear": 2025,
+      "platform": 0,
+      "album": "Clair Obscur Expedition 33 Original Soundtrack",
+      "countries": [
+        "FR"
+      ],
+      "id": 20,
+      "languages": [
+        "ins"
+      ],
+      "addedDate": "2026-01-08T15:43:44.092Z"
+    },
+    {
+      "platform": 0,
+      "addedDate": "2026-01-09T17:41:20.668Z",
+      "album": "Elegy of the End - Single",
+      "languages": [
+        "ins"
+      ],
+      "releaseYear": 2025,
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "id": 21,
+      "title": "Elegy of the End",
+      "author": "Lappy",
+      "url": "https://youtu.be/x3G1I_9DPf4?si=DB7-hnYJ2If6LHDF",
+      "genres": [
+        "Soundtrack"
+      ]
+    },
+    {
+      "countries": [
+        "IT"
+      ],
+      "id": 22,
+      "addedDate": "2026-01-09T17:53:13.777Z",
+      "languages": [
+        "en"
+      ],
+      "featuring": [
+        "Lotus Juice"
+      ],
+      "genres": [
+        "Pop"
+      ],
+      "author": "The Vanished People",
+      "title": "Till the Curtain Call",
+      "url": "https://youtu.be/OERvYv9b8Zk?si=5XqZToDKRG5zAHED",
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "album": "Till the Curtain Call - Single",
+      "platform": 0,
+      "releaseYear": 2025
+    },
+    {
+      "author": "Lor",
+      "countries": [
+        "PL"
+      ],
+      "title": "mario",
+      "url": "https://youtu.be/DKsUzlG3n9o",
+      "genres": [
+        "Pop",
+        "Alternative"
+      ],
+      "addedDate": "2026-01-11T20:48:15.582Z",
+      "platform": 0,
+      "releaseYear": 2025,
+      "languages": [
+        "pl"
+      ],
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "id": 23
+    },
+    {
+      "releaseYear": 2025,
+      "languages": [
+        "en"
+      ],
+      "album": "A Stranger（Lord of Mysteries · Clown Arc：Impression Theme Song）- Single",
+      "addedDate": "2026-01-14T04:11:05.935Z",
+      "platform": 0,
+      "id": 24,
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "url": "https://youtu.be/Povv4lcIi8M?si=34Qk8ckdfM7ZZRj8",
+      "author": "罗艺恒 (Laurence Larson)",
+      "title": "A Stranger（Lord of Mysteries · Clown Arc：Impression Theme Song）",
+      "genres": [
+        "Soundtrack"
+      ]
+    },
+    {
+      "releaseYear": 2025,
+      "languages": [
+        "en"
+      ],
+      "album": "'Til the Sea Shall Give up Her Dead",
+      "addedDate": "2026-01-14T19:38:33.672Z",
+      "platform": 0,
+      "id": 25,
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "url": "https://youtu.be/KlhBB5TU6UQ",
+      "author": "Ye Banished Privateers",
+      "countries": [
+        "SE"
+      ],
+      "title": "Chained Below",
+      "genres": [
+        "Folk",
+        "Rock"
+      ]
+    },
+    {
+      "countries": [
+        "DE",
+        "IS"
+      ],
+      "languages": [
+        "is"
+      ],
+      "addedDate": "2026-01-14T20:15:48.240Z",
+      "id": 26,
+      "url": "https://www.youtube.com/watch?v=eCKHf2qo8y8",
+      "author": "Patty Gurdy",
+      "title": "Álfaran",
+      "featuring": [
+        "Magga Einarsdóttir"
+      ],
+      "genres": [
+        "Folk",
+        "Rock",
+        "Celtic"
+      ],
+      "releaseYear": 2025,
+      "album": "Tavern",
+      "platform": 0,
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2"
+    },
+    {
+      "url": "https://youtu.be/dDAP5OQv2RA?list=PLbpBCJVurvdRW3F5o3GeWoSPwcEK-Ked9",
+      "author": "NOMELON NOLEMON",
+      "countries": [
+        "JP"
+      ],
+      "title": "HALO",
+      "genres": [
+        "J-Pop",
+        "Rock"
+      ],
+      "releaseYear": 2025,
+      "languages": [
+        "ja"
+      ],
+      "addedDate": "2026-01-15T19:01:10.366Z",
+      "platform": 0,
+      "id": 27,
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13"
+    },
+    {
+      "countries": [
+        "US"
+      ],
+      "author": "W&W",
+      "title": "OIIA OIIA (Spinning Cat)",
+      "url": "https://www.youtube.com/watch?v=IxX_QHay02M",
+      "genres": [
+        "Techno"
+      ],
+      "addedDate": "2026-01-21T01:22:45.949Z",
+      "platform": 0,
+      "releaseYear": 2025,
+      "languages": [
+        "ins"
+      ],
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "id": 28
+    },
+    {
+      "url": "https://youtu.be/F4qFzuCA9Po?si=kq4a5XH89_8kRz5y",
+      "title": "Hollow",
+      "countries": [
+        "KR"
+      ],
+      "author": "Stray Kids",
+      "genres": [
+        "K-Pop"
+      ],
+      "releaseYear": 2025,
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "addedDate": "2026-01-23T04:24:10.614Z",
+      "platform": 0,
+      "album": "Hollow - EP",
+      "id": 29,
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2"
+    },
+    {
+      "id": 30,
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "releaseYear": 2025,
+      "languages": [
+        "en"
+      ],
+      "addedDate": "2026-01-26T15:30:32.509Z",
+      "platform": 0,
+      "genres": [
+        "Lo-fi",
+        "House",
+        "Electro"
+      ],
+      "featuring": [
+        "kučka"
+      ],
+      "url": "https://www.youtube.com/watch?v=hVfRSn9BBV0",
+      "author": "yaego",
+      "title": "ketamina"
+    },
+    {
+      "id": 31,
+      "altTitles": [
+        "هون"
+      ],
+      "addedDate": "2026-01-30T16:10:25.832Z",
+      "languages": [
+        "ar"
+      ],
+      "countries": [
+        "LB"
+      ],
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "album": "I remember I forget بنسى وبتذكر",
+      "platform": 0,
+      "releaseYear": 2025,
+      "genres": [
+        "Arab Pop"
+      ],
+      "author": "Yasmine Hamdan",
+      "title": "Hon",
+      "url": "https://www.youtube.com/watch?v=1yFtBrNjlVc"
+    }
+  ]
+}
