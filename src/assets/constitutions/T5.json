@@ -1,0 +1,946 @@
+{
+  "cstName": "Thématique #5 : Artistes féminins",
+  "date": "2026-05-17T01:23:25.552Z",
+  "winner": 12,
+  "songs": [
+    {
+      "title": "Marie douceur - Marie colère",
+      "author": " Marie Laforêt",
+      "album": "Marie Douceur - Marie Colère",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "platform": 0,
+      "genres": [
+        "Pop"
+      ],
+      "url": "https://www.youtube.com/watch?v=3zuqX6gHriM",
+      "addedDate": "2026-04-10T21:28:32.530Z",
+      "releaseYear": 1966,
+      "languages": [
+        "fr"
+      ],
+      "id": 0,
+      "countries": [
+        "FR"
+      ]
+    },
+    {
+      "addedDate": "2026-04-10T21:34:12.588Z",
+      "url": "https://www.youtube.com/watch?v=FYoCFPiKFKA",
+      "altTitles": [
+        "夜の精"
+      ],
+      "countries": [
+        "JP"
+      ],
+      "id": 1,
+      "author": "Yoshiko Sai",
+      "title": "Yoru No Sei",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "album": "Mangekyou",
+      "platform": 0,
+      "releaseYear": 1975,
+      "languages": [
+        "ja"
+      ],
+      "genres": [
+        "Psychedelic Folk"
+      ]
+    },
+    {
+      "releaseYear": 1981,
+      "title": "Edge of Seventeen",
+      "id": 2,
+      "url": "https://www.youtube.com/watch?v=1LwaYHkNXdQ&list=RD1LwaYHkNXdQ",
+      "languages": [
+        "en"
+      ],
+      "addedDate": "2026-04-10T21:36:32.145Z",
+      "countries": [
+        "US"
+      ],
+      "genres": [
+        "Rock"
+      ],
+      "author": "Stevie Nicks",
+      "album": " Bella Donna",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "platform": 0
+    },
+    {
+      "releaseYear": 1978,
+      "id": 4,
+      "languages": [
+        "de"
+      ],
+      "countries": [
+        "DE"
+      ],
+      "url": "https://www.youtube.com/watch?v=E0E017PIWAw",
+      "addedDate": "2026-04-10T22:06:02.818Z",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "album": "Komm Doch / Ich Hab' Dich Lieb",
+      "platform": 0,
+      "genres": [
+        "Funk",
+        "Pop"
+      ],
+      "title": "Komm Doch",
+      "author": "Die Caufner-Schwestern"
+    },
+    {
+      "genres": [
+        "Singer/Songwriter",
+        "Folk"
+      ],
+      "album": "Indigo Girls",
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "platform": 0,
+      "author": "Indigo Girls",
+      "title": "Closer to Fine",
+      "countries": [
+        "US"
+      ],
+      "releaseYear": 1989,
+      "id": 5,
+      "languages": [
+        "en"
+      ],
+      "addedDate": "2026-04-10T22:06:04.816Z",
+      "url": "https://youtu.be/HUgwM1Ky228"
+    },
+    {
+      "countries": [
+        "FR"
+      ],
+      "releaseYear": 2025,
+      "languages": [
+        "fr"
+      ],
+      "id": 6,
+      "addedDate": "2026-04-10T22:12:14.066Z",
+      "url": "https://youtu.be/68QgnSg_AI8",
+      "genres": [
+        "French Pop",
+        "Pop"
+      ],
+      "album": "Millénium",
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "platform": 0,
+      "author": "Suzane",
+      "title": "Virile"
+    },
+    {
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "platform": 0,
+      "countries": [
+        "JP"
+      ],
+      "releaseYear": 2016,
+      "url": "https://youtu.be/AJyzjV50tS8",
+      "title": "Valse Di Fantastica",
+      "author": "Yoko Shimomura",
+      "album": "FINAL FANATASY XV Original Soundtrack",
+      "addedDate": "2026-04-10T23:46:47.264Z",
+      "id": 10,
+      "languages": [
+        "ins"
+      ],
+      "genres": [
+        "Classical",
+        "Soundtrack",
+        "Video Game Music"
+      ]
+    },
+    {
+      "countries": [
+        "JP"
+      ],
+      "url": "https://youtu.be/t75qlQPXJGw",
+      "title": "千鳥",
+      "author": "ヨルシカ",
+      "addedDate": "2026-04-11T00:18:07.787Z",
+      "album": "二人称",
+      "languages": [
+        "ja"
+      ],
+      "genres": [
+        "J-Rock"
+      ],
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "platform": 0,
+      "releaseYear": 2026,
+      "altTitles": [
+        "Plover"
+      ],
+      "id": 11
+    },
+    {
+      "countries": [
+        "US"
+      ],
+      "releaseYear": 1999,
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "album": "No Exit",
+      "addedDate": "2026-04-11T00:55:28.544Z",
+      "genres": [
+        "Pop",
+        "New Wave"
+      ],
+      "languages": [
+        "en"
+      ],
+      "platform": 0,
+      "url": "https://youtu.be/6ZAWNgEbdqA",
+      "title": "Maria",
+      "id": 12,
+      "author": "Blondie"
+    },
+    {
+      "releaseYear": 1986,
+      "countries": [
+        "GB"
+      ],
+      "album": "Different Light",
+      "user": "MFyRF6jk8kNxWf9shdHTlkpMmRt1",
+      "addedDate": "2026-04-11T01:15:20.904Z",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "languages": [
+        "en"
+      ],
+      "platform": 0,
+      "url": "https://www.youtube.com/watch?v=Cv6tuzHUuuk",
+      "author": "The Bangles",
+      "id": 13,
+      "title": "Walk Like an Egyptian"
+    },
+    {
+      "author": "Jeanne",
+      "platform": 0,
+      "addedDate": "2026-04-11T04:10:32.104Z",
+      "countries": [
+        "FR"
+      ],
+      "title": "Respire Fort",
+      "id": 15,
+      "url": "https://youtu.be/Vy_n8q7NLHA",
+      "languages": [
+        "fr"
+      ],
+      "releaseYear": 2025,
+      "album": "Respire Fort",
+      "genres": [
+        "French Pop"
+      ],
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2"
+    },
+    {
+      "releaseYear": 2002,
+      "album": "Star",
+      "languages": [
+        "en"
+      ],
+      "platform": 0,
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "title": "Just The Way You Are",
+      "addedDate": "2026-04-11T21:20:07.605Z",
+      "url": "https://www.youtube.com/watch?v=Hx6WuGfOV0Q",
+      "author": " Milky",
+      "countries": [
+        "IT"
+      ],
+      "id": 16,
+      "genres": [
+        "Dance",
+        "Pop"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7on4WMXq3e8",
+      "author": "Annahstasia",
+      "id": 17,
+      "countries": [
+        "US"
+      ],
+      "genres": [
+        "Singer/Songwriter",
+        "Folk",
+        "Indie Folk",
+        "Soul"
+      ],
+      "platform": 0,
+      "title": "Be Kind",
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "addedDate": "2026-04-11T21:22:36.833Z",
+      "languages": [
+        "en"
+      ],
+      "releaseYear": 2025,
+      "album": "Tether"
+    },
+    {
+      "id": 18,
+      "album": "Read My Lips",
+      "platform": 0,
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "url": "https://youtu.be/hAx6mYeC6pY",
+      "releaseYear": 2001,
+      "languages": [
+        "en"
+      ],
+      "title": "Murder On The Dancefloor",
+      "author": "Sophie Ellis-Bextor",
+      "countries": [
+        "GB"
+      ],
+      "genres": [
+        "Pop",
+        "House",
+        "Nu Disco"
+      ],
+      "addedDate": "2026-04-12T19:11:02.172Z"
+    },
+    {
+      "platform": 0,
+      "url": "https://youtu.be/HfXmXQ9nxWY",
+      "author": "Theodora",
+      "genres": [
+        "Rap",
+        "Hip-Hop"
+      ],
+      "title": "FASHION DESIGNA",
+      "releaseYear": 2024,
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2",
+      "id": 19,
+      "countries": [
+        "FR",
+        "CD"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "album": "BAD BOY LOVESTORY",
+      "addedDate": "2026-04-12T19:36:59.971Z"
+    },
+    {
+      "addedDate": "2026-04-12T20:22:03.599Z",
+      "album": "I Shot Cupid",
+      "languages": [
+        "en"
+      ],
+      "countries": [
+        "US"
+      ],
+      "id": 20,
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "releaseYear": 2021,
+      "title": "I Shot Cupid",
+      "genres": [
+        "Pop"
+      ],
+      "url": "https://www.youtube.com/watch?v=kE7xB8nyiJo",
+      "platform": 0,
+      "author": "Stella Cole"
+    },
+    {
+      "languages": [
+        "en"
+      ],
+      "id": 21,
+      "album": "DEMIDEVIL",
+      "author": "Ashnikko",
+      "platform": 0,
+      "title": "Slumber Party",
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "releaseYear": 2021,
+      "genres": [
+        "Electronic",
+        "Glitch",
+        "Alternative",
+        "Pop",
+        "Bubblegum"
+      ],
+      "featuring": [
+        "Princess Nokia"
+      ],
+      "countries": [
+        "US"
+      ],
+      "addedDate": "2026-04-12T20:24:53.414Z",
+      "url": "https://youtu.be/luZyMQjPTkM"
+    },
+    {
+      "releaseYear": 2012,
+      "album": "Electra Heart",
+      "platform": 0,
+      "addedDate": "2026-04-12T20:27:28.566Z",
+      "id": 22,
+      "url": "https://www.youtube.com/watch?v=Gj5L9SYhoSE",
+      "countries": [
+        "GB"
+      ],
+      "genres": [
+        "Eurodance",
+        "Electro"
+      ],
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "languages": [
+        "en"
+      ],
+      "title": "PRIMADONNA",
+      "author": "Marina and the Diamonds"
+    },
+    {
+      "platform": 0,
+      "album": "Cacophony",
+      "releaseYear": 2023,
+      "countries": [
+        "GB"
+      ],
+      "url": "https://youtu.be/jvU4xWsN7-A",
+      "id": 23,
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "title": "labour",
+      "languages": [
+        "en"
+      ],
+      "author": "Paris Paloma",
+      "genres": [
+        "Folk",
+        "Indie Folk"
+      ],
+      "addedDate": "2026-04-12T20:29:24.518Z"
+    },
+    {
+      "addedDate": "2026-04-12T20:32:29.206Z",
+      "id": 24,
+      "url": "https://youtu.be/JV_X4AdRBwU",
+      "countries": [
+        "US"
+      ],
+      "genres": [
+        "Pop",
+        "Electro"
+      ],
+      "author": "Kesha",
+      "user": "gvb2XFss0fQgKOXEuq1eIne4sdI2",
+      "languages": [
+        "en"
+      ],
+      "title": "Grow A Pear",
+      "releaseYear": 2010,
+      "platform": 0,
+      "album": "Cannibal"
+    },
+    {
+      "title": "Fire With Fire",
+      "addedDate": "2026-04-13T17:21:47.024Z",
+      "platform": 0,
+      "user": "JvVTL2HLvTcIDlekbIVs0sShzW33",
+      "author": "AlicebanD",
+      "countries": [
+        "GB"
+      ],
+      "url": "https://www.youtube.com/watch?v=2YnvsRuIuQw",
+      "releaseYear": 2014,
+      "id": 25,
+      "languages": [
+        "en"
+      ],
+      "album": "Aliceband"
+    },
+    {
+      "countries": [
+        "AU",
+        "GB"
+      ],
+      "languages": [
+        "ins"
+      ],
+      "author": "Bond",
+      "releaseYear": 2004,
+      "user": "JvVTL2HLvTcIDlekbIVs0sShzW33",
+      "url": "https://www.youtube.com/watch?v=HiaOFOMPOBc",
+      "id": 27,
+      "platform": 0,
+      "addedDate": "2026-04-13T17:28:28.948Z",
+      "title": "Explosive"
+    },
+    {
+      "title": "Choose Me For Champion",
+      "id": 28,
+      "addedDate": "2026-04-13T17:41:24.201Z",
+      "platform": 0,
+      "languages": [
+        "en"
+      ],
+      "author": "Rasputina",
+      "releaseYear": 2007,
+      "url": "https://www.youtube.com/watch?v=B0zWSg9gHv8",
+      "user": "JvVTL2HLvTcIDlekbIVs0sShzW33",
+      "countries": [
+        "US"
+      ],
+      "album": "Oh Perilous World"
+    },
+    {
+      "countries": [
+        "CA"
+      ],
+      "album": "Visions",
+      "languages": [
+        "en"
+      ],
+      "author": "Grimes",
+      "user": "JvVTL2HLvTcIDlekbIVs0sShzW33",
+      "url": "https://www.youtube.com/watch?v=S8HrvII7gU0",
+      "releaseYear": 2012,
+      "id": 29,
+      "platform": 0,
+      "addedDate": "2026-04-13T17:42:23.034Z",
+      "title": "Oblivion"
+    },
+    {
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "id": 30,
+      "url": "https://www.youtube.com/watch?v=YMYqvPHLjjM",
+      "countries": [
+        "US"
+      ],
+      "releaseYear": 2024,
+      "user": "JvVTL2HLvTcIDlekbIVs0sShzW33",
+      "platform": 0,
+      "addedDate": "2026-04-14T02:19:19.029Z",
+      "author": " Madelline",
+      "title": "Dopamine (Split Brain Version)"
+    },
+    {
+      "languages": [
+        "ins"
+      ],
+      "releaseYear": 2018,
+      "album": "INSCAPE",
+      "url": "https://youtu.be/xmgWIWQvsak?si=REIF98l-dfTVj_tE",
+      "author": "Alexandra Stréliski",
+      "countries": [
+        "CA"
+      ],
+      "id": 31,
+      "genres": [
+        "Classical Crossover"
+      ],
+      "platform": 0,
+      "title": "Le Nouveau Départ",
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "addedDate": "2026-04-22T03:22:06.415Z"
+    },
+    {
+      "id": 32,
+      "languages": [
+        "ja"
+      ],
+      "url": "https://youtu.be/Q_XMz5X0_Wk?si=cNTp0MR36Rn4upVR",
+      "altTitles": [
+        "Senya Ichiya",
+        "A Thousand and One Nights"
+      ],
+      "title": "千夜一夜",
+      "author": "See-Saw",
+      "platform": 0,
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "album": "Dream Field",
+      "genres": [
+        "Anime"
+      ],
+      "countries": [
+        "JP"
+      ],
+      "addedDate": "2026-04-24T03:41:24.140Z"
+    },
+    {
+      "releaseYear": 2024,
+      "album": "Tavern",
+      "languages": [
+        "en"
+      ],
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "id": 33,
+      "genres": [
+        "Rock",
+        "Folk",
+        "Celtic"
+      ],
+      "author": "Patty Gurdy",
+      "addedDate": "2026-04-24T06:40:11.684Z",
+      "title": "Find me some pretty girls",
+      "countries": [
+        "DE"
+      ],
+      "platform": 0,
+      "url": "https://youtu.be/AHrr-pnMv-U",
+      "featuring": [
+        "Adaya & Pernilla Kannapinn"
+      ]
+    },
+    {
+      "releaseYear": 2025,
+      "platform": 0,
+      "title": "Circe",
+      "languages": [
+        "en"
+      ],
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "album": "Circe - Single",
+      "id": 34,
+      "genres": [
+        "Pop"
+      ],
+      "url": "https://youtu.be/tLaaaQZQ51k?si=k7w3VMln_3pO9MBp",
+      "author": "Lilith Max",
+      "addedDate": "2026-04-25T03:12:59.342Z"
+    },
+    {
+      "genres": [
+        "J-Pop"
+      ],
+      "addedDate": "2026-04-25T03:22:09.248Z",
+      "author": "ファントムシータ (Phantom Siita)",
+      "releaseYear": 2024,
+      "id": 35,
+      "album": "Otomodachi - Single",
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "url": "https://youtu.be/jMsbCJ6NFS0?si=ztw1YmNYDAP5ERqu",
+      "title": "おともだち",
+      "platform": 0,
+      "countries": [
+        "JP"
+      ],
+      "altTitles": [
+        "Otomodachi",
+        "Friend"
+      ]
+    },
+    {
+      "platform": 0,
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "genres": [
+        "J-Pop"
+      ],
+      "author": "Ado",
+      "addedDate": "2026-04-28T02:40:17.321Z",
+      "id": 36,
+      "altTitles": [
+        "Vivarium"
+      ],
+      "countries": [
+        "JP"
+      ],
+      "releaseYear": 2026,
+      "url": "https://youtu.be/YvYii6dluM8",
+      "languages": [
+        "ja"
+      ],
+      "title": "ビバリウム"
+    },
+    {
+      "id": 37,
+      "platform": 0,
+      "user": "qnQiMpOFk9Y8iA1f5qRt0hIEVe13",
+      "releaseYear": 2026,
+      "author": "HANA",
+      "addedDate": "2026-04-28T05:17:35.533Z",
+      "countries": [
+        "JP"
+      ],
+      "genres": [
+        "Electro",
+        "Pop"
+      ],
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "title": "Cold Night",
+      "url": "https://www.youtube.com/watch?v=y0buouJde-g"
+    },
+    {
+      "author": "Katie Costello",
+      "languages": [
+        "en"
+      ],
+      "id": 38,
+      "url": "https://youtu.be/HNARuv_LnHE?si=eORjNaV6MfLaJe2u",
+      "genres": [
+        "Alternative"
+      ],
+      "title": "Stranger",
+      "releaseYear": 2011,
+      "addedDate": "2026-04-29T02:37:06.371Z",
+      "platform": 0,
+      "user": "bVuUaytBfDZXxfKFjg5hAzxlmbK2",
+      "album": "Lamplight",
+      "countries": [
+        "US"
+      ]
+    },
+    {
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "addedDate": "2026-04-29T21:45:54.874Z",
+      "genres": [
+        "Pop",
+        "Classical"
+      ],
+      "author": "Diana Boncheva",
+      "countries": [
+        "BG"
+      ],
+      "languages": [
+        "ins"
+      ],
+      "title": "Beethoven Virus",
+      "releaseYear": 2006,
+      "url": "https://youtu.be/KQgjHRwMPZQ",
+      "id": 39,
+      "platform": 0
+    },
+    {
+      "genres": [
+        "French Pop"
+      ],
+      "countries": [
+        "FR"
+      ],
+      "author": "Clara Luciani",
+      "album": "Sainte Victoire",
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "addedDate": "2026-04-29T21:58:51.400Z",
+      "url": "https://www.youtube.com/watch?v=85m-Qgo9_nE",
+      "id": 40,
+      "platform": 0,
+      "languages": [
+        "fr"
+      ],
+      "title": "La grenade",
+      "releaseYear": 2018
+    },
+    {
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "addedDate": "2026-05-02T16:27:29.570Z",
+      "author": "Avril Lavigne",
+      "url": "https://www.youtube.com/watch?v=Bg59q4puhmg",
+      "platform": 0,
+      "id": 41,
+      "album": "Girlfriend EP",
+      "countries": [
+        "US",
+        "CA"
+      ],
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "title": "Girlfriend",
+      "releaseYear": 2007,
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "user": "3OvnjaJEQfhz9FfizrSKE9vH23p2",
+      "author": "Konomi Suzuki",
+      "releaseYear": 2012,
+      "genres": [
+        "Anime",
+        "J-Pop"
+      ],
+      "countries": [
+        "JP"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "id": 42,
+      "title": "CHOIR JAIL",
+      "addedDate": "2026-05-08T09:19:19.918Z",
+      "url": "https://youtu.be/lyDAsYdNtt0",
+      "platform": 0
+    },
+    {
+      "title": "A Map, a String, a Light",
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "platform": 0,
+      "addedDate": "2026-05-10T07:52:49.821Z",
+      "url": "https://youtu.be/5Qan3oVLuIg",
+      "album": "Acoustics EP",
+      "genres": [
+        "Soft Rock"
+      ],
+      "author": "Yvette Young",
+      "releaseYear": 2014,
+      "countries": [
+        "US"
+      ],
+      "id": 43,
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "id": 44,
+      "languages": [
+        "en"
+      ],
+      "author": "t.A.T.u",
+      "countries": [
+        "RU"
+      ],
+      "releaseYear": 2002,
+      "album": "200 KM/H In The Wrong Lane",
+      "genres": [
+        "Russian Pop"
+      ],
+      "addedDate": "2026-05-10T07:55:08.822Z",
+      "platform": 0,
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "title": "All The Things She Said",
+      "url": "https://youtu.be/8mGBaXPlri8"
+    },
+    {
+      "author": "Cascada",
+      "releaseYear": 2009,
+      "countries": [
+        "GB"
+      ],
+      "languages": [
+        "en"
+      ],
+      "id": 45,
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "title": "Evacuate the Dancefloor",
+      "addedDate": "2026-05-10T07:56:48.044Z",
+      "platform": 0,
+      "url": "https://youtu.be/A68j28KQaik",
+      "album": "Evacuate the Dancefloor",
+      "genres": [
+        "Eurodance"
+      ]
+    },
+    {
+      "featuring": [
+        "Doechii"
+      ],
+      "url": "https://youtu.be/XXIX2WnfbpE",
+      "title": "RUNWAY",
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2",
+      "addedDate": "2026-05-10T08:16:48.898Z",
+      "platform": 0,
+      "album": "The Devil Wears Prada 2",
+      "releaseYear": 2026,
+      "author": "Lady Gaga",
+      "languages": [
+        "en"
+      ],
+      "genres": [
+        "Pop",
+        "Dance"
+      ],
+      "countries": [
+        "US"
+      ],
+      "id": 47
+    },
+    {
+      "genres": [
+        "J-Pop",
+        "Rap"
+      ],
+      "id": 48,
+      "releaseYear": 202,
+      "title": "Easy Breezy",
+      "author": "chelmico",
+      "languages": [
+        "ja"
+      ],
+      "addedDate": "2026-05-11T06:45:39.344Z",
+      "countries": [
+        "JP"
+      ],
+      "platform": 0,
+      "album": "Easy Breezy",
+      "url": "https://youtu.be/76sNmqMzUuI",
+      "user": "jafbSws5qOMtuM7jj6NWQ2QTEsl2"
+    },
+    {
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2",
+      "genres": [
+        "Britpop",
+        "Dance",
+        "Pop",
+        "Speed Garage"
+      ],
+      "releaseYear": 2026,
+      "addedDate": "2026-05-11T20:51:35.975Z",
+      "countries": [
+        "GB"
+      ],
+      "title": "Girl Like Me",
+      "platform": 0,
+      "url": "https://www.youtube.com/watch?v=qRAJowgHqxA",
+      "author": "PinkPantheress",
+      "id": 49,
+      "languages": [
+        "en"
+      ]
+    },
+    {
+      "languages": [
+        "en"
+      ],
+      "author": "Bjork",
+      "id": 50,
+      "url": "https://www.youtube.com/watch?v=9bVz6R5e8fA",
+      "platform": 0,
+      "title": "Venus as a Boy",
+      "countries": [
+        "IS"
+      ],
+      "album": "Debut",
+      "addedDate": "2026-05-11T21:20:47.260Z",
+      "releaseYear": 1993,
+      "genres": [
+        "Pop"
+      ],
+      "user": "zFJuPem5jXU4eZSvo1de82LlF1W2"
+    },
+    {
+      "countries": [
+        "CA"
+      ],
+      "id": 51,
+      "releaseYear": 2023,
+      "album": " 99 Nights (Edition Deluxe)",
+      "title": "Feel Good",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "platform": 0,
+      "url": "https://youtu.be/_eUYB7M4EDE",
+      "addedDate": "2026-05-14T23:48:18.325Z",
+      "genres": [
+        "Pop"
+      ],
+      "author": "Charlotte Cardin",
+      "user": "v6Zc3x12BsVNJTyk5U00vvqhsmx2"
+    }
+  ]
+}
