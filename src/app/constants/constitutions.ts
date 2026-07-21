@@ -18,6 +18,7 @@ import T1 from '../../assets/constitutions/T1.json';
 import T2 from '../../assets/constitutions/T2.json';
 import T3 from '../../assets/constitutions/T3.json';
 import T4 from '../../assets/constitutions/T4.json';
+import T5 from '../../assets/constitutions/T5.json';
 import X1 from '../../assets/constitutions/X1.json';
 import X2 from '../../assets/constitutions/X2.json';
 import X3 from '../../assets/constitutions/X3.json';
@@ -52,7 +53,7 @@ export type DataConstitution = {
 
 export const ALL_CONSTITUTIONS_DATA: DataConstitution[] = [
   C1, C2, C3, C4, C5, C6, C7, C8, C9, C10,
-  T1, T2, T3, T4,
+  T1, T2, T3, T4, T5,
   X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15, X16,
   XM, XM2
 ]
